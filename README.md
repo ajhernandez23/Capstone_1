@@ -1,1 +1,1 @@
-# Capstone_1
+The task of analyzing data for the bookstore EmporiUm for sales manager Bo Heap, sales manager for the Massachusetts territory. EmporiUm sells products such as books, art supplies, tech products and other miscellaneous products. EmporiUm has multiple stores in select locations and also offers online sales to majority of the US. Questions regarding the Massachusetts territory were addressed and charts were created for visual representation of the data. 
