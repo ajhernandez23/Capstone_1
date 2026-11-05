@@ -1,0 +1,2402 @@
+ShiptoState,Categoryid,Product,month(Date),count(Date)
+Massachusetts,100,"Introduction to Archaeology",1,6
+Massachusetts,100,"SAT Math Essentials",1,7
+Massachusetts,100,"Introduction to Psychology",1,6
+Massachusetts,100,"Marketing Fundamentals",1,8
+Massachusetts,100,"Human Resource Management",1,6
+Massachusetts,100,"Microeconomics: An Introduction",1,6
+Massachusetts,100,"Corporate Finance",1,6
+Massachusetts,100,"Entrepreneurship and Innovation",1,7
+Massachusetts,100,"Robotics: Concepts and Control",1,8
+Massachusetts,100,"Introduction to Public Health",1,5
+Massachusetts,100,"Principles of Accounting",1,7
+Massachusetts,100,"International Relations Today",1,4
+Massachusetts,100,"MCAT Biology and Biochemistry",1,6
+Massachusetts,100,"Medical Terminology",1,7
+Massachusetts,100,"Business Law Today",1,7
+Massachusetts,100,"Nutrition for Health and Fitness",1,4
+Massachusetts,100,"Signal Processing",1,2
+Massachusetts,100,"Physics for Scientists and Engineers",1,4
+Massachusetts,100,"American History Since 1865",1,4
+Massachusetts,100,"Art History: The Renaissance to Modernism",1,3
+Massachusetts,100,"Organizational Behavior",1,2
+Massachusetts,100,"Introduction to Electrical Engineering",1,2
+Massachusetts,100,"Statistical Inference",1,2
+Massachusetts,100,"Fluid Mechanics",1,1
+Massachusetts,100,"Data Structures and Algorithms",1,2
+Massachusetts,100,"Pharmacology: A Comprehensive Guide",1,2
+Massachusetts,100,"International Relations Today",2,4
+Massachusetts,100,"Nutrition for Health and Fitness",2,6
+Massachusetts,100,"Introduction to Psychology",2,8
+Massachusetts,100,"Operations Management",2,2
+Massachusetts,100,"Microeconomics: An Introduction",2,6
+Massachusetts,100,"Business Law Today",2,6
+Massachusetts,100,"Medical Terminology",2,6
+Massachusetts,100,"Principles of Accounting",2,6
+Massachusetts,100,"MCAT Biology and Biochemistry",2,6
+Massachusetts,100,"Marketing Fundamentals",2,6
+Massachusetts,100,"Research Methods in Social Sciences",2,2
+Massachusetts,100,"Signal Processing",2,4
+Massachusetts,100,"Pathophysiology Essentials",2,2
+Massachusetts,100,"Corporate Finance",2,6
+Massachusetts,100,"Human Resource Management",2,6
+Massachusetts,100,"SAT Math Essentials",2,6
+Massachusetts,100,"Physics for Scientists and Engineers",2,4
+Massachusetts,100,"American History Since 1865",2,4
+Massachusetts,100,"Introduction to Archaeology",2,5
+Massachusetts,100,"Entrepreneurship and Innovation",2,4
+Massachusetts,100,"Robotics: Concepts and Control",2,4
+Massachusetts,100,"Introduction to Public Health",2,3
+Massachusetts,100,"Sports Management",2,2
+Massachusetts,100,"Computer Programming: A Practical Introduction",2,2
+Massachusetts,100,"Statistical Inference",2,2
+Massachusetts,100,"Organic Chemistry II",2,2
+Massachusetts,100,"International Business",2,2
+Massachusetts,100,"Applied Linguistics",2,2
+Massachusetts,100,"Circuits and Systems",2,2
+Massachusetts,100,"Fundamentals of Nursing",2,2
+Massachusetts,100,"Introduction to Archaeology",3,6
+Massachusetts,100,"Operations Management",3,2
+Massachusetts,100,"International Relations Today",3,6
+Massachusetts,100,"Introduction to Psychology",3,8
+Massachusetts,100,"Nutrition for Health and Fitness",3,9
+Massachusetts,100,"Introduction to Public Health",3,5
+Massachusetts,100,"American History Since 1865",3,6
+Massachusetts,100,"Corporate Finance",3,6
+Massachusetts,100,"Marketing Fundamentals",3,5
+Massachusetts,100,"Physics for Scientists and Engineers",3,6
+Massachusetts,100,"Medical Terminology",3,7
+Massachusetts,100,"Human Resource Management",3,6
+Massachusetts,100,"Entrepreneurship and Innovation",3,2
+Massachusetts,100,"Research Methods in Social Sciences",3,5
+Massachusetts,100,"Microeconomics: An Introduction",3,6
+Massachusetts,100,"MCAT Biology and Biochemistry",3,6
+Massachusetts,100,"Principles of Accounting",3,7
+Massachusetts,100,"Signal Processing",3,6
+Massachusetts,100,"Robotics: Concepts and Control",3,5
+Massachusetts,100,"SAT Math Essentials",3,3
+Massachusetts,100,"Pathophysiology Essentials",3,3
+Massachusetts,100,"Business Law Today",3,5
+Massachusetts,100,"Introduction to Archaeology",4,7
+Massachusetts,100,"International Relations Today",4,9
+Massachusetts,100,"Operations Management",4,4
+Massachusetts,100,"Introduction to Psychology",4,9
+Massachusetts,100,"Nutrition for Health and Fitness",4,9
+Massachusetts,100,"Robotics: Concepts and Control",4,7
+Massachusetts,100,"Principles of Accounting",4,7
+Massachusetts,100,"Signal Processing",4,6
+Massachusetts,100,"Introduction to Public Health",4,6
+Massachusetts,100,"American History Since 1865",4,6
+Massachusetts,100,"Entrepreneurship and Innovation",4,6
+Massachusetts,100,"Corporate Finance",4,6
+Massachusetts,100,"Medical Terminology",4,4
+Massachusetts,100,"SAT Math Essentials",4,5
+Massachusetts,100,"Human Resource Management",4,5
+Massachusetts,100,"Microeconomics: An Introduction",4,6
+Massachusetts,100,"Marketing Fundamentals",4,8
+Massachusetts,100,"Physics for Scientists and Engineers",4,6
+Massachusetts,100,"MCAT Biology and Biochemistry",4,7
+Massachusetts,100,"Business Law Today",4,4
+Massachusetts,100,"Research Methods in Social Sciences",4,4
+Massachusetts,100,"International Business",4,4
+Massachusetts,100,"Machine Learning Basics",4,3
+Massachusetts,100,"Software Engineering Concepts",4,3
+Massachusetts,100,"Chinese Characters Made Easy",4,2
+Massachusetts,100,"Calculus I",4,2
+Massachusetts,100,"Mathematical Modeling",4,2
+Massachusetts,100,"Criminology: A Contemporary Introduction",4,1
+Massachusetts,100,"Geometry: A Comprehensive Guide",4,2
+Massachusetts,100,"French Grammar and Composition",4,2
+Massachusetts,100,"Networking Fundamentals",4,2
+Massachusetts,100,"Introduction to Cybersecurity",4,2
+Massachusetts,100,"Japanese for Travelers",4,2
+Massachusetts,100,"Political Science: Theory and Practice",4,2
+Massachusetts,100,"Organic Chemistry I",4,2
+Massachusetts,100,Sociolinguistics,4,2
+Massachusetts,100,"Game Development Essentials",4,2
+Massachusetts,100,"Discrete Mathematics",4,2
+Massachusetts,100,"The Art of Writing",4,2
+Massachusetts,100,"Organic Chemistry II",4,2
+Massachusetts,100,"Computer Programming: A Practical Introduction",4,2
+Massachusetts,100,"Principles of Biochemistry",4,2
+Massachusetts,100,"American Literature: A Survey",4,2
+Massachusetts,100,"Strategic Management",4,2
+Massachusetts,100,"Data Structures and Algorithms",4,2
+Massachusetts,100,"The Basics of Anthropology",4,2
+Massachusetts,100,"Spanish for Beginners",4,2
+Massachusetts,100,"Introduction to Film Studies",4,2
+Massachusetts,100,"Molecular Biology",4,2
+Massachusetts,100,"Artificial Intelligence: Principles and Practice",4,1
+Massachusetts,100,"Introduction to Archaeology",5,9
+Massachusetts,100,"Introduction to Psychology",5,10
+Massachusetts,100,"Operations Management",5,3
+Massachusetts,100,"Principles of Accounting",5,8
+Massachusetts,100,"Human Resource Management",5,6
+Massachusetts,100,"International Relations Today",5,6
+Massachusetts,100,"Microeconomics: An Introduction",5,8
+Massachusetts,100,"SAT Math Essentials",5,8
+Massachusetts,100,"Robotics: Concepts and Control",5,9
+Massachusetts,100,"Nutrition for Health and Fitness",5,10
+Massachusetts,100,"Signal Processing",5,10
+Massachusetts,100,"Entrepreneurship and Innovation",5,7
+Massachusetts,100,"Corporate Finance",5,7
+Massachusetts,100,"Physics for Scientists and Engineers",5,5
+Massachusetts,100,"Medical Terminology",5,7
+Massachusetts,100,"Marketing Fundamentals",5,5
+Massachusetts,100,"Introduction to Public Health",5,6
+Massachusetts,100,"Business Law Today",5,5
+Massachusetts,100,"American History Since 1865",5,5
+Massachusetts,100,"MCAT Biology and Biochemistry",5,5
+Massachusetts,100,"Sports Management",5,3
+Massachusetts,100,"Art History: The Renaissance to Modernism",5,3
+Massachusetts,100,"Discrete Mathematics",5,3
+Massachusetts,100,"Geometry: A Comprehensive Guide",5,3
+Massachusetts,100,"Chinese Characters Made Easy",5,2
+Massachusetts,100,"Software Engineering Concepts",5,3
+Massachusetts,100,"Statistical Inference",5,3
+Massachusetts,100,"Networking Fundamentals",5,2
+Massachusetts,100,"Artificial Intelligence: Principles and Practice",5,2
+Massachusetts,100,"Machine Learning Basics",5,1
+Massachusetts,100,"Japanese for Travelers",5,2
+Massachusetts,100,"Spanish for Beginners",5,2
+Massachusetts,100,"Introduction to Film Studies",5,2
+Massachusetts,100,"Mathematical Modeling",5,2
+Massachusetts,100,"Introduction to Databases",5,2
+Massachusetts,100,"Principles of Sociology",5,2
+Massachusetts,100,"Organic Chemistry II",5,2
+Massachusetts,100,"Organic Chemistry I",5,2
+Massachusetts,100,"Game Development Essentials",5,2
+Massachusetts,100,"The Art of Writing",5,2
+Massachusetts,100,"Numerical Methods",5,2
+Massachusetts,100,"Principles of Biochemistry",5,2
+Massachusetts,100,"Data Structures and Algorithms",5,2
+Massachusetts,100,"Adolescent Psychology",5,2
+Massachusetts,100,"French Grammar and Composition",5,2
+Massachusetts,100,"Calculus I",5,2
+Massachusetts,100,"Anatomy and Physiology",5,2
+Massachusetts,100,"GMAT Study Guide",5,2
+Massachusetts,100,"Pathophysiology Essentials",5,2
+Massachusetts,100,"Research Methods in Social Sciences",5,2
+Massachusetts,100,"Phonetics and Phonology",5,2
+Massachusetts,100,"Political Science: Theory and Practice",5,2
+Massachusetts,100,"The Basics of Anthropology",5,2
+Massachusetts,100,"Business Law Today",6,8
+Massachusetts,100,"Microeconomics: An Introduction",6,9
+Massachusetts,100,"Robotics: Concepts and Control",6,9
+Massachusetts,100,"Signal Processing",6,10
+Massachusetts,100,"SAT Math Essentials",6,9
+Massachusetts,100,"American History Since 1865",6,8
+Massachusetts,100,"Introduction to Psychology",6,6
+Massachusetts,100,"Introduction to Public Health",6,9
+Massachusetts,100,"MCAT Biology and Biochemistry",6,6
+Massachusetts,100,"Human Resource Management",6,10
+Massachusetts,100,"Introduction to Archaeology",6,10
+Massachusetts,100,"Corporate Finance",6,8
+Massachusetts,100,"Operations Management",6,2
+Massachusetts,100,"Nutrition for Health and Fitness",6,10
+Massachusetts,100,"International Relations Today",6,8
+Massachusetts,100,"Principles of Accounting",6,8
+Massachusetts,100,"Entrepreneurship and Innovation",6,9
+Massachusetts,100,"Medical Terminology",6,8
+Massachusetts,100,"Marketing Fundamentals",6,9
+Massachusetts,100,"Physics for Scientists and Engineers",6,6
+Massachusetts,100,"Introduction to Mechanical Engineering",6,3
+Massachusetts,100,"Mental Health Nursing",6,3
+Massachusetts,100,"Geometry: A Comprehensive Guide",6,3
+Massachusetts,100,"Principles of Biochemistry",6,3
+Massachusetts,100,"French Grammar and Composition",6,3
+Massachusetts,100,"GMAT Study Guide",6,2
+Massachusetts,100,"Molecular Biology",6,2
+Massachusetts,100,"Fundamentals of Thermodynamics",6,2
+Massachusetts,100,"Numerical Methods",6,2
+Massachusetts,100,"Applied Linguistics",6,2
+Massachusetts,100,"Data Structures and Algorithms",6,2
+Massachusetts,100,"Political Science: Theory and Practice",6,2
+Massachusetts,100,"Introduction to Cybersecurity",6,2
+Massachusetts,100,"Materials Science and Engineering",6,2
+Massachusetts,100,"Game Development Essentials",6,2
+Massachusetts,100,"Macroeconomics: Concepts and Applications",6,2
+Massachusetts,100,"Chinese Characters Made Easy",6,2
+Massachusetts,100,"Pharmacology: A Comprehensive Guide",6,1
+Massachusetts,100,"Clinical Anatomy",6,2
+Massachusetts,100,"American Literature: A Survey",6,2
+Massachusetts,100,"Art History: The Renaissance to Modernism",6,2
+Massachusetts,100,"Organic Chemistry II",6,2
+Massachusetts,100,"Adolescent Psychology",6,2
+Massachusetts,100,"Introduction to Databases",6,2
+Massachusetts,100,"Mathematical Modeling",6,2
+Massachusetts,100,"Criminology: A Contemporary Introduction",6,2
+Massachusetts,100,"Phonetics and Phonology",6,2
+Massachusetts,100,"The Art of Writing",6,2
+Massachusetts,100,"Sports Management",6,2
+Massachusetts,100,"Software Engineering Concepts",6,2
+Massachusetts,100,"Fundamentals of Nursing",6,2
+Massachusetts,100,"Strategic Management",6,2
+Massachusetts,100,"Fluid Mechanics",6,2
+Massachusetts,100,"Organic Chemistry I",6,2
+Massachusetts,100,"Artificial Intelligence: Principles and Practice",6,2
+Massachusetts,100,"Organizational Behavior",6,2
+Massachusetts,100,"Machine Learning Basics",6,2
+Massachusetts,100,"Forensic Science",6,2
+Massachusetts,100,"Discrete Mathematics",6,2
+Massachusetts,100,"Business Law Today",7,6
+Massachusetts,100,"Circuits and Systems",7,3
+Massachusetts,100,"Microeconomics: An Introduction",7,9
+Massachusetts,100,"Materials Science and Engineering",7,3
+Massachusetts,100,"MCAT Biology and Biochemistry",7,8
+Massachusetts,100,"Human Resource Management",7,7
+Massachusetts,100,"Physical Therapy Principles",7,2
+Massachusetts,100,"Robotics: Concepts and Control",7,8
+Massachusetts,100,"Corporate Finance",7,8
+Massachusetts,100,"Signal Processing",7,7
+Massachusetts,100,"Fluid Mechanics",7,2
+Massachusetts,100,"International Business",7,2
+Massachusetts,100,"Medical Terminology",7,6
+Massachusetts,100,"Marketing Fundamentals",7,8
+Massachusetts,100,"International Relations Today",7,8
+Massachusetts,100,"Operations Management",7,2
+Massachusetts,100,"SAT Math Essentials",7,8
+Massachusetts,100,"Principles of Accounting",7,7
+Massachusetts,100,"American History Since 1865",7,9
+Massachusetts,100,"Clinical Anatomy",7,4
+Massachusetts,100,"Entrepreneurship and Innovation",7,9
+Massachusetts,100,"Nutrition for Health and Fitness",7,7
+Massachusetts,100,"Introduction to Mechanical Engineering",7,2
+Massachusetts,100,"Introduction to Psychology",7,7
+Massachusetts,100,"Computer Programming: A Practical Introduction",7,2
+Massachusetts,100,"Macroeconomics: Concepts and Applications",7,4
+Massachusetts,100,"Introduction to Public Health",7,5
+Massachusetts,100,"Strategic Management",7,2
+Massachusetts,100,"Physics for Scientists and Engineers",7,8
+Massachusetts,100,"Introduction to Archaeology",7,6
+Massachusetts,100,"Numerical Methods",7,3
+Massachusetts,100,"Molecular Biology",7,3
+Massachusetts,100,"Introduction to Film Studies",7,3
+Massachusetts,100,"Organic Chemistry I",7,3
+Massachusetts,100,"Artificial Intelligence: Principles and Practice",7,3
+Massachusetts,100,"Game Development Essentials",7,2
+Massachusetts,100,"Fundamentals of Nursing",7,2
+Massachusetts,100,"Principles of Sociology",7,2
+Massachusetts,100,"The Art of Writing",7,2
+Massachusetts,100,"Phonetics and Phonology",7,2
+Massachusetts,100,"Japanese for Travelers",7,2
+Massachusetts,100,"Statistical Inference",7,2
+Massachusetts,100,"Principles of Biochemistry",7,2
+Massachusetts,100,"Criminology: A Contemporary Introduction",7,2
+Massachusetts,100,"Discrete Mathematics",7,2
+Massachusetts,100,"Introduction to Cybersecurity",7,2
+Massachusetts,100,"Research Methods in Social Sciences",7,2
+Massachusetts,100,"Ethics and Moral Reasoning",7,2
+Massachusetts,100,"Political Science: Theory and Practice",7,2
+Massachusetts,100,"Machine Learning Basics",7,2
+Massachusetts,100,"Software Engineering Concepts",7,2
+Massachusetts,100,"French Grammar and Composition",7,2
+Massachusetts,100,"Calculus I",7,2
+Massachusetts,100,"Chinese Characters Made Easy",7,2
+Massachusetts,100,"Geometry: A Comprehensive Guide",7,2
+Massachusetts,100,"Introduction to Databases",7,2
+Massachusetts,100,"Networking Fundamentals",7,1
+Massachusetts,100,"Principles of Accounting",8,10
+Massachusetts,100,"Operations Management",8,5
+Massachusetts,100,"Introduction to Public Health",8,7
+Massachusetts,100,"Entrepreneurship and Innovation",8,9
+Massachusetts,100,"Microeconomics: An Introduction",8,9
+Massachusetts,100,"Robotics: Concepts and Control",8,11
+Massachusetts,100,"Medical Terminology",8,9
+Massachusetts,100,"American History Since 1865",8,8
+Massachusetts,100,"Marketing Fundamentals",8,8
+Massachusetts,100,"Corporate Finance",8,6
+Massachusetts,100,"Human Resource Management",8,8
+Massachusetts,100,"Nutrition for Health and Fitness",8,4
+Massachusetts,100,"Signal Processing",8,6
+Massachusetts,100,"Business Law Today",8,4
+Massachusetts,100,"SAT Math Essentials",8,9
+Massachusetts,100,"MCAT Biology and Biochemistry",8,8
+Massachusetts,100,"Introduction to Psychology",8,5
+Massachusetts,100,"Introduction to Archaeology",8,9
+Massachusetts,100,"International Relations Today",8,6
+Massachusetts,100,"Physics for Scientists and Engineers",8,6
+Massachusetts,100,"French Grammar and Composition",8,3
+Massachusetts,100,"Macroeconomics: Concepts and Applications",8,3
+Massachusetts,100,"Numerical Methods",8,3
+Massachusetts,100,"Principles of Sociology",8,3
+Massachusetts,100,"Adolescent Psychology",8,2
+Massachusetts,100,"Geometry: A Comprehensive Guide",8,3
+Massachusetts,100,"The Art of Writing",8,3
+Massachusetts,100,"Forensic Science",8,2
+Massachusetts,100,"American Literature: A Survey",8,2
+Massachusetts,100,"Statistical Inference",8,2
+Massachusetts,100,"Strategic Management",8,2
+Massachusetts,100,"GRE Prep 101",8,2
+Massachusetts,100,"Introduction to Film Studies",8,1
+Massachusetts,100,"Japanese for Travelers",8,2
+Massachusetts,100,"Sports Management",8,2
+Massachusetts,100,"Fundamentals of Nursing",8,2
+Massachusetts,100,"Chinese Characters Made Easy",8,2
+Massachusetts,100,"Calculus I",8,2
+Massachusetts,100,"Software Engineering Concepts",8,2
+Massachusetts,100,"Criminology: A Contemporary Introduction",8,2
+Massachusetts,100,"Community Health",8,2
+Massachusetts,100,"Introduction to Cybersecurity",8,2
+Massachusetts,100,"Machine Learning Basics",8,2
+Massachusetts,100,"Organic Chemistry I",8,2
+Massachusetts,100,"Principles of Biochemistry",8,2
+Massachusetts,100,"Research Methods in Social Sciences",8,2
+Massachusetts,100,"Mathematical Modeling",8,2
+Massachusetts,100,"Materials Science and Engineering",8,2
+Massachusetts,100,"Art History: The Renaissance to Modernism",8,2
+Massachusetts,100,"Organic Chemistry II",8,2
+Massachusetts,100,"Fundamentals of Thermodynamics",8,2
+Massachusetts,100,"Introduction to Databases",8,2
+Massachusetts,100,"Political Science: Theory and Practice",8,2
+Massachusetts,100,"Phonetics and Phonology",8,2
+Massachusetts,100,"Business Law Today",9,7
+Massachusetts,100,"Robotics: Concepts and Control",9,8
+Massachusetts,100,"MCAT Biology and Biochemistry",9,9
+Massachusetts,100,"Introduction to Archaeology",9,8
+Massachusetts,100,"American History Since 1865",9,6
+Massachusetts,100,"Introduction to Psychology",9,6
+Massachusetts,100,"Microeconomics: An Introduction",9,8
+Massachusetts,100,"SAT Math Essentials",9,9
+Massachusetts,100,"Signal Processing",9,9
+Massachusetts,100,"Corporate Finance",9,5
+Massachusetts,100,"Introduction to Public Health",9,8
+Massachusetts,100,"Principles of Accounting",9,8
+Massachusetts,100,"Marketing Fundamentals",9,8
+Massachusetts,100,"Human Resource Management",9,7
+Massachusetts,100,"Nutrition for Health and Fitness",9,6
+Massachusetts,100,"Operations Management",9,2
+Massachusetts,100,"Entrepreneurship and Innovation",9,8
+Massachusetts,100,"Medical Terminology",9,3
+Massachusetts,100,"Physics for Scientists and Engineers",9,8
+Massachusetts,100,"Discrete Mathematics",9,3
+Massachusetts,100,"Ethics and Moral Reasoning",9,3
+Massachusetts,100,"Italian in 30 Days",9,3
+Massachusetts,100,"Principles of Biochemistry",9,3
+Massachusetts,100,"Data Structures and Algorithms",9,3
+Massachusetts,100,"Circuits and Systems",9,2
+Massachusetts,100,"LSAT Logical Reasoning Practice",9,2
+Massachusetts,100,"Advanced Calculus",9,2
+Massachusetts,100,"Adolescent Psychology",9,2
+Massachusetts,100,"Criminology: A Contemporary Introduction",9,2
+Massachusetts,100,"Molecular Biology",9,2
+Massachusetts,100,"Software Engineering Concepts",9,2
+Massachusetts,100,"Shakespeare’s Works",9,2
+Massachusetts,100,"International Business",9,2
+Massachusetts,100,"Theater Arts: A Practical Guide",9,2
+Massachusetts,100,"International Relations Today",9,2
+Massachusetts,100,"Artificial Intelligence: Principles and Practice",9,1
+Massachusetts,100,"Introduction to Cybersecurity",9,2
+Massachusetts,100,"Japanese for Travelers",9,2
+Massachusetts,100,"French Grammar and Composition",9,2
+Massachusetts,100,"Phonetics and Phonology",9,2
+Massachusetts,100,"Geometry: A Comprehensive Guide",9,2
+Massachusetts,100,"Numerical Methods",9,2
+Massachusetts,100,"Environmental Policy and Law",9,2
+Massachusetts,100,"Anatomy and Physiology",9,1
+Massachusetts,100,"Calculus I",9,2
+Massachusetts,100,"Chinese Characters Made Easy",9,2
+Massachusetts,100,"Introduction to Databases",9,2
+Massachusetts,100,"Introduction to Topology",9,2
+Massachusetts,100,"Leadership and Management Principles",9,2
+Massachusetts,100,"Organic Chemistry II",9,2
+Massachusetts,100,"Machine Learning Basics",9,2
+Massachusetts,100,"Macroeconomics: Concepts and Applications",9,2
+Massachusetts,100,"Political Science: Theory and Practice",9,2
+Massachusetts,100,"Principles of Sociology",9,2
+Massachusetts,100,"Sports Management",9,2
+Massachusetts,100,"Mathematical Modeling",9,2
+Massachusetts,100,"Organic Chemistry I",9,2
+Massachusetts,100,"Networking Fundamentals",9,2
+Massachusetts,100,"Introduction to Film Studies",9,2
+Massachusetts,100,"Fundamentals of Nursing",9,2
+Massachusetts,100,"Community Health",9,2
+Massachusetts,100,"Business Law Today",10,10
+Massachusetts,100,"Signal Processing",10,11
+Massachusetts,100,"Corporate Finance",10,8
+Massachusetts,100,"Human Resource Management",10,10
+Massachusetts,100,"SAT Math Essentials",10,9
+Massachusetts,100,"Entrepreneurship and Innovation",10,8
+Massachusetts,100,"Introduction to Public Health",10,9
+Massachusetts,100,"Robotics: Concepts and Control",10,9
+Massachusetts,100,"Introduction to Archaeology",10,6
+Massachusetts,100,"Marketing Fundamentals",10,9
+Massachusetts,100,"International Relations Today",10,5
+Massachusetts,100,"Nutrition for Health and Fitness",10,7
+Massachusetts,100,"Introduction to Psychology",10,9
+Massachusetts,100,"MCAT Biology and Biochemistry",10,9
+Massachusetts,100,"Microeconomics: An Introduction",10,8
+Massachusetts,100,"Operations Management",10,4
+Massachusetts,100,"Principles of Accounting",10,8
+Massachusetts,100,"American History Since 1865",10,8
+Massachusetts,100,"Medical Terminology",10,8
+Massachusetts,100,"Physics for Scientists and Engineers",10,6
+Massachusetts,100,"Artificial Intelligence: Principles and Practice",10,3
+Massachusetts,100,"Principles of Biochemistry",10,3
+Massachusetts,100,"Adolescent Psychology",10,3
+Massachusetts,100,"French Grammar and Composition",10,3
+Massachusetts,100,"Japanese for Travelers",10,3
+Massachusetts,100,"Leadership and Management Principles",10,3
+Massachusetts,100,"Discrete Mathematics",10,3
+Massachusetts,100,"Introduction to Cybersecurity",10,2
+Massachusetts,100,"The Art of Writing",10,2
+Massachusetts,100,"Calculus I",10,2
+Massachusetts,100,"Introduction to Topology",10,2
+Massachusetts,100,"American Literature: A Survey",10,2
+Massachusetts,100,"Game Development Essentials",10,2
+Massachusetts,100,"Mathematical Modeling",10,2
+Massachusetts,100,"Introduction to Film Studies",10,2
+Massachusetts,100,"Research Methods in Social Sciences",10,2
+Massachusetts,100,"Chinese Characters Made Easy",10,2
+Massachusetts,100,"Criminology: A Contemporary Introduction",10,2
+Massachusetts,100,"Molecular Biology",10,2
+Massachusetts,100,"Pharmacology: A Comprehensive Guide",10,2
+Massachusetts,100,"Strategic Management",10,2
+Massachusetts,100,"Geometry: A Comprehensive Guide",10,2
+Massachusetts,100,"Numerical Methods",10,2
+Massachusetts,100,"Organic Chemistry I",10,2
+Massachusetts,100,"Introduction to Electrical Engineering",10,2
+Massachusetts,100,"Pathophysiology Essentials",10,2
+Massachusetts,100,"Theater Arts: A Practical Guide",10,1
+Massachusetts,100,"Organic Chemistry II",10,2
+Massachusetts,100,"Political Science: Theory and Practice",10,2
+Massachusetts,100,"Introduction to Databases",10,2
+Massachusetts,100,"The Basics of Anthropology",10,2
+Massachusetts,100,"Probability and Statistics",10,2
+Massachusetts,100,"Networking Fundamentals",10,2
+Massachusetts,100,"Mental Health Nursing",10,2
+Massachusetts,100,"Phonetics and Phonology",10,1
+Massachusetts,100,"Creative Writing Workshop",10,2
+Massachusetts,100,"Principles of Accounting",11,10
+Massachusetts,100,"Microeconomics: An Introduction",11,9
+Massachusetts,100,"Signal Processing",11,9
+Massachusetts,100,"Robotics: Concepts and Control",11,8
+Massachusetts,100,"SAT Math Essentials",11,6
+Massachusetts,100,"Business Law Today",11,6
+Massachusetts,100,"Medical Terminology",11,9
+Massachusetts,100,"Operations Management",11,2
+Massachusetts,100,"MCAT Biology and Biochemistry",11,8
+Massachusetts,100,"Corporate Finance",11,8
+Massachusetts,100,"International Relations Today",11,7
+Massachusetts,100,"Nutrition for Health and Fitness",11,8
+Massachusetts,100,"American History Since 1865",11,9
+Massachusetts,100,"Introduction to Public Health",11,8
+Massachusetts,100,"Marketing Fundamentals",11,8
+Massachusetts,100,"Introduction to Archaeology",11,6
+Massachusetts,100,"Introduction to Psychology",11,8
+Massachusetts,100,"Entrepreneurship and Innovation",11,6
+Massachusetts,100,"Human Resource Management",11,8
+Massachusetts,100,"Physics for Scientists and Engineers",11,6
+Massachusetts,100,"Machine Learning Basics",11,3
+Massachusetts,100,"Organic Chemistry I",11,3
+Massachusetts,100,"Introduction to Film Studies",11,3
+Massachusetts,100,"Molecular Biology",11,3
+Massachusetts,100,"Numerical Methods",11,2
+Massachusetts,100,"Shakespeare’s Works",11,2
+Massachusetts,100,"Artificial Intelligence: Principles and Practice",11,2
+Massachusetts,100,"Epidemiology: Basics and Applications",11,2
+Massachusetts,100,"LSAT Logical Reasoning Practice",11,2
+Massachusetts,100,"Italian in 30 Days",11,2
+Massachusetts,100,"Software Engineering Concepts",11,2
+Massachusetts,100,"Geometry: A Comprehensive Guide",11,2
+Massachusetts,100,"The Art of Writing",11,2
+Massachusetts,100,"Art History: The Renaissance to Modernism",11,2
+Massachusetts,100,"Chinese Characters Made Easy",11,2
+Massachusetts,100,"Discrete Mathematics",11,2
+Massachusetts,100,"Mathematical Modeling",11,2
+Massachusetts,100,"Pathophysiology Essentials",11,2
+Massachusetts,100,"Music Theory Essentials",11,2
+Massachusetts,100,"Adolescent Psychology",11,2
+Massachusetts,100,"Principles of Sociology",11,2
+Massachusetts,100,"Ethics and Moral Reasoning",11,2
+Massachusetts,100,"Fundamentals of Nursing",11,2
+Massachusetts,100,"English as a Second Language",11,2
+Massachusetts,100,"Japanese for Travelers",11,2
+Massachusetts,100,"Environmental Policy and Law",11,2
+Massachusetts,100,"Introduction to Electrical Engineering",11,2
+Massachusetts,100,"Applied Linguistics",11,2
+Massachusetts,100,"Anatomy and Physiology",11,2
+Massachusetts,100,"Game Development Essentials",11,2
+Massachusetts,100,"Sports Management",11,2
+Massachusetts,100,"French Grammar and Composition",11,2
+Massachusetts,100,"Ethics in Research",11,2
+Massachusetts,100,"Organic Chemistry II",11,2
+Massachusetts,100,"Introduction to Statistics",11,2
+Massachusetts,100,"Political Science: Theory and Practice",11,2
+Massachusetts,100,"Networking Fundamentals",11,2
+Massachusetts,100,"GMAT Study Guide",11,2
+Massachusetts,100,"Materials Science and Engineering",11,2
+Massachusetts,100,"Phonetics and Phonology",11,2
+Massachusetts,100,"Criminology: A Contemporary Introduction",11,2
+Massachusetts,100,"Abstract Algebra",11,2
+Massachusetts,100,"Introduction to Psychology",12,7
+Massachusetts,100,"Corporate Finance",12,7
+Massachusetts,100,"Marketing Fundamentals",12,6
+Massachusetts,100,"American History Since 1865",12,9
+Massachusetts,100,"International Relations Today",12,8
+Massachusetts,100,"Introduction to Archaeology",12,5
+Massachusetts,100,"Introduction to Public Health",12,9
+Massachusetts,100,"Medical Terminology",12,6
+Massachusetts,100,"Entrepreneurship and Innovation",12,6
+Massachusetts,100,"Human Resource Management",12,8
+Massachusetts,100,"Principles of Accounting",12,8
+Massachusetts,100,"Microeconomics: An Introduction",12,9
+Massachusetts,100,"SAT Math Essentials",12,9
+Massachusetts,100,"MCAT Biology and Biochemistry",12,5
+Massachusetts,100,"Nutrition for Health and Fitness",12,8
+Massachusetts,100,"Business Law Today",12,6
+Massachusetts,100,"Robotics: Concepts and Control",12,7
+Massachusetts,100,"Signal Processing",12,10
+Massachusetts,100,"Physics for Scientists and Engineers",12,6
+Massachusetts,100,"Art History: The Renaissance to Modernism",12,3
+Massachusetts,100,"Organic Chemistry I",12,3
+Massachusetts,100,"Organic Chemistry II",12,3
+Massachusetts,100,"GMAT Study Guide",12,3
+Massachusetts,100,"Music Theory Essentials",12,3
+Massachusetts,100,"Advanced Calculus",12,3
+Massachusetts,100,"Applied Linguistics",12,3
+Massachusetts,100,"Calculus I",12,3
+Massachusetts,100,"Introduction to Databases",12,3
+Massachusetts,100,"Probability and Statistics",12,2
+Massachusetts,100,"Organizational Behavior",12,2
+Massachusetts,100,"Introduction to Cybersecurity",12,2
+Massachusetts,100,"Leadership and Management Principles",12,2
+Massachusetts,100,"Software Engineering Concepts",12,2
+Massachusetts,100,"Numerical Methods",12,2
+Massachusetts,100,"Principles of Biochemistry",12,2
+Massachusetts,100,"Networking Fundamentals",12,2
+Massachusetts,100,"Geometry: A Comprehensive Guide",12,2
+Massachusetts,100,"Materials Science and Engineering",12,2
+Massachusetts,100,"Statistical Inference",12,2
+Massachusetts,100,"Strategic Management",12,2
+Massachusetts,100,"The Art of Writing",12,2
+Massachusetts,100,"Game Development Essentials",12,2
+Massachusetts,100,"Biology: Concepts and Connections",12,2
+Massachusetts,100,"Introduction to Topology",12,2
+Massachusetts,100,"Phonetics and Phonology",12,2
+Massachusetts,100,"Research Methods in Social Sciences",12,2
+Massachusetts,100,"Introduction to Philosophy",12,2
+Massachusetts,100,Sociolinguistics,12,2
+Massachusetts,100,"Adolescent Psychology",12,2
+Massachusetts,100,"International Business",12,2
+Massachusetts,100,"Machine Learning Basics",12,2
+Massachusetts,100,"Japanese for Travelers",12,2
+Massachusetts,100,"Discrete Mathematics",12,2
+Massachusetts,100,"Criminology: A Contemporary Introduction",12,2
+Massachusetts,100,"Introduction to Film Studies",12,2
+Massachusetts,100,"Political Science: Theory and Practice",12,2
+Massachusetts,100,"Mental Health Nursing",12,2
+Massachusetts,100,"Principles of Sociology",12,2
+Massachusetts,110,"Staedtler Mars Lumograph Drawing Pencils (Set of 12)",1,3
+Massachusetts,110,"Pilot Precise V5 RT Rollerball Pens (Black)",1,3
+Massachusetts,110,"Five Star Flex Hybrid NoteBinder",1,3
+Massachusetts,110,"Dry Erase Wall Calendar (Monthly Layout)",1,3
+Massachusetts,110,"Letter Opener (Stainless Steel)",1,3
+Massachusetts,110,"Fiskars Softgrip Craft Scissors (5-inch)",1,2
+Massachusetts,110,"3M Transparent Tape (Pack of 12)",1,1
+Massachusetts,110,"Bic Cristal Ballpoint Pens (Black, Pack of 10)",1,2
+Massachusetts,110,"Binder Clips (Assorted Sizes, Pack of 36)",1,2
+Massachusetts,110,"Cork Bulletin Board with Push Pins",1,2
+Massachusetts,110,"Command Poster Strips",1,2
+Massachusetts,110,"Prismacolor Premier Colored Pencils (Set of 48)",1,2
+Massachusetts,110,"Tesa Masking Tape (2-inch Roll)",1,2
+Massachusetts,110,"Plastic Report Covers (Clear Front, Pack of 10)",1,2
+Massachusetts,110,"Acrylic Paint Set (Set of 12 Tubes)",1,2
+Massachusetts,110,"Five Star Wirebound Notebook (1 Subject, College Ruled)",1,2
+Massachusetts,110,"Elastic Book Bands (Set of 3)",1,2
+Massachusetts,110,"Sticky Notes (3x3, Yellow, Pack of 12)",1,2
+Massachusetts,110,"Day Designer Daily Planner (Undated)",2,2
+Massachusetts,110,"ID Badge Holders with Clips (Pack of 10)",2,2
+Massachusetts,110,"Bostitch Heavy-Duty Stapler (100 Sheet Capacity)",2,1
+Massachusetts,110,"3M Transparent Tape (Pack of 12)",2,2
+Massachusetts,110,"Bic Cristal Ballpoint Pens (Blue, Pack of 10)",2,2
+Massachusetts,110,"Pentel EnerGel Deluxe Retractable Pens (Blue)",2,2
+Massachusetts,110,"Avery Heavy-Duty 3-Ring Binder (2-inch, Black)",2,2
+Massachusetts,110,"Pilot G2 Retractable Gel Pens (Blue)",2,2
+Massachusetts,110,"Staples Standard Staples (5,000 Pack)",2,2
+Massachusetts,110,"Acrylic Paint Set (Set of 12 Tubes)",2,2
+Massachusetts,110,"Astrobrights Colored Paper (Assorted Colors, Pack of 100)",2,2
+Massachusetts,110,"Pendaflex Hanging File Folders (Assorted Colors, Pack of 25)",2,2
+Massachusetts,110,"Prismacolor Premier Art Markers (Set of 12)",2,2
+Massachusetts,110,"Blue Sky Academic Planner (July 2024 – June 2025)",2,2
+Massachusetts,110,"Pilot G2 Retractable Gel Pens (Black)",2,2
+Massachusetts,110,"Stabilo Boss Original Highlighters (Fluorescent, Pack of 6)",2,2
+Massachusetts,110,"Envelope Moistener with Adhesive",2,2
+Massachusetts,110,"Page Magnifier Sheet",2,2
+Massachusetts,110,"Scotch Double-Sided Tape (Pack of 2)",2,2
+Massachusetts,110,"Swingline Standard Stapler (Black)",2,2
+Massachusetts,110,"Fellowes Mesh Desk Organizer",2,2
+Massachusetts,110,"Faber-Castell Polychromos Colored Pencils (Set of 24)",2,2
+Massachusetts,110,"Dry Erase Wall Calendar (Monthly Layout)",2,2
+Massachusetts,110,"Paper Clips (Silver, Pack of 100)",2,2
+Massachusetts,110,"Sticky Flags for Page Marking (Assorted Colors)",2,1
+Massachusetts,110,"Staples Standard Staples (5,000 Pack)",3,3
+Massachusetts,110,"Staedtler Mars Lumograph Drawing Pencils (Set of 12)",3,3
+Massachusetts,110,"Duck Brand Duct Tape (Black, 10 Yards)",3,3
+Massachusetts,110,"Calculator Cover Case",3,3
+Massachusetts,110,"Scotch Double-Sided Tape (Pack of 2)",3,2
+Massachusetts,110,"Prismacolor Premier Colored Pencils (Set of 48)",3,2
+Massachusetts,110,"Moleskine Classic Hardcover Notebook (Grid, Red)",3,2
+Massachusetts,110,"Bic Cristal Ballpoint Pens (Black, Pack of 10)",3,2
+Massachusetts,110,"Avery Address Labels (Clear, Pack of 500)",3,2
+Massachusetts,110,"Acrylic Paint Set (Set of 12 Tubes)",3,2
+Massachusetts,110,"Mead Cambridge Business Notebook (Professional Design)",3,2
+Massachusetts,110,"Post-it Super Sticky Notes (Bright Colors, Pack of 15)",3,2
+Massachusetts,110,"Pilot Precise V5 RT Rollerball Pens (Red)",3,2
+Massachusetts,110,"Moleskine Weekly Planner (2024, Black)",3,2
+Massachusetts,110,"Gorilla Glue Super Glue Gel",3,2
+Massachusetts,110,"Heavy-Duty Hole Punch (3 Hole)",3,2
+Massachusetts,110,"Smead Expanding File Folder (13-Pocket, Letter Size)",3,2
+Massachusetts,110,"Index Cards (3x5, White, Pack of 500)",3,2
+Massachusetts,110,"Avery Heavy-Duty 3-Ring Binder (2-inch, Black)",3,2
+Massachusetts,110,"Dry Erase Wall Calendar (Monthly Layout)",3,2
+Massachusetts,110,"Elmers Washable School Glue (4 oz)",3,2
+Massachusetts,110,"Pentel EnerGel Deluxe Retractable Pens (Blue)",3,2
+Massachusetts,110,"Prismacolor Premier Colored Pencils (Set of 48)",4,2
+Massachusetts,110,"Crayola Crayons (Pack of 64)",4,3
+Massachusetts,110,"Faber-Castell Polychromos Colored Pencils (Set of 24)",4,3
+Massachusetts,110,"Pilot G2 Retractable Gel Pens (Blue)",4,3
+Massachusetts,110,"UHU Stic Glue Stick (Pack of 3)",4,3
+Massachusetts,110,"X-Acto Precision Knife with Blade Refills",4,3
+Massachusetts,110,"Astrobrights Colored Paper (Assorted Colors, Pack of 100)",4,3
+Massachusetts,110,"Graph Paper Pads (Letter Size, Pack of 4)",4,3
+Massachusetts,110,"Bic Cristal Ballpoint Pens (Black, Pack of 10)",4,2
+Massachusetts,110,"Sticky Notes (3x3, Yellow, Pack of 12)",4,2
+Massachusetts,110,"Cable Management Clips (Set of 20)",4,2
+Massachusetts,110,"Zebra Mildliner Highlighters (Pastel Colors, Pack of 15)",4,2
+Massachusetts,110,"Desk Drawer Organizer Bins (Set of 6)",4,2
+Massachusetts,110,"Wall-Mounted Dry Erase Board (18x24 inches)",4,2
+Massachusetts,110,"File Labels (White, Self-Adhesive, Pack of 50)",4,2
+Massachusetts,110,"Ruled Index Cards (4x6, Assorted Colors, Pack of 100)",4,2
+Massachusetts,110,"Sakura Pigma Micron Pens (Black, Set of 6)",4,2
+Massachusetts,110,"ID Badge Holders with Clips (Pack of 10)",4,2
+Massachusetts,110,"X-Acto KS Manual Pencil Sharpener",4,2
+Massachusetts,110,"Ruler (12-inch, Stainless Steel)",4,2
+Massachusetts,110,"Letter Opener (Stainless Steel)",4,2
+Massachusetts,110,"Moleskine Classic Hardcover Notebook (Ruled, Black)",4,2
+Massachusetts,110,"Five Star Flex Hybrid NoteBinder",4,2
+Massachusetts,110,"Gorilla Glue Super Glue Gel",4,2
+Massachusetts,110,"Sharpie Fine Point Permanent Markers (Black)",4,2
+Massachusetts,110,"Paper Mate Pink Pearl Erasers (Pack of 6)",4,2
+Massachusetts,110,"Pentel Twist-Erase Mechanical Pencils",4,2
+Massachusetts,110,"Pentel EnerGel Deluxe Retractable Pens (Blue)",4,2
+Massachusetts,110,"Badge Lanyards (Assorted Colors, Set of 5)",4,2
+Massachusetts,110,"Protractor and Compass Set",4,2
+Massachusetts,110,"Oxford Twin-Pocket Folders (Assorted Colors, Pack of 10)",4,2
+Massachusetts,110,"Pilot Precise V5 RT Rollerball Pens (Black)",4,2
+Massachusetts,110,"Five Star Wirebound Notebook (3 Subject, Wide Ruled)",4,2
+Massachusetts,110,"Sticky Flags for Page Marking (Assorted Colors)",4,2
+Massachusetts,110,"Leuchtturm1917 A5 Notebook (Dotted, Navy Blue)",4,2
+Massachusetts,110,"Day Designer Daily Planner (Undated)",5,3
+Massachusetts,110,"Uni-ball Vision Elite Rollerball Pens (Black)",5,3
+Massachusetts,110,"Five Star Wirebound Notebook (1 Subject, College Ruled)",5,3
+Massachusetts,110,"Five Star Wirebound Notebook (3 Subject, Wide Ruled)",5,3
+Massachusetts,110,"Acrylic Desk Organizer Tray Set",5,3
+Massachusetts,110,"BIC Xtra-Smooth Mechanical Pencils (0",5,3
+Massachusetts,110,"Artist Paintbrush Set (Pack of 10)",5,3
+Massachusetts,110,"Binder Clips (Assorted Sizes, Pack of 36)",5,4
+Massachusetts,110,"Fellowes Mesh Desk Organizer",5,3
+Massachusetts,110,"Graph Paper Pads (Letter Size, Pack of 4)",5,3
+Massachusetts,110,"Electric Desktop Pencil Sharpener (Heavy Duty)",5,3
+Massachusetts,110,"Laminate File Jackets (Assorted Colors, Pack of 12)",5,6
+Massachusetts,110,"Staedtler White Vinyl Erasers (Pack of 4)",5,3
+Massachusetts,110,"ID Badge Holders with Clips (Pack of 10)",5,4
+Massachusetts,110,"Uni-ball Vision Elite Rollerball Pens (Blue)",5,2
+Massachusetts,110,"Pentel EnerGel Deluxe Retractable Pens (Blue)",5,2
+Massachusetts,110,"Letter Opener (Stainless Steel)",5,2
+Massachusetts,110,"Acrylic Paint Set (Set of 12 Tubes)",5,2
+Massachusetts,110,"Stabilo Boss Original Highlighters (Fluorescent, Pack of 6)",5,2
+Massachusetts,110,"Cork Bulletin Board with Push Pins",5,1
+Massachusetts,110,"Bic Cristal Ballpoint Pens (Black, Pack of 10)",5,2
+Massachusetts,110,"Dixon Oriole HB Pencils (Pack of 24)",5,2
+Massachusetts,110,"Paper Mate Pink Pearl Erasers (Pack of 6)",5,2
+Massachusetts,110,"Hammermill Copy Plus Paper (Letter Size, 500 Sheets)",5,2
+Massachusetts,110,"Pilot G2 Retractable Gel Pens (Black)",5,4
+Massachusetts,110,"Smead Expanding File Folder (13-Pocket, Letter Size)",5,3
+Massachusetts,110,"Astrobrights Colored Paper (Assorted Colors, Pack of 100)",5,2
+Massachusetts,110,"Avery Heavy-Duty 3-Ring Binder (1-inch, White)",5,2
+Massachusetts,110,"Erin Condren LifePlanner (Vertical Layout)",5,4
+Massachusetts,110,"Sticky Flags for Page Marking (Assorted Colors)",5,2
+Massachusetts,110,"Command Poster Strips",5,2
+Massachusetts,110,"Pilot Precise V5 RT Rollerball Pens (Black)",5,1
+Massachusetts,110,"Zebra Mildliner Highlighters (Pastel Colors, Pack of 15)",5,3
+Massachusetts,110,"Elmers Washable School Glue (4 oz)",5,5
+Massachusetts,110,"Five Star Flex Hybrid NoteBinder",5,2
+Massachusetts,110,"Prismacolor Premier Art Markers (Set of 12)",5,2
+Massachusetts,110,"Paper Cutter Trimmer (Letter Size)",5,2
+Massachusetts,110,"Tesa Masking Tape (2-inch Roll)",5,2
+Massachusetts,110,"Prismacolor Premier Colored Pencils (Set of 48)",5,2
+Massachusetts,110,"Envelope Moistener with Adhesive",5,1
+Massachusetts,110,"Staedtler Mars Lumograph Drawing Pencils (Set of 12)",5,2
+Massachusetts,110,"Bic Cristal Ballpoint Pens (Blue, Pack of 10)",5,2
+Massachusetts,110,"Avery Heavy-Duty 3-Ring Binder (2-inch, Black)",5,2
+Massachusetts,110,"Bostitch Heavy-Duty Stapler (100 Sheet Capacity)",5,2
+Massachusetts,110,"Sharpie Fine Point Permanent Markers (Assorted Colors, Pack of 12)",5,2
+Massachusetts,110,"Sharpie Fine Point Permanent Markers (Black)",5,2
+Massachusetts,110,"Rhodia DotPad No. 16 A5",5,2
+Massachusetts,110,"Plastic Report Covers (Clear Front, Pack of 10)",5,2
+Massachusetts,110,"Scotch Double-Sided Tape (Pack of 2)",5,2
+Massachusetts,110,"Staples D-Ring Binder (3-inch, Red)",5,2
+Massachusetts,110,"Pilot Precise V5 RT Rollerball Pens (Red)",5,2
+Massachusetts,110,"Faber-Castell Polychromos Colored Pencils (Set of 24)",5,4
+Massachusetts,110,"Gorilla Glue Super Glue Gel",5,2
+Massachusetts,110,"Winsor & Newton Watercolor Paint Set (12 Colors)",5,3
+Massachusetts,110,"Pentel Twist-Erase Mechanical Pencils",5,2
+Massachusetts,110,"HP Premium32 Printer Paper (32 lb, 500 Sheets)",5,4
+Massachusetts,110,"Ruled Index Cards (4x6, Assorted Colors, Pack of 100)",5,3
+Massachusetts,110,"Duck Brand Duct Tape (Black, 10 Yards)",5,3
+Massachusetts,110,"X-Acto KS Manual Pencil Sharpener",5,3
+Massachusetts,110,"Ticonderoga No",5,2
+Massachusetts,110,"Wall-Mounted Dry Erase Board (18x24 inches)",5,2
+Massachusetts,110,"Washi Tape (Assorted Patterns, Set of 10 Rolls)",5,2
+Massachusetts,110,"Staples Standard Staples (5,000 Pack)",5,2
+Massachusetts,110,"Scotch Magic Tape (3-Pack with Dispenser)",5,2
+Massachusetts,110,"Avery Index Dividers with Tabs (5-Tab, Multicolor)",5,2
+Massachusetts,110,"Swingline Standard Stapler (Black)",5,2
+Massachusetts,110,"Astrobrights Colored Paper (Assorted Colors, Pack of 100)",6,3
+Massachusetts,110,"Day Designer Daily Planner (Undated)",6,3
+Massachusetts,110,"Elmers Washable School Glue (4 oz)",6,3
+Massachusetts,110,"Pentel Twist-Erase Mechanical Pencils",6,3
+Massachusetts,110,"Pilot G2 Retractable Gel Pens (Blue)",6,3
+Massachusetts,110,"Sticky Flags for Page Marking (Assorted Colors)",6,3
+Massachusetts,110,"Prismacolor Premier Colored Pencils (Set of 48)",6,3
+Massachusetts,110,"Wall-Mounted Dry Erase Board (18x24 inches)",6,3
+Massachusetts,110,"Duck Brand Duct Tape (Black, 10 Yards)",6,3
+Massachusetts,110,"Blue Sky Academic Planner (July 2024 – June 2025)",6,3
+Massachusetts,110,"Pilot Precise V5 RT Rollerball Pens (Red)",6,3
+Massachusetts,110,"Avery Heavy-Duty 3-Ring Binder (2-inch, Black)",6,2
+Massachusetts,110,"Index Cards (3x5, White, Pack of 500)",6,2
+Massachusetts,110,"Letter Opener (Stainless Steel)",6,2
+Massachusetts,110,"Rhodia DotPad No. 16 A5",6,2
+Massachusetts,110,"Erin Condren LifePlanner (Vertical Layout)",6,2
+Massachusetts,110,"Faber-Castell Polychromos Colored Pencils (Set of 24)",6,2
+Massachusetts,110,"Oxford Twin-Pocket Folders (Assorted Colors, Pack of 10)",6,2
+Massachusetts,110,"Rubber Bands (Assorted Sizes, Pack of 100)",6,2
+Massachusetts,110,"Westcott Titanium Bonded Scissors (8-inch)",6,2
+Massachusetts,110,"Acrylic Desk Organizer Tray Set",6,2
+Massachusetts,110,"Legal Ruled Notepads (Yellow, Pack of 3)",6,2
+Massachusetts,110,"Calculator Cover Case",6,2
+Massachusetts,110,"Sakura Pigma Micron Pens (Black, Set of 6)",6,2
+Massachusetts,110,"Cork Bulletin Board with Push Pins",6,2
+Massachusetts,110,"Winsor & Newton Watercolor Paint Set (12 Colors)",6,2
+Massachusetts,110,"Dixon Oriole HB Pencils (Pack of 24)",6,2
+Massachusetts,110,"X-Acto Precision Knife with Blade Refills",6,2
+Massachusetts,110,"Staedtler Mars Lumograph Drawing Pencils (Set of 12)",6,2
+Massachusetts,110,"File Labels (White, Self-Adhesive, Pack of 50)",6,2
+Massachusetts,110,"Uni-ball Vision Elite Rollerball Pens (Blue)",6,2
+Massachusetts,110,"Scotch Magic Tape (3-Pack with Dispenser)",6,2
+Massachusetts,110,"3M Transparent Tape (Pack of 12)",6,2
+Massachusetts,110,"Pilot Precise V5 RT Rollerball Pens (Black)",6,2
+Massachusetts,110,"Fiskars Softgrip Craft Scissors (5-inch)",6,2
+Massachusetts,110,"Command Poster Strips",6,2
+Massachusetts,110,"Avery Heavy-Duty 3-Ring Binder (1-inch, White)",6,2
+Massachusetts,110,"Prismacolor Premier Art Markers (Set of 12)",6,2
+Massachusetts,110,"Rocketbook Fusion Smart Reusable Notebook",6,2
+Massachusetts,110,"Zebra Mildliner Highlighters (Pastel Colors, Pack of 15)",6,2
+Massachusetts,110,"Moleskine Classic Hardcover Notebook (Grid, Red)",6,2
+Massachusetts,110,"Electric Desktop Pencil Sharpener (Heavy Duty)",6,2
+Massachusetts,110,"Stabilo Boss Original Highlighters (Fluorescent, Pack of 6)",6,2
+Massachusetts,110,"Protractor and Compass Set",6,2
+Massachusetts,110,"Page Magnifier Sheet",6,2
+Massachusetts,110,"Acrylic Paint Set (Set of 12 Tubes)",6,2
+Massachusetts,110,"Binder Clips (Assorted Sizes, Pack of 36)",6,2
+Massachusetts,110,"Pentel EnerGel Deluxe Retractable Pens (Black)",6,2
+Massachusetts,110,"Paper Mate Flair Felt Tip Pens (Assorted Colors)",6,2
+Massachusetts,110,"Uni-ball Vision Elite Rollerball Pens (Black)",6,2
+Massachusetts,110,"Moleskine Classic Hardcover Notebook (Ruled, Black)",6,2
+Massachusetts,110,"Plastic Report Covers (Clear Front, Pack of 10)",6,2
+Massachusetts,110,"Tesa Masking Tape (2-inch Roll)",6,2
+Massachusetts,110,"Cable Management Clips (Set of 20)",6,2
+Massachusetts,110,"Field Notes Original Kraft Memo Books (3-Pack)",6,2
+Massachusetts,110,"Avery Index Dividers with Tabs (5-Tab, Multicolor)",6,2
+Massachusetts,110,"Post-it Super Sticky Notes (Bright Colors, Pack of 15)",6,2
+Massachusetts,110,"Five Star Wirebound Notebook (1 Subject, College Ruled)",6,2
+Massachusetts,110,"Five Star Wirebound Notebook (3 Subject, Wide Ruled)",7,3
+Massachusetts,110,"Moleskine Classic Hardcover Notebook (Grid, Red)",7,3
+Massachusetts,110,"Rubber Bands (Assorted Sizes, Pack of 100)",7,4
+Massachusetts,110,"Paper Clips (Silver, Pack of 100)",7,2
+Massachusetts,110,"Graph Paper Pads (Letter Size, Pack of 4)",7,2
+Massachusetts,110,"Crayola Colored Pencils (Pack of 24)",7,2
+Massachusetts,110,"Rocketbook Fusion Smart Reusable Notebook",7,2
+Massachusetts,110,"Avery Heavy-Duty 3-Ring Binder (1-inch, White)",7,1
+Massachusetts,110,"Cable Management Clips (Set of 20)",7,2
+Massachusetts,110,"Command Poster Strips",7,2
+Massachusetts,110,"Staples Standard Staples (5,000 Pack)",7,1
+Massachusetts,110,"Acrylic Desk Organizer Tray Set",7,2
+Massachusetts,110,"ID Badge Holders with Clips (Pack of 10)",7,2
+Massachusetts,110,"Pilot Precise V5 RT Rollerball Pens (Black)",7,2
+Massachusetts,110,"Badge Lanyards (Assorted Colors, Set of 5)",7,2
+Massachusetts,110,"Oxford Twin-Pocket Folders (Assorted Colors, Pack of 10)",7,2
+Massachusetts,110,"Rhodia DotPad No. 16 A5",7,2
+Massachusetts,110,"Five Star Wirebound Notebook (1 Subject, College Ruled)",7,2
+Massachusetts,110,"Avery Index Dividers with Tabs (5-Tab, Multicolor)",7,2
+Massachusetts,110,"Letter Opener (Stainless Steel)",7,2
+Massachusetts,110,"Paper Cutter Trimmer (Letter Size)",7,2
+Massachusetts,110,"Pentel Hi-Polymer Block Erasers (Pack of 3)",7,2
+Massachusetts,110,"Pilot Precise V5 RT Rollerball Pens (Red)",7,2
+Massachusetts,110,"Sticky Flags for Page Marking (Assorted Colors)",7,2
+Massachusetts,110,"Envelope Moistener with Adhesive",7,2
+Massachusetts,110,"Push Pins (Clear, Pack of 200)",8,3
+Massachusetts,110,"Washi Tape (Assorted Patterns, Set of 10 Rolls)",8,3
+Massachusetts,110,"Sharpie Fine Point Permanent Markers (Black)",8,3
+Massachusetts,110,"Avery Address Labels (Clear, Pack of 500)",8,2
+Massachusetts,110,"Staedtler White Vinyl Erasers (Pack of 4)",8,2
+Massachusetts,110,"Ruled Index Cards (4x6, Assorted Colors, Pack of 100)",8,2
+Massachusetts,110,"Oxford Twin-Pocket Folders (Assorted Colors, Pack of 10)",8,2
+Massachusetts,110,"Sakura Pigma Micron Pens (Black, Set of 6)",8,2
+Massachusetts,110,"Electric Desktop Pencil Sharpener (Heavy Duty)",8,2
+Massachusetts,110,"Plastic Report Covers (Clear Front, Pack of 10)",8,2
+Massachusetts,110,"Erin Condren LifePlanner (Vertical Layout)",8,2
+Massachusetts,110,"Graph Paper Pads (Letter Size, Pack of 4)",8,2
+Massachusetts,110,"ID Badge Holders with Clips (Pack of 10)",8,2
+Massachusetts,110,"Day Designer Daily Planner (Undated)",8,2
+Massachusetts,110,"3M Transparent Tape (Pack of 12)",8,2
+Massachusetts,110,"Rhodia DotPad No. 16 A5",8,2
+Massachusetts,110,"Command Poster Strips",8,2
+Massachusetts,110,"Duck Brand Duct Tape (Black, 10 Yards)",8,1
+Massachusetts,110,"Command Poster Strips",9,3
+Massachusetts,110,"Elastic Book Bands (Set of 3)",9,3
+Massachusetts,110,"Magnetic Clips (Assorted Colors, Set of 12)",9,3
+Massachusetts,110,"Ruler (12-inch, Stainless Steel)",9,2
+Massachusetts,110,"Staples D-Ring Binder (3-inch, Red)",9,2
+Massachusetts,110,"Moleskine Classic Hardcover Notebook (Grid, Red)",9,2
+Massachusetts,110,"Day Designer Daily Planner (Undated)",9,2
+Massachusetts,110,"Protractor and Compass Set",9,2
+Massachusetts,110,"File Labels (White, Self-Adhesive, Pack of 50)",9,2
+Massachusetts,110,"X-Acto Precision Knife with Blade Refills",9,2
+Massachusetts,110,"HP Premium32 Printer Paper (32 lb, 500 Sheets)",9,2
+Massachusetts,110,"Smead Expanding File Folder (13-Pocket, Letter Size)",9,2
+Massachusetts,110,"Avery Address Labels (Clear, Pack of 500)",9,2
+Massachusetts,110,"Crayola Crayons (Pack of 64)",9,2
+Massachusetts,110,"Prismacolor Premier Art Markers (Set of 12)",9,2
+Massachusetts,110,"Faber-Castell Polychromos Colored Pencils (Set of 24)",9,2
+Massachusetts,110,"Pilot G2 Retractable Gel Pens (Blue)",9,2
+Massachusetts,110,"Westcott Titanium Bonded Scissors (8-inch)",9,1
+Massachusetts,110,"UHU Stic Glue Stick (Pack of 3)",9,2
+Massachusetts,110,"Pentel Twist-Erase Mechanical Pencils",10,3
+Massachusetts,110,"Plastic Report Covers (Clear Front, Pack of 10)",10,3
+Massachusetts,110,"Smead Expanding File Folder (13-Pocket, Letter Size)",10,3
+Massachusetts,110,"Strathmore Bristol Paper Pad (11x17 inches)",10,3
+Massachusetts,110,"Laminate File Jackets (Assorted Colors, Pack of 12)",10,3
+Massachusetts,110,"Paper Clips (Silver, Pack of 100)",10,3
+Massachusetts,110,"Acrylic Desk Organizer Tray Set",10,3
+Massachusetts,110,"Crayola Colored Pencils (Pack of 24)",10,1
+Massachusetts,110,"Moleskine Classic Hardcover Notebook (Grid, Red)",10,2
+Massachusetts,110,"Gorilla Glue Super Glue Gel",10,2
+Massachusetts,110,"Magnetic Clips (Assorted Colors, Set of 12)",10,1
+Massachusetts,110,"Paper Cutter Trimmer (Letter Size)",10,2
+Massachusetts,110,"Westcott Titanium Bonded Scissors (8-inch)",10,2
+Massachusetts,110,"Oxford Twin-Pocket Folders (Assorted Colors, Pack of 10)",10,2
+Massachusetts,110,"Five Star Flex Hybrid NoteBinder",10,2
+Massachusetts,110,"Pilot Precise V5 RT Rollerball Pens (Black)",10,2
+Massachusetts,110,"Tesa Masking Tape (2-inch Roll)",10,2
+Massachusetts,110,"Badge Lanyards (Assorted Colors, Set of 5)",10,2
+Massachusetts,110,"Bostitch Heavy-Duty Stapler (100 Sheet Capacity)",10,2
+Massachusetts,110,"Electric Desktop Pencil Sharpener (Heavy Duty)",10,2
+Massachusetts,110,"Rubber Bands (Assorted Sizes, Pack of 100)",10,2
+Massachusetts,110,"Mead Cambridge Business Notebook (Professional Design)",10,2
+Massachusetts,110,"Pendaflex Hanging File Folders (Assorted Colors, Pack of 25)",10,2
+Massachusetts,110,"Sharpie Fine Point Permanent Markers (Assorted Colors, Pack of 12)",10,2
+Massachusetts,110,"Paper Mate Flair Felt Tip Pens (Assorted Colors)",10,2
+Massachusetts,110,"Staples Standard Staples (5,000 Pack)",10,2
+Massachusetts,110,"Push Pins (Clear, Pack of 200)",10,2
+Massachusetts,110,"Ruler (12-inch, Stainless Steel)",10,2
+Massachusetts,110,"Crayola Crayons (Pack of 64)",10,2
+Massachusetts,110,"Rocketbook Fusion Smart Reusable Notebook",10,2
+Massachusetts,110,"Sticky Notes (3x3, Yellow, Pack of 12)",10,2
+Massachusetts,110,"Moleskine Weekly Planner (2024, Black)",10,2
+Massachusetts,110,"Five Star Wirebound Notebook (1 Subject, College Ruled)",10,2
+Massachusetts,110,"Field Notes Original Kraft Memo Books (3-Pack)",10,2
+Massachusetts,110,"Uni-ball Vision Elite Rollerball Pens (Blue)",10,2
+Massachusetts,110,"X-Acto KS Manual Pencil Sharpener",10,2
+Massachusetts,110,"Prismacolor Premier Colored Pencils (Set of 48)",10,2
+Massachusetts,110,"Artist Paintbrush Set (Pack of 10)",10,2
+Massachusetts,110,"Fellowes Mesh Desk Organizer",10,2
+Massachusetts,110,"Prismacolor Premier Art Markers (Set of 12)",10,2
+Massachusetts,110,"Dry Erase Wall Calendar (Monthly Layout)",10,2
+Massachusetts,110,"Elastic Book Bands (Set of 3)",10,2
+Massachusetts,110,"Staples D-Ring Binder (3-inch, Red)",11,6
+Massachusetts,110,"Ruler (12-inch, Stainless Steel)",11,3
+Massachusetts,110,"Field Notes Original Kraft Memo Books (3-Pack)",11,3
+Massachusetts,110,"Envelope Moistener with Adhesive",11,5
+Massachusetts,110,"Blue Sky Academic Planner (July 2024 – June 2025)",11,2
+Massachusetts,110,"Crayola Crayons (Pack of 64)",11,2
+Massachusetts,110,"Electric Desktop Pencil Sharpener (Heavy Duty)",11,2
+Massachusetts,110,"Legal Ruled Notepads (Yellow, Pack of 3)",11,2
+Massachusetts,110,"Bic Cristal Ballpoint Pens (Blue, Pack of 10)",11,4
+Massachusetts,110,"Stabilo Boss Original Highlighters (Fluorescent, Pack of 6)",11,2
+Massachusetts,110,"Plastic Report Covers (Clear Front, Pack of 10)",11,2
+Massachusetts,110,"Letter Opener (Stainless Steel)",11,2
+Massachusetts,110,"Ticonderoga No",11,2
+Massachusetts,110,"Zebra Mildliner Highlighters (Pastel Colors, Pack of 15)",11,2
+Massachusetts,110,"Fiskars Softgrip Craft Scissors (5-inch)",11,2
+Massachusetts,110,"Acrylic Paint Set (Set of 12 Tubes)",11,2
+Massachusetts,110,"Day Designer Daily Planner (Undated)",11,2
+Massachusetts,110,"Artist Paintbrush Set (Pack of 10)",11,2
+Massachusetts,110,"Binder Clips (Assorted Sizes, Pack of 36)",11,4
+Massachusetts,110,"Bic Cristal Ballpoint Pens (Black, Pack of 10)",11,4
+Massachusetts,110,"Laminate File Jackets (Assorted Colors, Pack of 12)",11,2
+Massachusetts,110,"Pentel EnerGel Deluxe Retractable Pens (Black)",11,2
+Massachusetts,110,"Rubber Bands (Assorted Sizes, Pack of 100)",11,2
+Massachusetts,110,"Dry Erase Wall Calendar (Monthly Layout)",11,2
+Massachusetts,110,"Sharpie Fine Point Permanent Markers (Assorted Colors, Pack of 12)",11,4
+Massachusetts,110,"Paper Cutter Trimmer (Letter Size)",11,2
+Massachusetts,110,"Elmers Washable School Glue (4 oz)",11,2
+Massachusetts,110,"Pilot G2 Retractable Gel Pens (Blue)",11,2
+Massachusetts,110,"Pentel Hi-Polymer Block Erasers (Pack of 3)",11,2
+Massachusetts,110,"Avery Heavy-Duty 3-Ring Binder (1-inch, White)",11,2
+Massachusetts,110,"Pentel EnerGel Deluxe Retractable Pens (Blue)",11,2
+Massachusetts,110,"Command Poster Strips",11,2
+Massachusetts,110,"Paper Mate Pink Pearl Erasers (Pack of 6)",11,2
+Massachusetts,110,"Uni-ball Vision Elite Rollerball Pens (Black)",11,2
+Massachusetts,110,"Canson XL Mixed Media Sketchbook (9x12 inches)",11,2
+Massachusetts,110,"Moleskine Classic Hardcover Notebook (Grid, Red)",11,2
+Massachusetts,110,"Pendaflex Hanging File Folders (Assorted Colors, Pack of 25)",11,2
+Massachusetts,110,"Swingline Standard Stapler (Black)",11,2
+Massachusetts,110,"Sharpie Fine Point Permanent Markers (Black)",11,2
+Massachusetts,110,"Duck Brand Duct Tape (Black, 10 Yards)",11,2
+Massachusetts,110,"Badge Lanyards (Assorted Colors, Set of 5)",11,2
+Massachusetts,110,"Tesa Masking Tape (2-inch Roll)",12,3
+Massachusetts,110,"Letter Opener (Stainless Steel)",12,5
+Massachusetts,110,"Five Star Flex Hybrid NoteBinder",12,3
+Massachusetts,110,"Elastic Book Bands (Set of 3)",12,2
+Massachusetts,110,"Sticky Notes (3x3, Yellow, Pack of 12)",12,4
+Massachusetts,110,"Staedtler Mars Lumograph Drawing Pencils (Set of 12)",12,2
+Massachusetts,110,"Command Poster Strips",12,4
+Massachusetts,110,"Fiskars Softgrip Craft Scissors (5-inch)",12,4
+Massachusetts,110,"Pilot Precise V5 RT Rollerball Pens (Black)",12,4
+Massachusetts,110,"3M Transparent Tape (Pack of 12)",12,2
+Massachusetts,110,"Acrylic Paint Set (Set of 12 Tubes)",12,7
+Massachusetts,110,"Binder Clips (Assorted Sizes, Pack of 36)",12,4
+Massachusetts,110,"Five Star Wirebound Notebook (1 Subject, College Ruled)",12,2
+Massachusetts,110,"Prismacolor Premier Colored Pencils (Set of 48)",12,2
+Massachusetts,110,"Dry Erase Wall Calendar (Monthly Layout)",12,5
+Massachusetts,110,"Cork Bulletin Board with Push Pins",12,2
+Massachusetts,110,"Bic Cristal Ballpoint Pens (Black, Pack of 10)",12,4
+Massachusetts,110,"Plastic Report Covers (Clear Front, Pack of 10)",12,3
+Massachusetts,110,"Blue Sky Academic Planner (July 2024 – June 2025)",12,5
+Massachusetts,110,"Zebra Mildliner Highlighters (Pastel Colors, Pack of 15)",12,3
+Massachusetts,110,"Artist Paintbrush Set (Pack of 10)",12,3
+Massachusetts,110,"Avery Heavy-Duty 3-Ring Binder (1-inch, White)",12,3
+Massachusetts,110,"Envelope Moistener with Adhesive",12,3
+Massachusetts,110,"Field Notes Original Kraft Memo Books (3-Pack)",12,3
+Massachusetts,110,"Sharpie Fine Point Permanent Markers (Assorted Colors, Pack of 12)",12,3
+Massachusetts,110,"Elmers Washable School Glue (4 oz)",12,2
+Massachusetts,110,"Bic Cristal Ballpoint Pens (Blue, Pack of 10)",12,2
+Massachusetts,110,"Pentel EnerGel Deluxe Retractable Pens (Black)",12,4
+Massachusetts,110,"Pilot G2 Retractable Gel Pens (Blue)",12,2
+Massachusetts,110,"Day Designer Daily Planner (Undated)",12,3
+Massachusetts,110,"Ruler (12-inch, Stainless Steel)",12,2
+Massachusetts,110,"Pentel EnerGel Deluxe Retractable Pens (Blue)",12,2
+Massachusetts,110,"Ticonderoga No",12,2
+Massachusetts,110,"Rubber Bands (Assorted Sizes, Pack of 100)",12,2
+Massachusetts,110,"Stabilo Boss Original Highlighters (Fluorescent, Pack of 6)",12,2
+Massachusetts,110,"Staples D-Ring Binder (3-inch, Red)",12,2
+Massachusetts,110,"Paper Cutter Trimmer (Letter Size)",12,2
+Massachusetts,110,"Crayola Crayons (Pack of 64)",12,2
+Massachusetts,110,"Electric Desktop Pencil Sharpener (Heavy Duty)",12,2
+Massachusetts,110,"Laminate File Jackets (Assorted Colors, Pack of 12)",12,2
+Massachusetts,110,"Pentel Hi-Polymer Block Erasers (Pack of 3)",12,2
+Massachusetts,110,"Legal Ruled Notepads (Yellow, Pack of 3)",12,2
+Massachusetts,110,"Cable Management Clips (Set of 20)",12,3
+Massachusetts,110,"Index Cards (3x5, White, Pack of 500)",12,3
+Massachusetts,110,"Fellowes Mesh Desk Organizer",12,2
+Massachusetts,110,"Winsor & Newton Watercolor Paint Set (12 Colors)",12,2
+Massachusetts,110,"Washi Tape (Assorted Patterns, Set of 10 Rolls)",12,2
+Massachusetts,110,"Crayola Colored Pencils (Pack of 24)",12,2
+Massachusetts,110,"Prismacolor Premier Art Markers (Set of 12)",12,2
+Massachusetts,110,"Moleskine Weekly Planner (2024, Black)",12,2
+Massachusetts,110,"Paper Mate Pink Pearl Erasers (Pack of 6)",12,2
+Massachusetts,110,"Uni-ball Vision Elite Rollerball Pens (Black)",12,2
+Massachusetts,110,"Ruled Index Cards (4x6, Assorted Colors, Pack of 100)",12,2
+Massachusetts,110,"Avery Index Dividers with Tabs (5-Tab, Multicolor)",12,1
+Massachusetts,110,"Strathmore Bristol Paper Pad (11x17 inches)",12,2
+Massachusetts,110,"Gorilla Glue Super Glue Gel",12,2
+Massachusetts,115,"Canson Comic Book Art Boards (11x17 inches)",1,3
+Massachusetts,115,"Holbein Artist Gouache Set (24 Colors)",1,2
+Massachusetts,115,"Melissa & Doug Easel Paper Rolls (2-Pack)",1,2
+Massachusetts,115,"Olfa Rotary Cutter (45mm)",1,2
+Massachusetts,115,"Winsor & Newton Cotman Watercolor Brushes (Set of 5)",1,2
+Massachusetts,115,"Wooden Oval Paint Palette",1,2
+Massachusetts,115,"Sennelier Soft Pastels (Set of 24)",1,2
+Massachusetts,115,"Daniel Smith Extra Fine Watercolors (6-Tube Set)",1,2
+Massachusetts,115,"Wax Carving Tools (Set of 10)",1,2
+Massachusetts,115,"Wire Armature for Sculpting (16 Gauge, 10 feet)",1,2
+Massachusetts,115,"Elmers Glue-All (16 oz)",1,1
+Massachusetts,115,"Speedball Calligraphy Ink (Black)",1,2
+Massachusetts,115,"Conte Crayons (Set of 12)",1,2
+Massachusetts,115,"Field Sketch Easel (Aluminum, Portable)",1,2
+Massachusetts,115,"Artify Professional Oil Paint Brush Set (15 Brushes)",1,1
+Massachusetts,115,"Sharpie Fine Point Markers (Set of 24)",1,2
+Massachusetts,115,"Strathmore Sketch Pad (9x12 inches)",1,2
+Massachusetts,115,"Winsor & Newton Masking Fluid (75ml)",1,2
+Massachusetts,115,"Kneaded Erasers (Set of 3)",1,2
+Massachusetts,115,"Crayola Glitter Glue (Set of 9)",1,2
+Massachusetts,115,"Spray Fixative for Drawings (11 oz)",1,2
+Massachusetts,115,"Fabriano Watercolor Paper (12-Sheet Block, Cold Pressed)",1,1
+Massachusetts,115,"Golden Heavy Body Acrylic Paints (Set of 6)",2,2
+Massachusetts,115,"Kneaded Erasers (Set of 3)",2,2
+Massachusetts,115,"Calligraphy Dip Pen with Nibs (Set of 6)",2,2
+Massachusetts,115,"Winsor & Newton Oil Paint Set (10 Tubes)",2,2
+Massachusetts,115,"UHU Glue Stick (Pack of 3)",2,2
+Massachusetts,115,"Spray Fixative for Drawings (11 oz)",2,2
+Massachusetts,115,"Wire Armature for Sculpting (16 Gauge, 10 feet)",2,2
+Massachusetts,115,"Liquitex Basics Acrylic Paint Set (48 Tubes)",2,2
+Massachusetts,115,"Plaster of Paris (5 lbs)",2,2
+Massachusetts,115,"Stretched Canvas (16x20 inches, Pack of 2)",2,2
+Massachusetts,115,"Arteza Acrylic Paint Set (60 Colors)",2,2
+Massachusetts,115,"Faber-Castell Pitt Artist Pens (Set of 12, Black)",2,2
+Massachusetts,115,"Canvas Panels (Pack of 10, 8x10 inches)",2,2
+Massachusetts,115,"Play-Doh Modeling Compound (Pack of 10)",2,2
+Massachusetts,115,"Masterson Artist Palette Seal",2,2
+Massachusetts,115,"Fan Brush Set (Set of 6, Synthetic Hair)",2,2
+Massachusetts,115,"Fiskars 12-Inch Paper Trimmer",3,3
+Massachusetts,115,"Sakura Pigma Micron Pens (Set of 8, Black)",3,3
+Massachusetts,115,"Clay Roller and Cutter Set",3,3
+Massachusetts,115,"Play-Doh Modeling Compound (Pack of 10)",3,2
+Massachusetts,115,"Self-Healing Cutting Mat (18x24 inches)",3,2
+Massachusetts,115,"Liquitex Basics Acrylic Paint Set (48 Tubes)",3,2
+Massachusetts,115,"Artify Professional Oil Paint Brush Set (15 Brushes)",3,2
+Massachusetts,115,"Art Supply Caddy (Rolling Cart)",3,2
+Massachusetts,115,"Foam Brushes (Assorted Sizes, Pack of 20)",3,2
+Massachusetts,115,"Speedball Calligraphy Ink (Black)",3,2
+Massachusetts,115,"Conte Crayons (Set of 12)",3,1
+Massachusetts,115,"Faber-Castell Pitt Artist Pens (Set of 12, Black)",3,2
+Massachusetts,115,"Chavant NSP Soft Sculpting Clay (Green)",3,2
+Massachusetts,115,"Pencil and Marker Organizer Tray",3,2
+Massachusetts,115,"Silver Brush Limited Ruby Satin Brushes (Set of 6)",3,2
+Massachusetts,115,"Elmers Glue-All (16 oz)",3,2
+Massachusetts,115,"Stainless Steel Clay Modeling Tools (Set of 11)",3,2
+Massachusetts,115,"Double-Sided Adhesive Tape (Roll)",3,2
+Massachusetts,115,"Newsprint Paper Pad (18x24 inches)",3,2
+Massachusetts,115,"Melissa & Doug Easel Paper Rolls (2-Pack)",3,2
+Massachusetts,115,"Wire Armature for Sculpting (16 Gauge, 10 feet)",4,3
+Massachusetts,115,"Silver Brush Limited Ruby Satin Brushes (Set of 6)",4,3
+Massachusetts,115,"Liquitex Basics Acrylic Paint Set (48 Tubes)",4,2
+Massachusetts,115,"Mod Podge Matte Finish (8 oz)",4,2
+Massachusetts,115,"Crayola Crayons (Set of 64)",4,2
+Massachusetts,115,"Air-Dry Clay (10 lbs, White)",4,1
+Massachusetts,115,"Kid-Safe Scissors (Set of 2)",4,2
+Massachusetts,115,"Sharpie Fine Point Markers (Set of 24)",4,2
+Massachusetts,115,"Fabriano Watercolor Paper (12-Sheet Block, Cold Pressed)",4,2
+Massachusetts,115,"Holbein Artist Gouache Set (24 Colors)",4,2
+Massachusetts,115,"Pencil and Marker Organizer Tray",4,2
+Massachusetts,115,"DAS Modelling Clay (2.2 lbs, Terra Cotta)",4,2
+Massachusetts,115,"Disposable Paper Palette Pad (30 Sheets)",4,2
+Massachusetts,115,"Strathmore Sketch Pad (9x12 inches)",4,2
+Massachusetts,115,"Foam Brushes (Assorted Sizes, Pack of 20)",4,2
+Massachusetts,115,"Melissa & Doug Easel Paper Rolls (2-Pack)",4,2
+Massachusetts,115,"Daniel Smith Extra Fine Watercolors (6-Tube Set)",4,1
+Massachusetts,115,"Hand Lettering Practice Workbook",4,2
+Massachusetts,115,"Sakura Pigma Micron Pens (Set of 8, Black)",4,2
+Massachusetts,115,"Winsor & Newton Masking Fluid (75ml)",4,2
+Massachusetts,115,"Artify Professional Oil Paint Brush Set (15 Brushes)",4,2
+Massachusetts,115,"Sennelier Soft Pastels (Set of 24)",4,2
+Massachusetts,115,"X-Acto Knife Set with Extra Blades",4,2
+Massachusetts,115,"Winsor & Newton Cotman Watercolor Brushes (Set of 5)",4,2
+Massachusetts,115,"Canson Comic Book Art Boards (11x17 inches)",4,2
+Massachusetts,115,"Elmers Glue-All (16 oz)",4,2
+Massachusetts,115,"Masking Tape (Artist Grade)",4,1
+Massachusetts,115,"Copic Sketch Markers (Set of 24)",4,1
+Massachusetts,115,"Steel Ruler (12-inch)",5,3
+Massachusetts,115,"Tombow Fudenosuke Brush Pens (Hard and Soft Tip)",5,3
+Massachusetts,115,"Kid-Safe Scissors (Set of 2)",5,5
+Massachusetts,115,"Calligraphy Dip Pen with Nibs (Set of 6)",5,2
+Massachusetts,115,"Speedball Calligraphy Ink (Black)",5,4
+Massachusetts,115,"Fine Mist Spray Bottle for Watercolors",5,2
+Massachusetts,115,"Daniel Smith Extra Fine Watercolors (6-Tube Set)",5,2
+Massachusetts,115,"Hand Lettering Practice Workbook",5,2
+Massachusetts,115,"Artist Blending Stumps (Pack of 6)",5,2
+Massachusetts,115,"Masking Tape (Artist Grade)",5,2
+Massachusetts,115,"Melissa & Doug Easel Paper Rolls (2-Pack)",5,2
+Massachusetts,115,"Artify Professional Oil Paint Brush Set (15 Brushes)",5,4
+Massachusetts,115,"Gamblin 1980 Oil Color Set (8 Tubes)",5,3
+Massachusetts,115,"Canson Comic Book Art Boards (11x17 inches)",5,2
+Massachusetts,115,"Stretched Canvas (16x20 inches, Pack of 2)",5,2
+Massachusetts,115,"Arteza Acrylic Paint Set (60 Colors)",5,2
+Massachusetts,115,"Winsor & Newton Cotman Watercolor Brushes (Set of 5)",5,2
+Massachusetts,115,"Liquitex Basics Acrylic Paint Set (48 Tubes)",5,2
+Massachusetts,115,"Spray Fixative for Drawings (11 oz)",5,2
+Massachusetts,115,"Plastic Palette Knives (Set of 5)",5,2
+Massachusetts,115,"Sennelier Soft Pastels (Set of 24)",5,2
+Massachusetts,115,"Crayola Washable Watercolors (Set of 16)",5,2
+Massachusetts,115,"Fiskars 12-Inch Paper Trimmer",5,2
+Massachusetts,115,"Sakura Pigma Micron Pens (Set of 8, Black)",5,2
+Massachusetts,115,"Silver Brush Limited Ruby Satin Brushes (Set of 6)",5,1
+Massachusetts,115,"Staedtler Mars Lumograph Graphite Pencils (Set of 12)",6,2
+Massachusetts,115,"Silver Brush Limited Ruby Satin Brushes (Set of 6)",6,3
+Massachusetts,115,"Newsprint Paper Pad (18x24 inches)",6,3
+Massachusetts,115,"Daniel Smith Extra Fine Watercolors (6-Tube Set)",6,3
+Massachusetts,115,"Play-Doh Modeling Compound (Pack of 10)",6,3
+Massachusetts,115,"Calligraphy Dip Pen with Nibs (Set of 6)",6,3
+Massachusetts,115,"Glass Paint Mixing Palette (12x16 inches)",6,2
+Massachusetts,115,"Speedball Calligraphy Ink (Black)",6,2
+Massachusetts,115,"X-Acto Knife Set with Extra Blades",6,2
+Massachusetts,115,"Stainless Steel Clay Modeling Tools (Set of 11)",6,2
+Massachusetts,115,"Sta-Wet Palette for Acrylic Paints",6,2
+Massachusetts,115,"Tabletop Easel (Adjustable)",6,2
+Massachusetts,115,"Clay Roller and Cutter Set",6,2
+Massachusetts,115,"Strathmore Toned Tan Sketch Paper Pad (9x12 inches)",6,2
+Massachusetts,115,"Fiskars 12-Inch Paper Trimmer",6,2
+Massachusetts,115,"Hand Lettering Practice Workbook",6,2
+Massachusetts,115,"Art Supply Caddy (Rolling Cart)",6,2
+Massachusetts,115,"Self-Healing Cutting Mat (18x24 inches)",6,2
+Massachusetts,115,"UHU Glue Stick (Pack of 3)",6,2
+Massachusetts,115,"Plaster of Paris (5 lbs)",6,2
+Massachusetts,115,"Crayola Washable Kids’ Paint Brushes (Set of 10)",6,2
+Massachusetts,115,"Kid-Safe Scissors (Set of 2)",6,2
+Massachusetts,115,"Elmers Glue-All (16 oz)",6,2
+Massachusetts,115,"Pentel Arts Oil Pastels (Set of 50)",6,2
+Massachusetts,115,"Foam Brushes (Assorted Sizes, Pack of 20)",6,2
+Massachusetts,115,"Wire Armature for Sculpting (16 Gauge, 10 feet)",6,2
+Massachusetts,115,"Winsor & Newton Masking Fluid (75ml)",6,2
+Massachusetts,115,"Bristol Smooth Paper Pad (9x12 inches)",6,2
+Massachusetts,115,"Sakura Pigma Micron Pens (Set of 8, Black)",6,2
+Massachusetts,115,"Spray Fixative for Drawings (11 oz)",6,2
+Massachusetts,115,"Holbein Artist Gouache Set (24 Colors)",6,2
+Massachusetts,115,"Arches Watercolor Paper (Hot Pressed, 10x14 inches)",6,2
+Massachusetts,115,"Black Drawing Paper Pad (8.5x11 inches)",6,2
+Massachusetts,115,"Artify Professional Oil Paint Brush Set (15 Brushes)",6,2
+Massachusetts,115,"Chavant NSP Soft Sculpting Clay (Green)",6,2
+Massachusetts,115,"Pilot Parallel Pen Calligraphy Set",6,2
+Massachusetts,115,"Aleenes Tacky Glue (4 oz)",6,2
+Massachusetts,115,"Winsor & Newton Oil Paint Set (10 Tubes)",6,2
+Massachusetts,115,"Canson Comic Book Art Boards (11x17 inches)",6,2
+Massachusetts,115,"DAS Modelling Clay (2.2 lbs, Terra Cotta)",6,2
+Massachusetts,115,"Fabriano Watercolor Paper (12-Sheet Block, Cold Pressed)",6,2
+Massachusetts,115,"Canson Comic Book Art Boards (11x17 inches)",7,3
+Massachusetts,115,"Strathmore Toned Tan Sketch Paper Pad (9x12 inches)",7,3
+Massachusetts,115,"Faber-Castell Pitt Artist Pens (Set of 12, Black)",7,3
+Massachusetts,115,"Crayola Glitter Glue (Set of 9)",7,3
+Massachusetts,115,"X-Acto Knife Set with Extra Blades",7,2
+Massachusetts,115,"Sharpie Fine Point Markers (Set of 24)",7,2
+Massachusetts,115,"Speedball Calligraphy Ink (Black)",7,2
+Massachusetts,115,"Elmers Glue-All (16 oz)",7,2
+Massachusetts,115,"Tabletop Easel (Adjustable)",7,2
+Massachusetts,115,"Self-Healing Cutting Mat (18x24 inches)",7,2
+Massachusetts,115,"Daniel Smith Extra Fine Watercolors (6-Tube Set)",7,2
+Massachusetts,115,"Fabriano Watercolor Paper (12-Sheet Block, Cold Pressed)",7,2
+Massachusetts,115,"Bristol Smooth Paper Pad (9x12 inches)",7,2
+Massachusetts,115,"Winsor & Newton Oil Paint Set (10 Tubes)",7,2
+Massachusetts,115,"Daler-Rowney Gouache Paint Set (12 Tubes)",7,2
+Massachusetts,115,"Pencil and Marker Organizer Tray",7,2
+Massachusetts,115,"Winsor & Newton Professional Watercolor Set (12 Tubes)",7,2
+Massachusetts,115,"Masking Tape (Artist Grade)",7,2
+Massachusetts,115,"Moleskine Art Sketchbook (8.5x11 inches)",7,2
+Massachusetts,115,"Crayola Glitter Glue (Set of 9)",8,3
+Massachusetts,115,"Sculpey Polymer Clay Starter Kit (Set of 12 Colors)",8,3
+Massachusetts,115,"Wax Carving Tools (Set of 10)",8,3
+Massachusetts,115,"Sakura Pigma Micron Pens (Set of 8, Black)",8,3
+Massachusetts,115,"Tombow Fudenosuke Brush Pens (Hard and Soft Tip)",8,3
+Massachusetts,115,"Tombow Dual Brush Pens (Set of 20)",8,2
+Massachusetts,115,"Daniel Smith Extra Fine Watercolors (6-Tube Set)",8,2
+Massachusetts,115,"Arteza Acrylic Paint Set (60 Colors)",8,2
+Massachusetts,115,"Canson Comic Book Art Boards (11x17 inches)",8,2
+Massachusetts,115,"Kid-Safe Scissors (Set of 2)",8,2
+Massachusetts,115,"Crayola Crayons (Set of 64)",8,2
+Massachusetts,115,"Wooden Pottery Tools Set (Set of 8)",8,1
+Massachusetts,115,"UHU Glue Stick (Pack of 3)",8,2
+Massachusetts,115,"Melissa & Doug Easel Paper Rolls (2-Pack)",8,2
+Massachusetts,115,"Chavant NSP Soft Sculpting Clay (Green)",8,2
+Massachusetts,115,"Newsprint Paper Pad (18x24 inches)",8,2
+Massachusetts,115,"Masterson Artist Palette Seal",8,2
+Massachusetts,115,"Olfa Rotary Cutter (45mm)",8,2
+Massachusetts,115,"Canson XL Mixed Media Pad (11x14 inches)",8,2
+Massachusetts,115,"Mod Podge Matte Finish (8 oz)",8,2
+Massachusetts,115,"Gamblin 1980 Oil Color Set (8 Tubes)",8,2
+Massachusetts,115,"Princeton Velvetouch Mixed-Media Brushes (Set of 4)",9,3
+Massachusetts,115,"Bristol Smooth Paper Pad (9x12 inches)",9,3
+Massachusetts,115,"Strathmore Sketch Pad (9x12 inches)",9,2
+Massachusetts,115,"Crayola Washable Kids’ Paint Brushes (Set of 10)",9,2
+Massachusetts,115,"Winsor & Newton Oil Paint Set (10 Tubes)",9,2
+Massachusetts,115,"Clay Roller and Cutter Set",9,2
+Massachusetts,115,"Newsprint Paper Pad (18x24 inches)",9,2
+Massachusetts,115,"Tombow Dual Brush Pens (Set of 20)",9,2
+Massachusetts,115,"Conte Crayons (Set of 12)",9,2
+Massachusetts,115,"Tombow Fudenosuke Brush Pens (Hard and Soft Tip)",9,2
+Massachusetts,115,"Crayola Washable Watercolors (Set of 16)",9,2
+Massachusetts,115,"Studio Floor Easel (H-Frame, Wood)",9,2
+Massachusetts,115,"Arteza Acrylic Paint Set (60 Colors)",9,2
+Massachusetts,115,"Crayola Glitter Glue (Set of 9)",9,2
+Massachusetts,115,"Winsor & Newton Cotman Watercolor Brushes (Set of 5)",9,2
+Massachusetts,115,"Artist Blending Stumps (Pack of 6)",9,2
+Massachusetts,115,"Plastic Palette Knives (Set of 5)",9,2
+Massachusetts,115,"Field Sketch Easel (Aluminum, Portable)",10,3
+Massachusetts,115,"Fiskars 12-Inch Paper Trimmer",10,3
+Massachusetts,115,"Conte Crayons (Set of 12)",10,3
+Massachusetts,115,"Sta-Wet Palette for Acrylic Paints",10,3
+Massachusetts,115,"Crayola Crayons (Set of 64)",10,3
+Massachusetts,115,"Studio Floor Easel (H-Frame, Wood)",10,3
+Massachusetts,115,"Canson XL Mixed Media Pad (11x14 inches)",10,3
+Massachusetts,115,"Double-Sided Adhesive Tape (Roll)",10,3
+Massachusetts,115,"Kid-Safe Scissors (Set of 2)",10,3
+Massachusetts,115,"Arches Watercolor Paper (Hot Pressed, 10x14 inches)",10,2
+Massachusetts,115,"Reeves Acrylic Paints (Set of 24)",10,2
+Massachusetts,115,"Sakura Pigma Micron Pens (Set of 8, Black)",10,2
+Massachusetts,115,"Clay Roller and Cutter Set",10,2
+Massachusetts,115,"Fine Mist Spray Bottle for Watercolors",10,2
+Massachusetts,115,"Holbein Artist Gouache Set (24 Colors)",10,2
+Massachusetts,115,"Wooden Oval Paint Palette",10,2
+Massachusetts,115,"Royal & Langnickel Zen Brush Set (Acrylic, Set of 8)",10,2
+Massachusetts,115,"Canson Comic Book Art Boards (11x17 inches)",10,2
+Massachusetts,115,"Winsor & Newton Masking Fluid (75ml)",10,2
+Massachusetts,115,"Gamblin 1980 Oil Color Set (8 Tubes)",10,2
+Massachusetts,115,"Sculpey Polymer Clay Starter Kit (Set of 12 Colors)",10,2
+Massachusetts,115,"Winsor & Newton Cotman Watercolor Brushes (Set of 5)",10,2
+Massachusetts,115,"Stainless Steel Clay Modeling Tools (Set of 11)",10,2
+Massachusetts,115,"Pencil and Marker Organizer Tray",10,2
+Massachusetts,115,"Chavant NSP Soft Sculpting Clay (Green)",10,2
+Massachusetts,115,"Creative Mark Rhapsody Kolinsky Brushes (Set of 3)",10,2
+Massachusetts,115,"Fabriano Watercolor Paper (12-Sheet Block, Cold Pressed)",10,2
+Massachusetts,115,"Stretched Canvas (16x20 inches, Pack of 2)",10,2
+Massachusetts,115,"Play-Doh Modeling Compound (Pack of 10)",10,2
+Massachusetts,115,"Tombow Fudenosuke Brush Pens (Hard and Soft Tip)",10,2
+Massachusetts,115,"Prismacolor Premier Colored Pencils (Set of 72)",11,2
+Massachusetts,115,"Fiskars 12-Inch Paper Trimmer",11,3
+Massachusetts,115,"Wax Carving Tools (Set of 10)",11,3
+Massachusetts,115,"Fine Mist Spray Bottle for Watercolors",11,2
+Massachusetts,115,"Winsor & Newton Cotman Watercolor Brushes (Set of 5)",11,2
+Massachusetts,115,"Melissa & Doug Easel Paper Rolls (2-Pack)",11,2
+Massachusetts,115,"Moleskine Art Sketchbook (8.5x11 inches)",11,2
+Massachusetts,115,"Golden Heavy Body Acrylic Paints (Set of 6)",11,4
+Massachusetts,115,"Fabriano Watercolor Paper (12-Sheet Block, Cold Pressed)",11,2
+Massachusetts,115,"Arches Watercolor Paper (Hot Pressed, 10x14 inches)",11,2
+Massachusetts,115,"ArtBin Essentials Box (Plastic Storage Container)",11,2
+Massachusetts,115,"Plastic Palette Knives (Set of 5)",11,2
+Massachusetts,115,"Self-Healing Cutting Mat (18x24 inches)",11,2
+Massachusetts,115,"Faber-Castell Pitt Artist Pens (Set of 12, Black)",11,2
+Massachusetts,115,"Hand Lettering Practice Workbook",11,2
+Massachusetts,115,"Tombow Dual Brush Pens (Set of 20)",11,4
+Massachusetts,115,"Play-Doh Modeling Compound (Pack of 10)",11,4
+Massachusetts,115,"Olfa Rotary Cutter (45mm)",11,2
+Massachusetts,115,"Daniel Smith Extra Fine Watercolors (6-Tube Set)",11,2
+Massachusetts,115,"Crayola Washable Kids’ Paint Brushes (Set of 10)",11,2
+Massachusetts,115,"Reeves Acrylic Paints (Set of 24)",11,2
+Massachusetts,115,"Air-Dry Clay (10 lbs, White)",11,2
+Massachusetts,115,"Da Vinci Maestro Series 10 Brushes (Round, Set of 3)",11,2
+Massachusetts,115,"Winsor & Newton Oil Paint Set (10 Tubes)",11,2
+Massachusetts,115,"Kneaded Erasers (Set of 3)",11,2
+Massachusetts,115,"Clay Roller and Cutter Set",11,2
+Massachusetts,115,"Canson Comic Book Art Boards (11x17 inches)",11,2
+Massachusetts,115,"UHU Glue Stick (Pack of 3)",11,2
+Massachusetts,115,"Tombow Fudenosuke Brush Pens (Hard and Soft Tip)",11,2
+Massachusetts,115,"Winsor & Newton Masking Fluid (75ml)",11,2
+Massachusetts,115,"Strathmore Sketch Pad (9x12 inches)",11,3
+Massachusetts,115,"Pilot Parallel Pen Calligraphy Set",11,2
+Massachusetts,115,"Aleenes Tacky Glue (4 oz)",11,2
+Massachusetts,115,"Liquitex Basics Acrylic Paint Set (48 Tubes)",11,2
+Massachusetts,115,"Sharpie Fine Point Markers (Set of 24)",11,2
+Massachusetts,115,"Foam Brushes (Assorted Sizes, Pack of 20)",11,2
+Massachusetts,115,"Sculpey Polymer Clay Starter Kit (Set of 12 Colors)",11,2
+Massachusetts,115,"Chavant NSP Soft Sculpting Clay (Green)",11,2
+Massachusetts,115,"Gamblin 1980 Oil Color Set (8 Tubes)",11,2
+Massachusetts,115,"Spray Fixative for Drawings (11 oz)",11,2
+Massachusetts,115,"X-Acto Knife Set with Extra Blades",11,2
+Massachusetts,115,"Speedball Calligraphy Ink (Black)",11,1
+Massachusetts,115,"Sennelier Soft Pastels (Set of 24)",12,3
+Massachusetts,115,"Fabriano Watercolor Paper (12-Sheet Block, Cold Pressed)",12,5
+Massachusetts,115,"Winsor & Newton Cotman Watercolor Brushes (Set of 5)",12,5
+Massachusetts,115,"Holbein Artist Gouache Set (24 Colors)",12,3
+Massachusetts,115,"Crayola Glitter Glue (Set of 9)",12,3
+Massachusetts,115,"Artify Professional Oil Paint Brush Set (15 Brushes)",12,2
+Massachusetts,115,"Wax Carving Tools (Set of 10)",12,4
+Massachusetts,115,"Canson Comic Book Art Boards (11x17 inches)",12,4
+Massachusetts,115,"Olfa Rotary Cutter (45mm)",12,6
+Massachusetts,115,"Wooden Oval Paint Palette",12,2
+Massachusetts,115,"Strathmore Sketch Pad (9x12 inches)",12,2
+Massachusetts,115,"Sharpie Fine Point Markers (Set of 24)",12,2
+Massachusetts,115,"Melissa & Doug Easel Paper Rolls (2-Pack)",12,4
+Massachusetts,115,"Winsor & Newton Masking Fluid (75ml)",12,4
+Massachusetts,115,"Speedball Calligraphy Ink (Black)",12,2
+Massachusetts,115,"Field Sketch Easel (Aluminum, Portable)",12,4
+Massachusetts,115,"Spray Fixative for Drawings (11 oz)",12,2
+Massachusetts,115,"Elmers Glue-All (16 oz)",12,2
+Massachusetts,115,"Daniel Smith Extra Fine Watercolors (6-Tube Set)",12,4
+Massachusetts,115,"Conte Crayons (Set of 12)",12,2
+Massachusetts,115,"Kneaded Erasers (Set of 3)",12,4
+Massachusetts,115,"Wire Armature for Sculpting (16 Gauge, 10 feet)",12,2
+Massachusetts,115,"Faber-Castell Pitt Artist Pens (Set of 12, Black)",12,3
+Massachusetts,115,"Play-Doh Modeling Compound (Pack of 10)",12,3
+Massachusetts,115,"Reeves Acrylic Paints (Set of 24)",12,3
+Massachusetts,115,"Tombow Fudenosuke Brush Pens (Hard and Soft Tip)",12,5
+Massachusetts,115,"Arches Watercolor Paper (Hot Pressed, 10x14 inches)",12,3
+Massachusetts,115,"Golden Heavy Body Acrylic Paints (Set of 6)",12,5
+Massachusetts,115,"Tombow Dual Brush Pens (Set of 20)",12,2
+Massachusetts,115,"Da Vinci Maestro Series 10 Brushes (Round, Set of 3)",12,2
+Massachusetts,115,"Fiskars 12-Inch Paper Trimmer",12,2
+Massachusetts,115,"Plastic Palette Knives (Set of 5)",12,2
+Massachusetts,115,"Crayola Washable Kids’ Paint Brushes (Set of 10)",12,2
+Massachusetts,115,"ArtBin Essentials Box (Plastic Storage Container)",12,2
+Massachusetts,115,"Fine Mist Spray Bottle for Watercolors",12,2
+Massachusetts,115,"Self-Healing Cutting Mat (18x24 inches)",12,2
+Massachusetts,115,"Clay Roller and Cutter Set",12,2
+Massachusetts,115,"Air-Dry Clay (10 lbs, White)",12,1
+Massachusetts,115,"Moleskine Art Sketchbook (8.5x11 inches)",12,2
+Massachusetts,115,"Winsor & Newton Oil Paint Set (10 Tubes)",12,2
+Massachusetts,115,"Hand Lettering Practice Workbook",12,2
+Massachusetts,115,"UHU Glue Stick (Pack of 3)",12,2
+Massachusetts,115,"Liquitex Basics Acrylic Paint Set (48 Tubes)",12,3
+Massachusetts,115,"Gamblin 1980 Oil Color Set (8 Tubes)",12,2
+Massachusetts,115,"Double-Sided Adhesive Tape (Roll)",12,2
+Massachusetts,115,"Copic Sketch Markers (Set of 24)",12,2
+Massachusetts,115,"Pentel Arts Oil Pastels (Set of 50)",12,2
+Massachusetts,115,"Art Supply Caddy (Rolling Cart)",12,2
+Massachusetts,120,"HP Spectre x360",1,3
+Massachusetts,120,"AutoDesk AutoCAD",1,3
+Massachusetts,120,"Microsoft Office 365",1,3
+Massachusetts,120,"HP Prime Graphing Calculator",1,3
+Massachusetts,120,"Anker PowerPort III 65W Pod",1,3
+Massachusetts,120,"Zoom Video Conferencing Pro License",1,3
+Massachusetts,120,"SteelSeries Arctis 7+",1,2
+Massachusetts,120,"Aukey Omnia 65W Fast Charger",1,2
+Massachusetts,120,"Adobe Creative Cloud Suite",1,2
+Massachusetts,120,"Teclast T40 Pro",1,2
+Massachusetts,120,"Razer Kraken X",1,2
+Massachusetts,120,"Anker PowerExpand USB-C Dock",1,2
+Massachusetts,120,"Apple MacBook Air (M2, 13-inch)",1,2
+Massachusetts,120,"Zotero Citation Manager",1,2
+Massachusetts,120,"ASUS USB-C 65W Charger",1,2
+Massachusetts,120,"Anker Soundcore Life Q30",1,2
+Massachusetts,120,"Dell Latitude 7320 Detachable",1,2
+Massachusetts,120,"Visual Studio 2022",1,2
+Massachusetts,120,"Sketch App License",1,2
+Massachusetts,120,"Samsung Galaxy Buds 2 Pro",1,2
+Massachusetts,120,"Lenovo Yoga 7i",1,2
+Massachusetts,120,"Texas Instruments TI-89 Titanium",1,2
+Massachusetts,120,"Realme Pad",1,2
+Massachusetts,120,"Notion Pro",1,2
+Massachusetts,120,"Samsung Galaxy Tab S9 Ultra",2,4
+Massachusetts,120,"Slack Premium",2,2
+Massachusetts,120,"Apple MagSafe Charger",2,2
+Massachusetts,120,"Samsung 25W Super Fast Charger",2,2
+Massachusetts,120,"Lenovo IdeaPad Flex 5",2,2
+Massachusetts,120,"Microsoft Sculpt Ergonomic Keyboard",2,2
+Massachusetts,120,"Texas Instruments TI-84 Plus CE",2,2
+Massachusetts,120,"WD My Passport HDD (4TB)",2,1
+Massachusetts,120,"Intuit QuickBooks Student Edition",2,2
+Massachusetts,120,"Philips Hue Play HDMI Sync Box",2,2
+Massachusetts,120,"Apple iPad Air (10.9-inch)",2,2
+Massachusetts,120,"Samsung T7 Touch Portable SSD (2TB)",2,2
+Massachusetts,120,"Lenovo ThinkPad X1 Carbon",2,2
+Massachusetts,120,"Anker PowerPort III 65W Pod",2,2
+Massachusetts,120,"Belkin BoostCharge 32W USB-C Wall Charger",2,2
+Massachusetts,120,"Seagate Backup Plus Hub (8TB)",2,2
+Massachusetts,120,"MATLAB Student Edition",2,2
+Massachusetts,120,"Python Programming Language Installer",2,2
+Massachusetts,120,"Casio fx-9750GII",2,2
+Massachusetts,120,"TCL NXTPAPER 10s",2,2
+Massachusetts,120,"Samsung Galaxy Tab S9 Ultra",3,2
+Massachusetts,120,"Slack Premium",3,4
+Massachusetts,120,"Apple Magic Keyboard",3,3
+Massachusetts,120,"Lenovo IdeaPad Flex 5",3,3
+Massachusetts,120,"TCL NXTPAPER 10s",3,2
+Massachusetts,120,"HP Elite x2 G8",3,2
+Massachusetts,120,"RODE NT-USB Mini Microphone",3,2
+Massachusetts,120,"HP Prime Graphing Calculator",3,2
+Massachusetts,120,"Blue Yeti Nano USB Microphone",3,2
+Massachusetts,120,"JBL Live 660NC",3,2
+Massachusetts,120,"Samsung Galaxy Buds 2 Pro",3,2
+Massachusetts,120,"Apple MacBook Air (M2, 13-inch)",3,2
+Massachusetts,120,"Acer Aspire 5",3,2
+Massachusetts,120,"AVerMedia Live Streamer CAM 513",3,1
+Massachusetts,120,"Microsoft Surface Headphones 2",3,2
+Massachusetts,120,"Sony ECM-W2BT Wireless Microphone",3,2
+Massachusetts,120,"ASUS USB-C 65W Charger",3,2
+Massachusetts,120,"Logitech G PRO X Wireless",3,2
+Massachusetts,120,"GitHub Pro",3,2
+Massachusetts,120,"SPSS Statistics for Students",3,2
+Massachusetts,120,"Apple 67W USB-C Power Adapter",3,2
+Massachusetts,120,"Evernote Premium",3,2
+Massachusetts,120,"Samsung T7 Touch Portable SSD (2TB)",3,2
+Massachusetts,120,"Razer Kraken X",3,2
+Massachusetts,120,"MSI Creator Z16",3,2
+Massachusetts,120,"Google Pixel USB-C 30W Power Adapter",3,2
+Massachusetts,120,"Logitech StreamCam",3,2
+Massachusetts,120,"Samsung Galaxy Tab S9 Ultra",4,5
+Massachusetts,120,"HyperJuice GaN 100W Charger",4,3
+Massachusetts,120,"ASUS VivoBook S15",4,3
+Massachusetts,120,"Google Pixel USB-C 30W Power Adapter",4,2
+Massachusetts,120,"Casio fx-CG50",4,2
+Massachusetts,120,"Belkin BoostCharge 32W USB-C Wall Charger",4,2
+Massachusetts,120,"Apple iPad Air (10.9-inch)",4,2
+Massachusetts,120,"HP Prime Graphing Calculator",4,2
+Massachusetts,120,"Beats Studio Buds",4,2
+Massachusetts,120,"RODE NT-USB Mini Microphone",4,2
+Massachusetts,120,"Apple MagSafe Charger",4,2
+Massachusetts,120,"JBL Live 660NC",4,2
+Massachusetts,120,"Apple iPad Pro (12.9-inch, M2)",4,2
+Massachusetts,120,"Elgato Stream Deck MK",4,2
+Massachusetts,120,"Razer Blade 14",4,2
+Massachusetts,120,"Zoom Video Conferencing Pro License",4,2
+Massachusetts,120,"Bose SoundSport Free",4,2
+Massachusetts,120,"Samsung Galaxy Tab A8",4,2
+Massachusetts,120,"Samsung T7 Touch Portable SSD (2TB)",4,2
+Massachusetts,120,"Anker PowerPort III 65W Pod",4,2
+Massachusetts,120,"HyperX Cloud II Wireless",4,2
+Massachusetts,120,"TCL NXTPAPER 10s",4,2
+Massachusetts,120,"Sketch App License",4,2
+Massachusetts,120,"ASUS USB-C 65W Charger",4,2
+Massachusetts,120,"Audio-Technica ATH-M50xBT2",4,2
+Massachusetts,120,"HP Elite x2 G8",4,2
+Massachusetts,120,"LG Gram 17",4,2
+Massachusetts,120,"Razer DeathAdder V2 Mouse",4,2
+Massachusetts,120,"Dell XPS 13",4,2
+Massachusetts,120,"Grammarly Premium",4,1
+Massachusetts,120,"Blue Yeti Nano USB Microphone",4,2
+Massachusetts,120,"Microsoft Sculpt Ergonomic Keyboard",4,2
+Massachusetts,120,"UGREEN Nexode 140W USB-C Charger",4,2
+Massachusetts,120,"Logitech MX Master 3S Mouse",4,2
+Massachusetts,120,"Final Draft 12",4,2
+Massachusetts,120,"Philips Hue Play HDMI Sync Box",4,2
+Massachusetts,120,"Evernote Premium",4,2
+Massachusetts,120,"Lenovo ThinkPad 90W AC Adapter",4,2
+Massachusetts,120,"Apple Magic Keyboard",4,2
+Massachusetts,120,"Huawei MatePad Pro",4,2
+Massachusetts,120,"Jabra Elite 85h",4,2
+Massachusetts,120,"Java Development Kit (JDK)",4,2
+Massachusetts,120,"Sony WF-1000XM4",4,2
+Massachusetts,120,"Anker PowerExpand USB-C Dock",4,2
+Massachusetts,120,"Lenovo Yoga 7i",4,1
+Massachusetts,120,"Samsung Galaxy Tab S9 Ultra",5,3
+Massachusetts,120,"AutoDesk AutoCAD",5,3
+Massachusetts,120,"Dell Latitude 7320 Detachable",5,3
+Massachusetts,120,"Teclast T40 Pro",5,5
+Massachusetts,120,"Apple MagSafe Charger",5,3
+Massachusetts,120,"Evernote Premium",5,4
+Massachusetts,120,"TCL NXTPAPER 10s",5,2
+Massachusetts,120,"HP Spectre x360",5,2
+Massachusetts,120,"Chuwi HiPad Max",5,4
+Massachusetts,120,"GitHub Pro",5,2
+Massachusetts,120,"Apple MacBook Pro (M2, 14-inch)",5,2
+Massachusetts,120,"Anker PowerExpand USB-C Dock",5,2
+Massachusetts,120,"Lenovo Yoga Smart Tab",5,2
+Massachusetts,120,"Apple 67W USB-C Power Adapter",5,2
+Massachusetts,120,"Adobe Creative Cloud Suite",5,2
+Massachusetts,120,"Apple iPad Air (10.9-inch)",5,2
+Massachusetts,120,"Lenovo Yoga 7i",5,2
+Massachusetts,120,"Sony WH-1000XM5",5,2
+Massachusetts,120,"Apple iPad Pro (12.9-inch, M2)",5,4
+Massachusetts,120,"Dell 130W USB-C Charger",5,2
+Massachusetts,120,"Python Programming Language Installer",5,4
+Massachusetts,120,"Blue Yeti Nano USB Microphone",5,2
+Massachusetts,120,"MATLAB Student Edition",5,2
+Massachusetts,120,"Acer Chromebook Spin 713",5,2
+Massachusetts,120,"Apple Magic Keyboard",5,4
+Massachusetts,120,"Philips Hue Play HDMI Sync Box",5,2
+Massachusetts,120,"WD My Passport HDD (4TB)",5,2
+Massachusetts,120,"Visual Studio 2022",5,5
+Massachusetts,120,"Intuit QuickBooks Student Edition",5,2
+Massachusetts,120,"ASUS Vivobook 13 Slate OLED",5,4
+Massachusetts,120,"RAVPower 60W 6-Port USB Charger",5,4
+Massachusetts,120,"Samsung Galaxy Tab A8",5,2
+Massachusetts,120,"Microsoft Surface Laptop 5",5,2
+Massachusetts,120,"RODE NT-USB Mini Microphone",5,2
+Massachusetts,120,"Casio fx-CG50",5,2
+Massachusetts,120,"Microsoft Surface 65W Power Supply",5,2
+Massachusetts,120,"Casio fx-9750GII",5,2
+Massachusetts,120,"Dell XPS 13",5,2
+Massachusetts,120,"Belkin BoostCharge 32W USB-C Wall Charger",5,2
+Massachusetts,120,"Zoom Video Conferencing Pro License",5,3
+Massachusetts,120,"Sony ECM-W2BT Wireless Microphone",5,3
+Massachusetts,120,"Slack Premium",5,2
+Massachusetts,120,"Apple AirPods Pro 2nd Gen",5,2
+Massachusetts,120,"ASUS VivoBook S15",5,2
+Massachusetts,120,"HP Envy 15",5,2
+Massachusetts,120,"Razer DeathAdder V2 Mouse",5,2
+Massachusetts,120,"Microsoft Surface Pro 9",5,2
+Massachusetts,120,"Kensington SD5700T Docking Station",5,2
+Massachusetts,120,"Logitech MX Master 3S Mouse",5,2
+Massachusetts,120,"Audio-Technica ATH-M50xBT2",5,1
+Massachusetts,120,"Lenovo ThinkPad 90W AC Adapter",5,2
+Massachusetts,120,"Aukey Omnia 65W Fast Charger",5,2
+Massachusetts,120,"HP 65W Slim Charger",5,2
+Massachusetts,120,"Samsung Galaxy Tab S9 Ultra",6,2
+Massachusetts,120,"AutoDesk AutoCAD",6,3
+Massachusetts,120,"Chromebook Pixelbook Go",6,3
+Massachusetts,120,"AVerMedia Live Streamer CAM 513",6,3
+Massachusetts,120,"ASUS VivoBook S15",6,3
+Massachusetts,120,"Apple iPad Pro (12.9-inch, M2)",6,2
+Massachusetts,120,"HyperX Cloud II Wireless",6,2
+Massachusetts,120,"Lenovo Yoga 7i",6,2
+Massachusetts,120,"Sharp EL-W516T",6,2
+Massachusetts,120,"TCL NXTPAPER 10s",6,2
+Massachusetts,120,"LG Gram 17",6,2
+Massachusetts,120,"Chuwi HiPad Max",6,2
+Massachusetts,120,"Huawei MatePad Pro",6,2
+Massachusetts,120,"Skullcandy Crusher Evo",6,2
+Massachusetts,120,"WD My Passport HDD (4TB)",6,2
+Massachusetts,120,"CalDigit TS4 Thunderbolt 4 Dock",6,2
+Massachusetts,120,"Google Pixel Tablet",6,2
+Massachusetts,120,"Microsoft Office 365",6,2
+Massachusetts,120,"Lenovo Tab P12 Pro",6,2
+Massachusetts,120,"Logitech K780 Multi-Device Keyboard",6,2
+Massachusetts,120,"Philips Hue Play HDMI Sync Box",6,2
+Massachusetts,120,"HyperJuice GaN 100W Charger",6,2
+Massachusetts,120,"Sennheiser HD 450BT",6,2
+Massachusetts,120,"Samsung 25W Super Fast Charger",6,2
+Massachusetts,120,"HP Prime Graphing Calculator",6,2
+Massachusetts,120,"Notion Pro",6,2
+Massachusetts,120,"Logitech MX Master 3S Mouse",6,2
+Massachusetts,120,"Belkin BoostCharge 32W USB-C Wall Charger",6,2
+Massachusetts,120,"Casio fx-CG50",6,2
+Massachusetts,120,"Logitech StreamCam",6,2
+Massachusetts,120,"Casio fx-9750GII",6,2
+Massachusetts,120,"Logitech G PRO X Wireless",6,2
+Massachusetts,120,"Apple MagSafe Charger",6,2
+Massachusetts,120,"Dell XPS 13",6,2
+Massachusetts,120,"Shure AONIC 50",6,2
+Massachusetts,120,"Samsung Galaxy Buds 2 Pro",6,2
+Massachusetts,120,"Dell 130W USB-C Charger",6,2
+Massachusetts,120,"Bose QuietComfort 45",6,2
+Massachusetts,120,"Apple AirPods Pro 2nd Gen",6,2
+Massachusetts,120,"Lenovo Yoga Smart Tab",6,2
+Massachusetts,120,"Microsoft Surface 65W Power Supply",6,1
+Massachusetts,120,"Apple MacBook Pro (M2, 14-inch)",6,2
+Massachusetts,120,"Zoom Video Conferencing Pro License",6,2
+Massachusetts,120,"Amazon Fire HD 10 Plus",6,2
+Massachusetts,120,"Google Pixel USB-C 30W Power Adapter",6,2
+Massachusetts,120,"HP Elite x2 G8",6,2
+Massachusetts,120,"MSI Creator Z16",6,1
+Massachusetts,120,"Adobe Creative Cloud Suite",6,2
+Massachusetts,120,"JBL Live 660NC",6,2
+Massachusetts,120,"RODE NT-USB Mini Microphone",6,2
+Massachusetts,120,"Slack Premium",6,2
+Massachusetts,120,"Intuit QuickBooks Student Edition",6,2
+Massachusetts,120,"Apple 67W USB-C Power Adapter",6,2
+Massachusetts,120,"ASUS USB-C 65W Charger",6,2
+Massachusetts,120,"Audio-Technica ATH-M50xBT2",6,2
+Massachusetts,120,"Apple MacBook Air (M2, 13-inch)",6,2
+Massachusetts,120,"Elgato Stream Deck MK",6,2
+Massachusetts,120,"Razer DeathAdder V2 Mouse",6,2
+Massachusetts,120,"Python Programming Language Installer",6,2
+Massachusetts,120,"Sony WH-1000XM5",6,2
+Massachusetts,120,"Samsung Galaxy Tab A8",6,2
+Massachusetts,120,"Samsung Galaxy Tab S9 Ultra",7,3
+Massachusetts,120,"Grammarly Premium",7,3
+Massachusetts,120,"WD My Passport HDD (4TB)",7,3
+Massachusetts,120,"MATLAB Student Edition",7,3
+Massachusetts,120,"Belkin BoostCharge 32W USB-C Wall Charger",7,3
+Massachusetts,120,"Logitech StreamCam",7,3
+Massachusetts,120,"HP Prime Graphing Calculator",7,3
+Massachusetts,120,"Anker Soundcore Life Q30",7,2
+Massachusetts,120,"Philips Hue Play HDMI Sync Box",7,2
+Massachusetts,120,"Corsair K95 RGB Platinum Keyboard",7,2
+Massachusetts,120,"ASUS VivoBook S15",7,2
+Massachusetts,120,"HP Elite x2 G8",7,2
+Massachusetts,120,"SteelSeries Arctis 7+",7,2
+Massachusetts,120,"Texas Instruments TI-84 Plus CE",7,2
+Massachusetts,120,"ASUS Vivobook 13 Slate OLED",7,2
+Massachusetts,120,"Turtle Beach Stealth 700 Gen 2",7,2
+Massachusetts,120,"Microsoft Surface 65W Power Supply",7,2
+Massachusetts,120,"HP Pavilion 14",7,2
+Massachusetts,120,"Dell 130W USB-C Charger",7,2
+Massachusetts,120,"MSI Creator Z16",7,2
+Massachusetts,120,"Python Programming Language Installer",7,2
+Massachusetts,120,"Apple MagSafe Charger",7,2
+Massachusetts,120,"Logitech K780 Multi-Device Keyboard",7,2
+Massachusetts,120,"HP Envy 15",7,1
+Massachusetts,120,"Sharp EL-W516T",7,2
+Massachusetts,120,"Kensington SD5700T Docking Station",7,2
+Massachusetts,120,"Chuwi HiPad Max",7,2
+Massachusetts,120,"Slack Premium",7,2
+Massachusetts,120,"Realme Pad",7,2
+Massachusetts,120,"Samsung Galaxy Tab S9 Ultra",8,4
+Massachusetts,120,"Asus ZenBook 14",8,3
+Massachusetts,120,"MSI Creator Z16",8,3
+Massachusetts,120,"SPSS Statistics for Students",8,3
+Massachusetts,120,"Razer DeathAdder V2 Mouse",8,2
+Massachusetts,120,"ASUS Vivobook 13 Slate OLED",8,2
+Massachusetts,120,"Lenovo ThinkPad X1 Carbon",8,2
+Massachusetts,120,"Apple 67W USB-C Power Adapter",8,2
+Massachusetts,120,"AVerMedia Live Streamer CAM 513",8,2
+Massachusetts,120,"Microsoft Sculpt Ergonomic Keyboard",8,2
+Massachusetts,120,"Seagate Backup Plus Hub (8TB)",8,2
+Massachusetts,120,"RODE NT-USB Mini Microphone",8,2
+Massachusetts,120,"Chuwi HiPad Max",8,2
+Massachusetts,120,"ASUS USB-C 65W Charger",8,2
+Massachusetts,120,"Sony ECM-W2BT Wireless Microphone",8,2
+Massachusetts,120,"Java Development Kit (JDK)",8,2
+Massachusetts,120,"Chromebook Pixelbook Go",8,1
+Massachusetts,120,"Samsung Galaxy Tab S9 Ultra",9,2
+Massachusetts,120,"Skullcandy Crusher Evo",9,3
+Massachusetts,120,"RAVPower 60W 6-Port USB Charger",9,3
+Massachusetts,120,"Notion Pro",9,3
+Massachusetts,120,"Asus ZenBook 14",9,2
+Massachusetts,120,"SPSS Statistics for Students",9,2
+Massachusetts,120,"Sennheiser HD 450BT",9,2
+Massachusetts,120,"Amazon Fire HD 10 Plus",9,2
+Massachusetts,120,"R Studio Desktop",9,2
+Massachusetts,120,"Sony ECM-W2BT Wireless Microphone",9,2
+Massachusetts,120,"Logitech K780 Multi-Device Keyboard",9,2
+Massachusetts,120,"AVerMedia Live Streamer CAM 513",9,2
+Massachusetts,120,"Elgato Stream Deck MK",9,2
+Massachusetts,120,"Samsung 25W Super Fast Charger",9,2
+Massachusetts,120,"HyperJuice GaN 100W Charger",9,2
+Massachusetts,120,"Turtle Beach Stealth 700 Gen 2",9,2
+Massachusetts,120,"Apple iPad Air (10.9-inch)",9,2
+Massachusetts,120,"Apple MacBook Pro (M2, 14-inch)",9,2
+Massachusetts,120,"Anker PowerPort III 65W Pod",9,2
+Massachusetts,120,"RODE NT-USB Mini Microphone",9,2
+Massachusetts,120,"Samsung T7 Touch Portable SSD (2TB)",9,2
+Massachusetts,120,"Python Programming Language Installer",9,2
+Massachusetts,120,"Samsung Galaxy Tab S9 Ultra",10,2
+Massachusetts,120,"Google Pixel Tablet",10,3
+Massachusetts,120,"Sony WH-1000XM5",10,3
+Massachusetts,120,"Chromebook Pixelbook Go",10,3
+Massachusetts,120,"Final Draft 12",10,3
+Massachusetts,120,"RAVPower 60W 6-Port USB Charger",10,3
+Massachusetts,120,"ASUS VivoBook S15",10,3
+Massachusetts,120,"Lenovo Tab P12 Pro",10,3
+Massachusetts,120,"LG Gram 17",10,3
+Massachusetts,120,"Sony WF-1000XM4",10,3
+Massachusetts,120,"AutoDesk AutoCAD",10,2
+Massachusetts,120,"Samsung T7 Touch Portable SSD (2TB)",10,2
+Massachusetts,120,"Asus ZenBook 14",10,2
+Massachusetts,120,"Slack Premium",10,2
+Massachusetts,120,"Evernote Premium",10,2
+Massachusetts,120,"Texas Instruments TI-89 Titanium",10,2
+Massachusetts,120,"Huawei MatePad Pro",10,2
+Massachusetts,120,"Teclast T40 Pro",10,2
+Massachusetts,120,"Aukey Omnia 65W Fast Charger",10,2
+Massachusetts,120,"Sony ECM-W2BT Wireless Microphone",10,2
+Massachusetts,120,"ASUS USB-C 65W Charger",10,2
+Massachusetts,120,"Apple iPad Pro (12.9-inch, M2)",10,2
+Massachusetts,120,"Logitech StreamCam",10,2
+Massachusetts,120,"SteelSeries Arctis 7+",10,2
+Massachusetts,120,"Chuwi HiPad Max",10,2
+Massachusetts,120,"HyperJuice GaN 100W Charger",10,2
+Massachusetts,120,"Corsair K95 RGB Platinum Keyboard",10,2
+Massachusetts,120,"Bose SoundSport Free",10,1
+Massachusetts,120,"Microsoft Surface Headphones 2",10,2
+Massachusetts,120,"TCL NXTPAPER 10s",10,2
+Massachusetts,120,"Realme Pad",10,2
+Massachusetts,120,"Lenovo IdeaPad Flex 5",10,2
+Massachusetts,120,"HP Spectre x360",10,2
+Massachusetts,120,"HyperX Cloud II Wireless",10,2
+Massachusetts,120,"Sharp EL-W516T",10,1
+Massachusetts,120,"Anker PowerPort III 65W Pod",10,2
+Massachusetts,120,"GitHub Pro",10,2
+Massachusetts,120,"Adobe Creative Cloud Suite",10,2
+Massachusetts,120,"Microsoft Sculpt Ergonomic Keyboard",10,2
+Massachusetts,120,"Samsung Galaxy Tab S9 Ultra",11,2
+Massachusetts,120,"Corsair K95 RGB Platinum Keyboard",11,3
+Massachusetts,120,"Chuwi HiPad Max",11,3
+Massachusetts,120,"Audio-Technica ATH-M50xBT2",11,5
+Massachusetts,120,"Lenovo Tab P12 Pro",11,1
+Massachusetts,120,"MSI Creator Z16",11,2
+Massachusetts,120,"Realme Pad",11,2
+Massachusetts,120,"Sony WF-1000XM4",11,2
+Massachusetts,120,"Dell Latitude 7320 Detachable",11,2
+Massachusetts,120,"Lenovo ThinkPad X1 Carbon",11,2
+Massachusetts,120,"HP Spectre x360",11,2
+Massachusetts,120,"Python Programming Language Installer",11,2
+Massachusetts,120,"Texas Instruments TI-89 Titanium",11,4
+Massachusetts,120,"Beats Studio Buds",11,2
+Massachusetts,120,"Apple iPad Air (10.9-inch)",11,2
+Massachusetts,120,"Chromebook Pixelbook Go",11,2
+Massachusetts,120,"AutoDesk AutoCAD",11,2
+Massachusetts,120,"Final Draft 12",11,2
+Massachusetts,120,"Bose SoundSport Free",11,2
+Massachusetts,120,"Apple MagSafe Charger",11,2
+Massachusetts,120,"Zoom Video Conferencing Pro License",11,2
+Massachusetts,120,"ASUS USB-C 65W Charger",11,2
+Massachusetts,120,"Slack Premium",11,4
+Massachusetts,120,"Philips Hue Play HDMI Sync Box",11,2
+Massachusetts,120,"Logitech K780 Multi-Device Keyboard",11,2
+Massachusetts,120,"Sony WH-1000XM5",11,2
+Massachusetts,120,"Apple AirPods Pro 2nd Gen",11,2
+Massachusetts,120,"SteelSeries Arctis 7+",11,3
+Massachusetts,120,"HyperJuice GaN 100W Charger",11,3
+Massachusetts,120,"Elgato Stream Deck MK",11,3
+Massachusetts,120,"Evernote Premium",11,2
+Massachusetts,120,"Microsoft Surface Headphones 2",11,2
+Massachusetts,120,"RAVPower 60W 6-Port USB Charger",11,2
+Massachusetts,120,"Casio fx-CG50",11,2
+Massachusetts,120,"Microsoft Office 365",11,1
+Massachusetts,120,"Anker PowerPort III 65W Pod",11,2
+Massachusetts,120,"Anker Soundcore Life Q30",11,2
+Massachusetts,120,"Visual Studio 2022",11,2
+Massachusetts,120,"HP Pavilion 14",11,2
+Massachusetts,120,"Apple 67W USB-C Power Adapter",11,2
+Massachusetts,120,"Samsung T7 Touch Portable SSD (2TB)",11,2
+Massachusetts,120,"Microsoft Surface Pro 9",11,2
+Massachusetts,120,"Samsung Galaxy Tab S9 Ultra",12,3
+Massachusetts,120,"Anker Soundcore Life Q30",12,3
+Massachusetts,120,"Texas Instruments TI-89 Titanium",12,7
+Massachusetts,120,"Aukey Omnia 65W Fast Charger",12,3
+Massachusetts,120,"Teclast T40 Pro",12,3
+Massachusetts,120,"Anker PowerExpand USB-C Dock",12,1
+Massachusetts,120,"Sketch App License",12,2
+Massachusetts,120,"Visual Studio 2022",12,2
+Massachusetts,120,"Microsoft Office 365",12,2
+Massachusetts,120,"AutoDesk AutoCAD",12,4
+Massachusetts,120,"SteelSeries Arctis 7+",12,2
+Massachusetts,120,"ASUS USB-C 65W Charger",12,3
+Massachusetts,120,"Dell Latitude 7320 Detachable",12,4
+Massachusetts,120,"Razer Kraken X",12,4
+Massachusetts,120,"Lenovo Yoga 7i",12,5
+Massachusetts,120,"Apple MacBook Air (M2, 13-inch)",12,2
+Massachusetts,120,"Samsung Galaxy Buds 2 Pro",12,2
+Massachusetts,120,"Zotero Citation Manager",12,4
+Massachusetts,120,"Realme Pad",12,4
+Massachusetts,120,"Adobe Creative Cloud Suite",12,2
+Massachusetts,120,"HP Spectre x360",12,7
+Massachusetts,120,"Notion Pro",12,2
+Massachusetts,120,"Anker PowerPort III 65W Pod",12,2
+Massachusetts,120,"Zoom Video Conferencing Pro License",12,4
+Massachusetts,120,"HP Prime Graphing Calculator",12,2
+Massachusetts,120,"Corsair K95 RGB Platinum Keyboard",12,5
+Massachusetts,120,"Sony WH-1000XM5",12,4
+Massachusetts,120,"Philips Hue Play HDMI Sync Box",12,3
+Massachusetts,120,"Final Draft 12",12,3
+Massachusetts,120,"MSI Creator Z16",12,2
+Massachusetts,120,"Apple iPad Air (10.9-inch)",12,2
+Massachusetts,120,"Slack Premium",12,4
+Massachusetts,120,"Apple MagSafe Charger",12,2
+Massachusetts,120,"Bose SoundSport Free",12,2
+Massachusetts,120,"Lenovo ThinkPad X1 Carbon",12,2
+Massachusetts,120,"Logitech K780 Multi-Device Keyboard",12,2
+Massachusetts,120,"Apple AirPods Pro 2nd Gen",12,2
+Massachusetts,120,"Audio-Technica ATH-M50xBT2",12,2
+Massachusetts,120,"Python Programming Language Installer",12,2
+Massachusetts,120,"Chromebook Pixelbook Go",12,2
+Massachusetts,120,"Beats Studio Buds",12,2
+Massachusetts,120,"Lenovo Tab P12 Pro",12,2
+Massachusetts,120,"Chuwi HiPad Max",12,2
+Massachusetts,120,"Sony WF-1000XM4",12,2
+Massachusetts,120,"Apple Magic Keyboard",12,3
+Massachusetts,120,"ASUS Vivobook 13 Slate OLED",12,3
+Massachusetts,120,"Microsoft Sculpt Ergonomic Keyboard",12,3
+Massachusetts,120,"MATLAB Student Edition",12,3
+Massachusetts,120,"HP Pavilion 14",12,3
+Massachusetts,120,"ASUS VivoBook S15",12,2
+Massachusetts,120,"Grammarly Premium",12,2
+Massachusetts,120,"Sennheiser HD 450BT",12,2
+Massachusetts,120,"Tableau Desktop",12,2
+Massachusetts,120,"RAVPower 60W 6-Port USB Charger",12,2
+Massachusetts,120,"Microsoft Surface 65W Power Supply",12,2
+Massachusetts,120,"Dell Inspiron 15",12,2
+Massachusetts,120,"GitHub Pro",12,2
+Massachusetts,120,"Logitech G PRO X Wireless",12,2
+Massachusetts,120,"Microsoft Surface Laptop 5",12,2
+Massachusetts,120,"HP 65W Slim Charger",12,2
+Massachusetts,120,"Razer Blade 14",12,2
+Massachusetts,120,"Casio fx-9750GII",12,2
+Massachusetts,120,"Razer DeathAdder V2 Mouse",12,2
+Massachusetts,125,"Harry Potter and the Sorcerer’s Stone",1,3
+Massachusetts,125,"Strunk and White’s Elements of Style",1,3
+Massachusetts,125,Dune,1,3
+Massachusetts,125,Mockingjay,1,2
+Massachusetts,125,"Pride and Prejudice",1,2
+Massachusetts,125,"Encyclopedia Britannica Concise Edition",1,2
+Massachusetts,125,"IELTS Academic Study Guide",1,2
+Massachusetts,125,"The Catcher in the Rye",1,2
+Massachusetts,125,"CrashCourse in U.S. History",2,2
+Massachusetts,125,"Kaplan GRE Prep 2024",2,2
+Massachusetts,125,"Of Mice and Men",2,2
+Massachusetts,125,"The Norton Anthology of English Literature",2,2
+Massachusetts,125,"The Testaments",2,2
+Massachusetts,125,"Deep Work",2,2
+Massachusetts,125,"The Song of Achilles",2,2
+Massachusetts,125,"Wuthering Heights",2,2
+Massachusetts,125,"Thinking, Fast and Slow",2,2
+Massachusetts,125,Mockingjay,2,2
+Massachusetts,125,"The Intelligent Investor",2,2
+Massachusetts,125,"Oxford English Dictionary",2,2
+Massachusetts,125,"A Storm of Swords",2,2
+Massachusetts,125,"The Road",2,1
+Massachusetts,125,"Rich Dad Poor Dad",2,2
+Massachusetts,125,"DK Eyewitness Travel Guides: Europe",2,2
+Massachusetts,125,"The Norton Anthology of World Literature",2,2
+Massachusetts,125,"To Kill a Mockingbird",2,2
+Massachusetts,125,"The Power of Habit",2,1
+Massachusetts,125,"The Great Gatsby",2,2
+Massachusetts,125,"The Glass Castle",2,2
+Massachusetts,125,Blink,2,2
+Massachusetts,125,"LSAT Trainer",2,2
+Massachusetts,125,"The Norton Anthology of World Literature",3,3
+Massachusetts,125,"Harry Potter and the Prisoner of Azkaban",3,3
+Massachusetts,125,"Oxford English Dictionary",3,3
+Massachusetts,125,"NCLEX-RN Exam Prep",3,3
+Massachusetts,125,"APA Manual of Style (7th Edition)",3,3
+Massachusetts,125,"MCAT Official Prep Guide",3,3
+Massachusetts,125,"The Alchemist",3,3
+Massachusetts,125,"Man’s Search for Meaning",3,3
+Massachusetts,125,"IELTS Academic Study Guide",3,2
+Massachusetts,125,"Spark Joy",3,2
+Massachusetts,125,"The Intelligent Investor",3,2
+Massachusetts,125,"Where the Crawdads Sing",3,2
+Massachusetts,125,"CPA Exam Review",3,2
+Massachusetts,125,Blink,3,2
+Massachusetts,125,"Gray’s Anatomy for Students",3,2
+Massachusetts,125,"The Kite Runner",3,2
+Massachusetts,125,"The Glass Castle",3,2
+Massachusetts,125,"The Penguin Dictionary of Literary Terms",3,2
+Massachusetts,125,"Daring Greatly",3,2
+Massachusetts,125,"The Secret",3,2
+Massachusetts,125,"Born a Crime",3,2
+Massachusetts,125,"Cracking the GMAT",3,2
+Massachusetts,125,"The Omnivore’s Dilemma",4,2
+Massachusetts,125,"The Life-Changing Magic of Tidying Up",4,2
+Massachusetts,125,"The Lord of the Rings",4,3
+Massachusetts,125,"Spark Joy",4,3
+Massachusetts,125,"MLA Handbook (9th Edition)",4,3
+Massachusetts,125,"Kaplan GRE Prep 2024",4,2
+Massachusetts,125,"IELTS Academic Study Guide",4,2
+Massachusetts,125,"Atlas of Human Anatomy",4,2
+Massachusetts,125,"NCLEX-RN Exam Prep",4,2
+Massachusetts,125,"The Great Gatsby",4,2
+Massachusetts,125,"A Song of Ice and Fire: A Game of Thrones",4,2
+Massachusetts,125,"East of Eden",4,2
+Massachusetts,125,"Gray’s Anatomy for Students",4,2
+Massachusetts,125,Mockingjay,4,2
+Massachusetts,125,"The Tipping Point",4,2
+Massachusetts,125,"Wuthering Heights",4,2
+Massachusetts,125,"The Seven Husbands of Evelyn Hugo",4,2
+Massachusetts,125,"The Merriam-Webster Dictionary",4,2
+Massachusetts,125,"Strunk and White’s Elements of Style",4,2
+Massachusetts,125,"Pride and Prejudice",4,2
+Massachusetts,125,"The Writer’s Guide to Grammar",4,2
+Massachusetts,125,"AP Biology Prep",4,2
+Massachusetts,125,"The Norton Anthology of English Literature",4,2
+Massachusetts,125,"The Intelligent Investor",4,2
+Massachusetts,125,Circe,4,2
+Massachusetts,125,"CliffsNotes Chemistry Quick Review",4,2
+Massachusetts,125,"Daisy Jones & The Six",4,2
+Massachusetts,125,"Digital Minimalism",4,2
+Massachusetts,125,"The Hunger Games",4,2
+Massachusetts,125,"To Kill a Mockingbird",4,2
+Massachusetts,125,"The Secret",4,2
+Massachusetts,125,"Cambridge Advanced Learner’s Dictionary",4,2
+Massachusetts,125,"The Life-Changing Magic of Tidying Up",5,1
+Massachusetts,125,"Atlas of World Geography",5,3
+Massachusetts,125,"MCAT Official Prep Guide",5,3
+Massachusetts,125,"Cracking the GMAT",5,3
+Massachusetts,125,"Guns, Germs, and Steel",5,3
+Massachusetts,125,Mockingjay,5,3
+Massachusetts,125,"Atomic Habits",5,2
+Massachusetts,125,"IELTS Academic Study Guide",5,2
+Massachusetts,125,"Of Mice and Men",5,2
+Massachusetts,125,"Malibu Rising",5,2
+Massachusetts,125,"Catching Fire",5,2
+Massachusetts,125,"The Blue Zones",5,2
+Massachusetts,125,"To Kill a Mockingbird",5,2
+Massachusetts,125,"The Pocket Style Manual",5,2
+Massachusetts,125,Dune,6,3
+Massachusetts,125,"The Writer’s Guide to Grammar",6,3
+Massachusetts,125,"AP Calculus AB & BC Prep",6,3
+Massachusetts,125,"The Chicago Manual of Style",6,3
+Massachusetts,125,"The Pocket Style Manual",6,3
+Massachusetts,125,"Cambridge Advanced Learner’s Dictionary",6,3
+Massachusetts,125,"The Night Circus",6,3
+Massachusetts,125,"The Four Agreements",6,3
+Massachusetts,125,"The Glass Castle",6,3
+Massachusetts,125,"Jane Eyre",6,2
+Massachusetts,125,"Where the Crawdads Sing",6,2
+Massachusetts,125,"DK Eyewitness Travel Guides: Europe",6,2
+Massachusetts,125,"On Writing",6,2
+Massachusetts,125,"The Lord of the Rings",6,2
+Massachusetts,125,"The Intelligent Investor",6,2
+Massachusetts,125,"Cracking the GMAT",6,2
+Massachusetts,125,"The Norton Anthology of English Literature",6,2
+Massachusetts,125,"Princeton Review ACT Prep",6,2
+Massachusetts,125,"Spark Joy",6,2
+Massachusetts,125,"Born a Crime",6,2
+Massachusetts,125,"Man’s Search for Meaning",6,2
+Massachusetts,125,Mockingjay,6,1
+Massachusetts,125,"Everything is Fcked*",6,2
+Massachusetts,125,"The 4-Hour Workweek",6,2
+Massachusetts,125,"Kaplan GRE Prep 2024",6,2
+Massachusetts,125,"Atlas of Human Anatomy",6,2
+Massachusetts,125,"Harry Potter and the Prisoner of Azkaban",6,2
+Massachusetts,125,"The Great Gatsby",6,2
+Massachusetts,125,"Catching Fire",6,2
+Massachusetts,125,"Oxford English Dictionary",6,1
+Massachusetts,125,"The Blue Zones",6,2
+Massachusetts,125,"The Handmaid’s Tale",6,2
+Massachusetts,125,"APA Manual of Style (7th Edition)",6,2
+Massachusetts,125,Circe,6,2
+Massachusetts,125,"Daisy Jones & The Six",6,2
+Massachusetts,125,"Atomic Habits",6,2
+Massachusetts,125,"Can’t Hurt Me",6,2
+Massachusetts,125,"Malibu Rising",6,2
+Massachusetts,125,"SAT Math Level 2 Study Guide",6,2
+Massachusetts,125,"Gray’s Anatomy for Students",6,2
+Massachusetts,125,"A Thousand Splendid Suns",6,2
+Massachusetts,125,"The Subtle Art of Not Giving a Fck*",6,2
+Massachusetts,125,"CliffsNotes Algebra I",7,3
+Massachusetts,125,Dune,7,3
+Massachusetts,125,"Jane Eyre",7,3
+Massachusetts,125,"TOEFL Prep Book 2024",7,3
+Massachusetts,125,"Man’s Search for Meaning",7,3
+Massachusetts,125,"Big Little Lies",7,2
+Massachusetts,125,"Life of Pi",7,2
+Massachusetts,125,"Seven Habits of Highly Effective People",7,2
+Massachusetts,125,"The Glass Castle",7,2
+Massachusetts,125,"The Immortal Life of Henrietta Lacks",7,2
+Massachusetts,125,"Digital Minimalism",7,2
+Massachusetts,125,"Spark Joy",7,2
+Massachusetts,125,Wild,7,2
+Massachusetts,125,"Daisy Jones & The Six",7,2
+Massachusetts,125,"The Hobbit",7,2
+Massachusetts,125,"The Secret",7,2
+Massachusetts,125,"The Blue Zones",7,2
+Massachusetts,125,"Harry Potter and the Chamber of Secrets",7,2
+Massachusetts,125,"Kaplan GRE Prep 2024",7,1
+Massachusetts,125,"Guns, Germs, and Steel",7,2
+Massachusetts,125,"The Chicago Manual of Style",7,2
+Massachusetts,125,"Cambridge Advanced Learner’s Dictionary",7,2
+Massachusetts,125,"Of Mice and Men",7,2
+Massachusetts,125,"National Geographic Field Guide to Birds of North America",7,2
+Massachusetts,125,"East of Eden",7,2
+Massachusetts,125,"The 4-Hour Workweek",7,2
+Massachusetts,125,1984,7,2
+Massachusetts,125,"The Road",7,2
+Massachusetts,125,"The Lord of the Rings",7,2
+Massachusetts,125,"To Kill a Mockingbird",7,2
+Massachusetts,125,"Quiet: The Power of Introverts",7,2
+Massachusetts,125,"Born a Crime",7,2
+Massachusetts,125,"The Life-Changing Magic of Tidying Up",8,3
+Massachusetts,125,"APA Manual of Style (7th Edition)",8,4
+Massachusetts,125,"Life of Pi",8,3
+Massachusetts,125,"The Power of Habit",8,3
+Massachusetts,125,Mockingjay,8,2
+Massachusetts,125,"The Seven Husbands of Evelyn Hugo",8,2
+Massachusetts,125,"Man’s Search for Meaning",8,2
+Massachusetts,125,"Rich Dad Poor Dad",8,2
+Massachusetts,125,"Atomic Habits",8,2
+Massachusetts,125,"The Four Agreements",8,2
+Massachusetts,125,"Atlas of World Geography",8,2
+Massachusetts,125,"NCLEX-RN Exam Prep",8,2
+Massachusetts,125,"Catching Fire",8,2
+Massachusetts,125,"MCAT Official Prep Guide",8,2
+Massachusetts,125,"The Pocket Style Manual",8,2
+Massachusetts,125,"The Secret",8,2
+Massachusetts,125,"CrashCourse in U.S. History",8,2
+Massachusetts,125,Blink,8,1
+Massachusetts,125,"The Alchemist",8,2
+Massachusetts,125,"In Defense of Food",9,2
+Massachusetts,125,"On Writing",9,3
+Massachusetts,125,"Cambridge Advanced Learner’s Dictionary",9,3
+Massachusetts,125,Circe,9,2
+Massachusetts,125,"Harry Potter and the Prisoner of Azkaban",9,2
+Massachusetts,125,"Spark Joy",9,2
+Massachusetts,125,"Cracking the GMAT",9,2
+Massachusetts,125,"The Bluebook: A Uniform System of Citation",9,2
+Massachusetts,125,"Your Money or Your Life",9,2
+Massachusetts,125,"The Norton Anthology of World Literature",9,2
+Massachusetts,125,"The Alchemist",9,2
+Massachusetts,125,"The Hobbit",9,2
+Massachusetts,125,"The Catcher in the Rye",9,2
+Massachusetts,125,"AP Biology Prep",9,2
+Massachusetts,125,"Pride and Prejudice",9,2
+Massachusetts,125,"LSAT Trainer",9,2
+Massachusetts,125,"Can’t Hurt Me",9,2
+Massachusetts,125,"DK Eyewitness Travel Guides: Europe",9,2
+Massachusetts,125,"A Thousand Splendid Suns",9,2
+Massachusetts,125,"NCLEX-RN Exam Prep",9,2
+Massachusetts,125,"Homo Deus: A Brief History of Tomorrow",9,2
+Massachusetts,125,"In Defense of Food",10,4
+Massachusetts,125,"Your Money or Your Life",10,3
+Massachusetts,125,"Of Mice and Men",10,3
+Massachusetts,125,"Where the Crawdads Sing",10,3
+Massachusetts,125,"Daisy Jones & The Six",10,3
+Massachusetts,125,"The Alchemist",10,3
+Massachusetts,125,Mockingjay,10,2
+Massachusetts,125,"MCAT Official Prep Guide",10,2
+Massachusetts,125,"The 4-Hour Workweek",10,2
+Massachusetts,125,"The Merriam-Webster Dictionary",10,2
+Massachusetts,125,"The Norton Anthology of English Literature",10,2
+Massachusetts,125,"Animal Farm",10,2
+Massachusetts,125,"The Road",10,2
+Massachusetts,125,"The Catcher in the Rye",10,2
+Massachusetts,125,"A Clash of Kings",10,2
+Massachusetts,125,"The Pocket Style Manual",10,2
+Massachusetts,125,"Born a Crime",10,2
+Massachusetts,125,"The Song of Achilles",10,2
+Massachusetts,125,"A Thousand Splendid Suns",10,2
+Massachusetts,125,"CliffsNotes Algebra I",10,2
+Massachusetts,125,"The Bluebook: A Uniform System of Citation",10,2
+Massachusetts,125,"To Kill a Mockingbird",10,2
+Massachusetts,125,Blink,10,2
+Massachusetts,125,"NCLEX-RN Exam Prep",10,2
+Massachusetts,125,"Oxford English Dictionary",10,2
+Massachusetts,125,"The Secret",10,2
+Massachusetts,125,"Atlas of Human Anatomy",10,2
+Massachusetts,125,"The Great Gatsby",10,2
+Massachusetts,125,"The Tipping Point",10,2
+Massachusetts,125,"Man’s Search for Meaning",10,2
+Massachusetts,125,"APA Manual of Style (7th Edition)",10,2
+Massachusetts,125,"A Storm of Swords",10,2
+Massachusetts,125,"The Hobbit",10,2
+Massachusetts,125,"LSAT Trainer",10,2
+Massachusetts,125,"Daring Greatly",10,1
+Massachusetts,125,"The Kite Runner",10,2
+Massachusetts,125,"Black Holes and Baby Universes",11,2
+Massachusetts,125,Dune,11,4
+Massachusetts,125,Mockingjay,11,2
+Massachusetts,125,"The Catcher in the Rye",11,2
+Massachusetts,125,"The Hunger Games",11,2
+Massachusetts,125,"The Lord of the Rings",11,2
+Massachusetts,125,"The Norton Anthology of English Literature",11,3
+Massachusetts,125,"TOEFL Prep Book 2024",11,3
+Massachusetts,125,"The Blue Zones",11,3
+Massachusetts,125,"Animal Farm",11,2
+Massachusetts,125,"The Hobbit",11,2
+Massachusetts,125,"Into the Wild",11,2
+Massachusetts,125,"AP Calculus AB & BC Prep",11,2
+Massachusetts,125,"Where the Crawdads Sing",11,2
+Massachusetts,125,"The Glass Castle",11,2
+Massachusetts,125,"The Road",11,2
+Massachusetts,125,"The Secret",11,2
+Massachusetts,125,"The 4-Hour Workweek",11,2
+Massachusetts,125,"Homo Deus: A Brief History of Tomorrow",11,2
+Massachusetts,125,"Little Women",11,2
+Massachusetts,125,"Of Mice and Men",11,2
+Massachusetts,125,"Big Little Lies",11,2
+Massachusetts,125,Wild,11,2
+Massachusetts,125,"Rich Dad Poor Dad",11,2
+Massachusetts,125,Mockingjay,12,6
+Massachusetts,125,Dune,12,4
+Massachusetts,125,"Pride and Prejudice",12,2
+Massachusetts,125,"Encyclopedia Britannica Concise Edition",12,2
+Massachusetts,125,"The Catcher in the Rye",12,4
+Massachusetts,125,"Harry Potter and the Sorcerer’s Stone",12,2
+Massachusetts,125,"Strunk and White’s Elements of Style",12,2
+Massachusetts,125,"IELTS Academic Study Guide",12,2
+Massachusetts,125,"The Lord of the Rings",12,2
+Massachusetts,125,"The Hunger Games",12,2
+Massachusetts,125,"The Alchemist",12,3
+Massachusetts,125,"NCLEX-RN Exam Prep",12,3
+Massachusetts,125,"TOEFL Prep Book 2024",12,3
+Massachusetts,125,"The Penguin Dictionary of Literary Terms",12,3
+Massachusetts,125,"A Thousand Splendid Suns",12,3
+Massachusetts,125,"The Four Agreements",12,2
+Massachusetts,125,"Kaplan GRE Prep 2024",12,2
+Massachusetts,125,"Daisy Jones & The Six",12,2
+Massachusetts,125,"Homo Deus: A Brief History of Tomorrow",12,2
+Massachusetts,125,"The Omnivore’s Dilemma",12,2
+Massachusetts,125,"A Storm of Swords",12,2
+Massachusetts,125,"To Kill a Mockingbird",12,2
+Massachusetts,125,"Jane Eyre",12,2
+Massachusetts,125,"Seven Habits of Highly Effective People",12,2
+Massachusetts,125,"East of Eden",12,2
+Massachusetts,125,"The Chicago Manual of Style",12,2
+Massachusetts,125,"DK Eyewitness Travel Guides: Europe",12,2
+Massachusetts,125,"Where the Crawdads Sing",12,2
+Massachusetts,125,"The Song of Achilles",12,2
+Massachusetts,130,"LTCA Year Up Knit Hat with Pom (Navy and White)",1,3
+Massachusetts,130,"LTCA Year Up Performance Dri-Fit T-Shirt (Blue)",1,3
+Massachusetts,130,"LTCA Year Up Magnet (Fridge)",1,4
+Massachusetts,130,"LTCA Year Up Track Jacket (Navy Blue)",1,2
+Massachusetts,130,"LTCA Year Up Quarter-Zip Sweatshirt (Maroon)",1,2
+Massachusetts,130,"LTCA Year Up Gym Towel",1,2
+Massachusetts,130,"LTCA Year Up Frisbee (Flying Disc)",1,2
+Massachusetts,130,"LTCA Year Up Wall Calendar",1,2
+Massachusetts,130,"LTCA Year Up USB Flash Drive (64GB)",1,2
+Massachusetts,130,"LTCA Year Up Long-Sleeve Tee (Gray)",1,5
+Massachusetts,130,"LTCA Year Up Full-Zip Hoodie (Charcoal Gray)",1,2
+Massachusetts,130,"LTCA Year Up Coasters (Set of 4, Cork)",1,2
+Massachusetts,130,"LTCA Year Up Foam Finger (Black)",1,2
+Massachusetts,130,"LTCA Year Up Earbuds (Wired)",1,2
+Massachusetts,130,"LTCA Year Up Gym Duffel Bag (Navy Blue)",2,2
+Massachusetts,130,"LTCA Year Up Mouse Pad (Black)",2,2
+Massachusetts,130,"LTCA Year Up Embroidered Baseball Cap (Black)",2,2
+Massachusetts,130,"LTCA Year Up Drawstring Backpack (Black)",2,2
+Massachusetts,130,"LTCA Year Up USB Flash Drive (64GB)",2,2
+Massachusetts,130,"LTCA Year Up Performance Dri-Fit T-Shirt (Gray)",2,2
+Massachusetts,130,"LTCA Year Up Beanie Hat (Black)",2,2
+Massachusetts,130,"LTCA Year Up Umbrella (Compact)",2,2
+Massachusetts,130,"LTCA Year Up Gym Duffel Bag (Navy Blue)",3,2
+Massachusetts,130,"LTCA Year Up Earbuds (Wired)",3,3
+Massachusetts,130,"LTCA Year Up Embroidered Baseball Cap (Gray)",3,3
+Massachusetts,130,"LTCA Year Up Umbrella (Compact)",3,3
+Massachusetts,130,"LTCA Year Up Gym Towel",3,3
+Massachusetts,130,"LTCA Year Up Laptop Sleeve (15-inch)",3,2
+Massachusetts,130,"LTCA Year Up Folding Stadium Seat",3,2
+Massachusetts,130,"LTCA Year Up Sticky Notes Set",3,2
+Massachusetts,130,"LTCA Year Up Coffee Tumbler (Stainless Steel)",3,2
+Massachusetts,130,"LTCA Year Up Water Bottle (Plastic BPA-Free)",3,2
+Massachusetts,130,"LTCA Year Up Water Bottle (Stainless Steel)",3,2
+Massachusetts,130,"LTCA Year Up Basketball (Regulation Size)",3,2
+Massachusetts,130,"LTCA Year Up USB Flash Drive (32GB)",3,2
+Massachusetts,130,"LTCA Year Up Embroidered Baseball Cap (Navy Blue)",3,2
+Massachusetts,130,"LTCA Year Up Mouse Pad (Black)",3,2
+Massachusetts,130,"LTCA Year Up Bluetooth Speaker (Portable)",3,2
+Massachusetts,130,"LTCA Year Up Spiral Notebook (Blue)",3,2
+Massachusetts,130,"LTCA Year Up Throw Pillow (Black and White Logo)",3,2
+Massachusetts,130,"LTCA Year Up Pullover Hoodie (Navy Blue)",3,2
+Massachusetts,130,"LTCA Year Up Long-Sleeve Tee (Gray)",3,2
+Massachusetts,130,"LTCA Year Up Lightweight Windbreaker (Blue)",3,2
+Massachusetts,130,"LTCA Year Up Quarter-Zip Sweatshirt (Black)",3,2
+Massachusetts,130,"LTCA Year Up Gym Duffel Bag (Navy Blue)",4,2
+Massachusetts,130,"LTCA Year Up Canvas Tote Bag",4,3
+Massachusetts,130,"LTCA Year Up Classic Cotton T-Shirt (White)",4,3
+Massachusetts,130,"LTCA Year Up USB Flash Drive (64GB)",4,2
+Massachusetts,130,"LTCA Year Up Trucker Hat (Black Mesh)",4,2
+Massachusetts,130,"LTCA Year Up Embroidered Baseball Cap (Gray)",4,2
+Massachusetts,130,"LTCA Year Up Mouse Pad (Black)",4,2
+Massachusetts,130,"LTCA Year Up Umbrella (Golf Style)",4,2
+Massachusetts,130,"LTCA Year Up Wall Calendar",4,2
+Massachusetts,130,"LTCA Year Up Lightweight Windbreaker (Gray)",4,2
+Massachusetts,130,"LTCA Year Up Stadium Blanket",4,2
+Massachusetts,130,"LTCA Year Up Coffee Tumbler (Stainless Steel)",4,2
+Massachusetts,130,"LTCA Year Up Spiral Notebook (Blue)",4,2
+Massachusetts,130,"LTCA Year Up Wall Clock (Round, Black)",4,2
+Massachusetts,130,"LTCA Year Up Trucker Hat (Blue Mesh)",4,2
+Massachusetts,130,"LTCA Year Up Drawstring Backpack (Black)",4,2
+Massachusetts,130,"LTCA Year Up Embroidered Baseball Cap (Navy Blue)",4,2
+Massachusetts,130,"LTCA Year Up Full-Zip Hoodie (Black)",4,2
+Massachusetts,130,"LTCA Year Up Classic Cotton T-Shirt (Black)",4,2
+Massachusetts,130,"LTCA Year Up Vinyl Stickers (Set of 5)",4,2
+Massachusetts,130,"LTCA Year Up Long-Sleeve Tee (Gray)",4,2
+Massachusetts,130,"LTCA Year Up Flat-Brim Hat (White)",5,4
+Massachusetts,130,"LTCA Year Up Embroidered Baseball Cap (Black)",5,3
+Massachusetts,130,"LTCA Year Up Softshell Jacket (Black)",5,3
+Massachusetts,130,"LTCA Year Up Beanie Hat (Black)",5,2
+Massachusetts,130,"LTCA Year Up Mechanical Pencil (Pack of 2)",5,2
+Massachusetts,130,"LTCA Year Up Water Bottle (Stainless Steel)",5,4
+Massachusetts,130,"LTCA Year Up Lanyard (Black)",5,5
+Massachusetts,130,"LTCA Year Up Throw Pillow (Black and White Logo)",5,2
+Massachusetts,130,"LTCA Year Up Laptop Sleeve (15-inch)",5,2
+Massachusetts,130,"LTCA Year Up Spiral Notebook (Blue)",5,4
+Massachusetts,130,"LTCA Year Up Lanyard (Navy Blue)",5,2
+Massachusetts,130,"LTCA Year Up Gym Duffel Bag (Navy Blue)",5,2
+Massachusetts,130,"LTCA Year Up Long-Sleeve Tee (Black)",5,3
+Massachusetts,130,"LTCA Year Up Classic Cotton T-Shirt (Black)",5,3
+Massachusetts,130,"LTCA Year Up Enamel Pin (Round Logo)",5,3
+Massachusetts,130,"LTCA Year Up Foam Finger (Black)",5,3
+Massachusetts,130,"LTCA Year Up Earbuds (Wired)",5,2
+Massachusetts,130,"LTCA Year Up USB Flash Drive (32GB)",5,2
+Massachusetts,130,"LTCA Year Up Classic Cotton T-Shirt (White)",5,2
+Massachusetts,130,"LTCA Year Up Gel Pen (Pack of 2)",5,2
+Massachusetts,130,"LTCA Year Up Soccer Ball (Regulation Size)",5,1
+Massachusetts,130,"LTCA Year Up Umbrella (Golf Style)",5,2
+Massachusetts,130,"LTCA Year Up Lightweight Windbreaker (Gray)",5,2
+Massachusetts,130,"LTCA Year Up Full-Zip Hoodie (Charcoal Gray)",5,2
+Massachusetts,130,"LTCA Year Up Throw Pillow (Navy and Gold Logo)",5,2
+Massachusetts,130,"LTCA Year Up Track Jacket (Navy Blue)",5,2
+Massachusetts,130,"LTCA Year Up Wall Calendar",5,2
+Massachusetts,130,"LTCA Year Up Coasters (Set of 4, Cork)",5,2
+Massachusetts,130,"LTCA Year Up Long-Sleeve Tee (Gray)",5,2
+Massachusetts,130,"LTCA Year Up Lightweight Windbreaker (Blue)",5,2
+Massachusetts,130,"LTCA Year Up Canvas Tote Bag",5,2
+Massachusetts,130,"LTCA Year Up Quarter-Zip Sweatshirt (Black)",5,2
+Massachusetts,130,"LTCA Year Up Classic Cotton T-Shirt (Navy Blue)",5,2
+Massachusetts,130,"LTCA Year Up Embroidered Baseball Cap (Gray)",5,2
+Massachusetts,130,"LTCA Year Up Candle (Vanilla Scented)",5,2
+Massachusetts,130,"LTCA Year Up Magnet (Fridge)",5,2
+Massachusetts,130,"LTCA Year Up Gym Duffel Bag (Navy Blue)",6,5
+Massachusetts,130,"LTCA Year Up Flat-Brim Hat (Black)",6,3
+Massachusetts,130,"LTCA Year Up Desk Organizer (Black)",6,3
+Massachusetts,130,"LTCA Year Up Graduation Sash",6,3
+Massachusetts,130,"LTCA Year Up Coffee Mug (Ceramic, Black)",6,3
+Massachusetts,130,"LTCA Year Up Laptop Sleeve (15-inch)",6,3
+Massachusetts,130,"LTCA Year Up Beanie Hat (Black)",6,2
+Massachusetts,130,"LTCA Year Up Embroidered Baseball Cap (Navy Blue)",6,2
+Massachusetts,130,"LTCA Year Up Laptop Sleeve (13-inch)",6,2
+Massachusetts,130,"LTCA Year Up Pennant Flag (Black and Gold)",6,2
+Massachusetts,130,"LTCA Year Up Phone Case (Samsung Galaxy)",6,2
+Massachusetts,130,"LTCA Year Up Passport Holder (Leather)",6,2
+Massachusetts,130,"LTCA Year Up Classic Cotton T-Shirt (White)",6,2
+Massachusetts,130,"LTCA Year Up Folding Stadium Seat",6,2
+Massachusetts,130,"LTCA Year Up Noise-Canceling Headphones",6,2
+Massachusetts,130,"LTCA Year Up Throw Pillow (Black and White Logo)",6,2
+Massachusetts,130,"LTCA Year Up Phone Case (iPhone 14)",6,2
+Massachusetts,130,"LTCA Year Up Classic Cotton T-Shirt (Navy Blue)",6,2
+Massachusetts,130,"LTCA Year Up Mechanical Pencil (Pack of 2)",6,2
+Massachusetts,130,"LTCA Year Up Spiral Notebook (Blue)",6,2
+Massachusetts,130,"LTCA Year Up Lanyard (Black)",6,2
+Massachusetts,130,"LTCA Year Up Mouse Pad (Black)",6,2
+Massachusetts,130,"LTCA Year Up Knit Hat with Pom (Navy and White)",6,2
+Massachusetts,130,"LTCA Year Up Coffee Tumbler (Stainless Steel)",6,2
+Massachusetts,130,"LTCA Year Up Lanyard (Navy Blue)",6,2
+Massachusetts,130,"LTCA Year Up Beanie Hat (Gray)",6,2
+Massachusetts,130,"LTCA Year Up Water Bottle (Stainless Steel)",6,2
+Massachusetts,130,"LTCA Year Up USB Flash Drive (32GB)",6,2
+Massachusetts,130,"LTCA Year Up Water Bottle (Plastic BPA-Free)",6,2
+Massachusetts,130,"LTCA Year Up Picture Frame (Wooden, 8x10)",6,2
+Massachusetts,130,"LTCA Year Up Canvas Tote Bag",6,2
+Massachusetts,130,"LTCA Year Up Wall Calendar",6,2
+Massachusetts,130,"LTCA Year Up Phone Stand (Adjustable)",6,2
+Massachusetts,130,"LTCA Year Up Wall Clock (Round, Black)",6,1
+Massachusetts,130,"LTCA Year Up Patch (Sew-On)",6,2
+Massachusetts,130,"LTCA Year Up Bomber Jacket (Black)",6,2
+Massachusetts,130,"LTCA Year Up Earbuds (Wired)",6,2
+Massachusetts,130,"LTCA Year Up Picnic Blanket",6,2
+Massachusetts,130,"LTCA Year Up Gym Duffel Bag (Navy Blue)",7,3
+Massachusetts,130,"LTCA Year Up Pullover Hoodie (Navy Blue)",7,3
+Massachusetts,130,"LTCA Year Up Frisbee (Flying Disc)",7,3
+Massachusetts,130,"LTCA Year Up Track Jacket (Navy Blue)",7,4
+Massachusetts,130,"LTCA Year Up Long-Sleeve Tee (Gray)",7,4
+Massachusetts,130,"LTCA Year Up Wall Calendar",7,4
+Massachusetts,130,"LTCA Year Up Foam Finger (Black)",7,2
+Massachusetts,130,"LTCA Year Up Full-Zip Hoodie (Black)",7,2
+Massachusetts,130,"LTCA Year Up Lightweight Windbreaker (Blue)",7,2
+Massachusetts,130,"LTCA Year Up Lightweight Windbreaker (Gray)",7,2
+Massachusetts,130,"LTCA Year Up Cooler Bag (Soft-Sided)",7,3
+Massachusetts,130,"LTCA Year Up Embroidered Baseball Cap (Gray)",7,2
+Massachusetts,130,"LTCA Year Up Classic Cotton T-Shirt (Navy Blue)",7,2
+Massachusetts,130,"LTCA Year Up Desk Clock",7,2
+Massachusetts,130,"LTCA Year Up Poster (Motivational Quote)",7,2
+Massachusetts,130,"LTCA Year Up Sticky Notes Set",7,2
+Massachusetts,130,"LTCA Year Up Earbuds (Wired)",7,2
+Massachusetts,130,"LTCA Year Up Fleece Jacket (Gray)",7,2
+Massachusetts,130,"LTCA Year Up Graduation Sash",7,2
+Massachusetts,130,"LTCA Year Up Insulated Lunch Bag",7,1
+Massachusetts,130,"LTCA Year Up Snow Globe",7,2
+Massachusetts,130,"LTCA Year Up Lanyard (Black)",7,2
+Massachusetts,130,"LTCA Year Up Clipboard (Plastic)",7,2
+Massachusetts,130,"LTCA Year Up Throw Pillow (Navy and Gold Logo)",7,2
+Massachusetts,130,"LTCA Year Up Phone Stand (Adjustable)",7,2
+Massachusetts,130,"LTCA Year Up Performance Dri-Fit T-Shirt (Gray)",7,2
+Massachusetts,130,"LTCA Year Up Pullover Hoodie (Gray)",7,2
+Massachusetts,130,"LTCA Year Up Flat-Brim Hat (White)",7,2
+Massachusetts,130,"LTCA Year Up Mechanical Pencil (Pack of 2)",7,2
+Massachusetts,130,"LTCA Year Up Classic Cotton T-Shirt (White)",7,2
+Massachusetts,130,"LTCA Year Up Umbrella (Golf Style)",7,2
+Massachusetts,130,"LTCA Year Up Gym Duffel Bag (Navy Blue)",8,2
+Massachusetts,130,"LTCA Year Up Pullover Hoodie (Gray)",8,3
+Massachusetts,130,"LTCA Year Up Car Decal (Window Cling)",8,3
+Massachusetts,130,"LTCA Year Up Stadium Blanket",8,3
+Massachusetts,130,"LTCA Year Up Quarter-Zip Sweatshirt (Black)",8,2
+Massachusetts,130,"LTCA Year Up Full-Zip Hoodie (Charcoal Gray)",8,2
+Massachusetts,130,"LTCA Year Up Long-Sleeve Tee (Gray)",8,2
+Massachusetts,130,"LTCA Year Up Gel Pen (Pack of 2)",8,2
+Massachusetts,130,"LTCA Year Up Lightweight Windbreaker (Blue)",8,2
+Massachusetts,130,"LTCA Year Up Laptop Sleeve (13-inch)",8,2
+Massachusetts,130,"LTCA Year Up Poster (Motivational Quote)",8,2
+Massachusetts,130,"LTCA Year Up Flat-Brim Hat (Black)",8,2
+Massachusetts,130,"LTCA Year Up Candle (Vanilla Scented)",8,2
+Massachusetts,130,"LTCA Year Up Vinyl Stickers (Set of 5)",8,2
+Massachusetts,130,"LTCA Year Up Noise-Canceling Headphones",8,2
+Massachusetts,130,"LTCA Year Up Phone Case (Samsung Galaxy)",8,2
+Massachusetts,130,"LTCA Year Up Gym Duffel Bag (Navy Blue)",9,2
+Massachusetts,130,"LTCA Year Up Embroidered Baseball Cap (Navy Blue)",9,3
+Massachusetts,130,"LTCA Year Up Laptop Sleeve (15-inch)",9,3
+Massachusetts,130,"LTCA Year Up Insulated Lunch Bag",9,2
+Massachusetts,130,"LTCA Year Up Quarter-Zip Sweatshirt (Maroon)",9,2
+Massachusetts,130,"LTCA Year Up Clipboard (Plastic)",9,2
+Massachusetts,130,"LTCA Year Up Car Decal (Window Cling)",9,2
+Massachusetts,130,"LTCA Year Up Cooler Bag (Soft-Sided)",9,2
+Massachusetts,130,"LTCA Year Up Performance Dri-Fit T-Shirt (Blue)",9,2
+Massachusetts,130,"LTCA Year Up Poster (Motivational Quote)",9,2
+Massachusetts,130,"LTCA Year Up Bluetooth Speaker (Portable)",9,2
+Massachusetts,130,"LTCA Year Up Fleece Blanket (Gray)",9,2
+Massachusetts,130,"LTCA Year Up Coffee Mug (Ceramic, Black)",9,2
+Massachusetts,130,"LTCA Year Up Flat-Brim Hat (White)",9,2
+Massachusetts,130,"LTCA Year Up Gym Duffel Bag (Navy Blue)",10,2
+Massachusetts,130,"LTCA Year Up Insulated Thermos",10,4
+Massachusetts,130,"LTCA Year Up Flat-Brim Hat (Black)",10,3
+Massachusetts,130,"LTCA Year Up Lightweight Windbreaker (Gray)",10,3
+Massachusetts,130,"LTCA Year Up Pennant Flag (Black and Gold)",10,3
+Massachusetts,130,"LTCA Year Up Poster (Motivational Quote)",10,3
+Massachusetts,130,"LTCA Year Up Performance Dri-Fit T-Shirt (Gray)",10,3
+Massachusetts,130,"LTCA Year Up Soccer Ball (Regulation Size)",10,3
+Massachusetts,130,"LTCA Year Up Gym Towel",10,3
+Massachusetts,130,"LTCA Year Up Fleece Blanket (Gray)",10,3
+Massachusetts,130,"LTCA Year Up ID Holder with Lanyard",10,3
+Massachusetts,130,"LTCA Year Up Water Bottle (Stainless Steel)",10,3
+Massachusetts,130,"LTCA Year Up Pullover Hoodie (Black)",10,2
+Massachusetts,130,"LTCA Year Up Spiral Notebook (Black)",10,2
+Massachusetts,130,"LTCA Year Up Car Decal (Window Cling)",10,2
+Massachusetts,130,"LTCA Year Up Track Jacket (Navy Blue)",10,2
+Massachusetts,130,"LTCA Year Up Wall Clock (Round, Black)",10,2
+Massachusetts,130,"LTCA Year Up Insulated Lunch Bag",10,2
+Massachusetts,130,"LTCA Year Up Full-Zip Hoodie (Charcoal Gray)",10,2
+Massachusetts,130,"LTCA Year Up Mechanical Pencil (Pack of 2)",10,2
+Massachusetts,130,"LTCA Year Up Coffee Mug (Ceramic, White)",10,2
+Massachusetts,130,"LTCA Year Up Cutting Board (Bamboo)",10,2
+Massachusetts,130,"LTCA Year Up Embroidered Baseball Cap (Gray)",10,2
+Massachusetts,130,"LTCA Year Up Long-Sleeve Tee (Black)",10,2
+Massachusetts,130,"LTCA Year Up Performance Dri-Fit T-Shirt (Blue)",10,2
+Massachusetts,130,"LTCA Year Up Sunglasses (Black)",10,2
+Massachusetts,130,"LTCA Year Up Sticky Notes Set",10,2
+Massachusetts,130,"LTCA Year Up Phone Stand (Adjustable)",10,1
+Massachusetts,130,"LTCA Year Up Classic Cotton T-Shirt (Black)",10,2
+Massachusetts,130,"LTCA Year Up Noise-Canceling Headphones",10,2
+Massachusetts,130,"LTCA Year Up Long-Sleeve Tee (Gray)",10,2
+Massachusetts,130,"LTCA Year Up Quarter-Zip Sweatshirt (Maroon)",10,2
+Massachusetts,130,"LTCA Year Up Enamel Pin (Round Logo)",10,2
+Massachusetts,130,"LTCA Year Up Beanie Hat (Gray)",10,2
+Massachusetts,130,"LTCA Year Up Throw Pillow (Navy and Gold Logo)",10,2
+Massachusetts,130,"LTCA Year Up Coffee Mug (Ceramic, Black)",10,2
+Massachusetts,130,"LTCA Year Up Umbrella (Golf Style)",10,2
+Massachusetts,130,"LTCA Year Up Mouse Pad (Blue)",10,2
+Massachusetts,130,"LTCA Year Up Trucker Hat (Blue Mesh)",10,2
+Massachusetts,130,"LTCA Year Up Coasters (Set of 4, Cork)",10,2
+Massachusetts,130,"LTCA Year Up Fleece Blanket (Gray)",11,2
+Massachusetts,130,"LTCA Year Up Gym Duffel Bag (Navy Blue)",11,2
+Massachusetts,130,"LTCA Year Up Mechanical Pencil (Pack of 2)",11,3
+Massachusetts,130,"LTCA Year Up Bomber Jacket (Black)",11,2
+Massachusetts,130,"LTCA Year Up Gel Pen (Pack of 2)",11,2
+Massachusetts,130,"LTCA Year Up Spiral Notebook (Blue)",11,2
+Massachusetts,130,"LTCA Year Up Clipboard (Plastic)",11,2
+Massachusetts,130,"LTCA Year Up Phone Case (iPhone 14)",11,2
+Massachusetts,130,"LTCA Year Up Patch (Sew-On)",11,2
+Massachusetts,130,"LTCA Year Up Umbrella (Golf Style)",11,2
+Massachusetts,130,"LTCA Year Up Stadium Blanket",11,2
+Massachusetts,130,"LTCA Year Up Coffee Mug (Ceramic, White)",11,2
+Massachusetts,130,"LTCA Year Up Performance Dri-Fit T-Shirt (Gray)",11,4
+Massachusetts,130,"LTCA Year Up Classic Cotton T-Shirt (Navy Blue)",11,2
+Massachusetts,130,"LTCA Year Up Flat-Brim Hat (Black)",11,2
+Massachusetts,130,"LTCA Year Up Phone Case (Samsung Galaxy)",11,2
+Massachusetts,130,"LTCA Year Up Insulated Thermos",11,2
+Massachusetts,130,"LTCA Year Up Certificate Frame",11,3
+Massachusetts,130,"LTCA Year Up Mouse Pad (Black)",11,2
+Massachusetts,130,"LTCA Year Up Cutting Board (Bamboo)",11,2
+Massachusetts,130,"LTCA Year Up Quarter-Zip Sweatshirt (Black)",11,2
+Massachusetts,130,"LTCA Year Up Insulated Lunch Bag",11,2
+Massachusetts,130,"LTCA Year Up Bluetooth Speaker (Portable)",11,2
+Massachusetts,130,"LTCA Year Up Throw Pillow (Navy and Gold Logo)",11,2
+Massachusetts,130,"LTCA Year Up Frisbee (Flying Disc)",11,2
+Massachusetts,130,"LTCA Year Up Car Decal (Window Cling)",11,2
+Massachusetts,130,"LTCA Year Up Fleece Jacket (Gray)",11,2
+Massachusetts,130,"LTCA Year Up Passport Holder (Leather)",11,2
+Massachusetts,130,"LTCA Year Up Trucker Hat (Black Mesh)",11,2
+Massachusetts,130,"LTCA Year Up Mouse Pad (Blue)",11,2
+Massachusetts,130,"LTCA Year Up Laptop Sleeve (13-inch)",11,2
+Massachusetts,130,"LTCA Year Up Pullover Hoodie (Navy Blue)",11,2
+Massachusetts,130,"LTCA Year Up Gym Towel",11,2
+Massachusetts,130,"LTCA Year Up Gym Duffel Bag (Navy Blue)",12,4
+Massachusetts,130,"LTCA Year Up Wireless Charger (Black)",12,2
+Massachusetts,130,"LTCA Year Up Wall Calendar",12,2
+Massachusetts,130,"LTCA Year Up Quarter-Zip Sweatshirt (Maroon)",12,2
+Massachusetts,130,"LTCA Year Up Magnet (Fridge)",12,2
+Massachusetts,130,"LTCA Year Up Track Jacket (Navy Blue)",12,2
+Massachusetts,130,"LTCA Year Up Frisbee (Flying Disc)",12,4
+Massachusetts,130,"LTCA Year Up Knit Hat with Pom (Navy and White)",12,2
+Massachusetts,130,"LTCA Year Up USB Flash Drive (64GB)",12,2
+Massachusetts,130,"LTCA Year Up Gym Towel",12,4
+Massachusetts,130,"LTCA Year Up Performance Dri-Fit T-Shirt (Blue)",12,2
+Massachusetts,130,"LTCA Year Up Full-Zip Hoodie (Charcoal Gray)",12,2
+Massachusetts,130,"LTCA Year Up Long-Sleeve Tee (Gray)",12,2
+Massachusetts,130,"LTCA Year Up Clipboard (Plastic)",12,3
+Massachusetts,130,"LTCA Year Up Classic Cotton T-Shirt (Navy Blue)",12,5
+Massachusetts,130,"LTCA Year Up Performance Dri-Fit T-Shirt (Gray)",12,2
+Massachusetts,130,"LTCA Year Up Gel Pen (Pack of 2)",12,2
+Massachusetts,130,"LTCA Year Up Spiral Notebook (Blue)",12,2
+Massachusetts,130,"LTCA Year Up Coffee Mug (Ceramic, White)",12,2
+Massachusetts,130,"LTCA Year Up Umbrella (Golf Style)",12,2
+Massachusetts,130,"LTCA Year Up Flat-Brim Hat (Black)",12,2
+Massachusetts,130,"LTCA Year Up Stadium Blanket",12,2
+Massachusetts,130,"LTCA Year Up Phone Case (iPhone 14)",12,2
+Massachusetts,130,"LTCA Year Up Bomber Jacket (Black)",12,2
+Massachusetts,130,"LTCA Year Up Phone Case (Samsung Galaxy)",12,2
+Massachusetts,130,"LTCA Year Up Patch (Sew-On)",12,5
+Massachusetts,130,"LTCA Year Up Mechanical Pencil (Pack of 2)",12,2
+Massachusetts,130,"LTCA Year Up Umbrella (Compact)",12,3
+Massachusetts,130,"LTCA Year Up Basketball (Regulation Size)",12,3
+Massachusetts,130,"LTCA Year Up Lightweight Windbreaker (Gray)",12,2
+Massachusetts,130,"LTCA Year Up Quarter-Zip Sweatshirt (Black)",12,2
+Massachusetts,130,"LTCA Year Up Folding Stadium Seat",12,2
+Massachusetts,130,"LTCA Year Up Trucker Hat (Blue Mesh)",12,2
+Massachusetts,130,"LTCA Year Up Classic Cotton T-Shirt (White)",12,2
+Massachusetts,130,"LTCA Year Up Poster (Motivational Quote)",12,2
+Massachusetts,130,"LTCA Year Up Drawstring Backpack (Black)",12,2
+Massachusetts,130,"LTCA Year Up Passport Holder (Leather)",12,2
+Massachusetts,130,"LTCA Year Up Beanie Hat (Gray)",12,2
+Massachusetts,130,"LTCA Year Up Water Bottle (Stainless Steel)",12,2
+Massachusetts,130,"LTCA Year Up Desk Clock",12,2
+Massachusetts,130,"LTCA Year Up Embroidered Baseball Cap (Gray)",12,2
+Massachusetts,130,"LTCA Year Up Certificate Frame",12,2

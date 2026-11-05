@@ -1,0 +1,2381 @@
+ShiptoState,Month,year,Sales_Rev_Online
+Maine,2,2022,641.46
+Maine,2,2022,724.20
+Maine,2,2022,724.20
+Maine,2,2022,620.00
+Maine,2,2022,641.46
+Maine,2,2022,620.00
+Maine,3,2022,5720.00
+Maine,3,2022,180.75
+Maine,3,2022,180.75
+Maine,3,2022,263.88
+Maine,3,2022,412.32
+Maine,3,2022,746.68
+Maine,3,2022,482.80
+Maine,3,2022,412.32
+Maine,3,2022,5720.00
+Maine,3,2022,5720.00
+Maine,3,2022,180.75
+Maine,4,2022,724.20
+Maine,4,2022,724.20
+Maine,5,2022,662.00
+Maine,5,2022,816.96
+Maine,5,2022,289.20
+Maine,5,2022,132.30
+Maine,5,2022,527.76
+Maine,5,2022,412.32
+Maine,5,2022,132.30
+Maine,5,2022,412.32
+Maine,5,2022,662.00
+Maine,6,2022,710.25
+Maine,6,2022,412.32
+Maine,6,2022,457.20
+Maine,6,2022,331.00
+Maine,6,2022,412.32
+Maine,6,2022,253.05
+Maine,6,2022,331.00
+Maine,11,2023,30513.82
+Maine,11,2023,9434.03
+Maine,11,2023,23008.76
+Maine,11,2023,6873.32
+Maine,11,2023,1516.07
+Maine,11,2023,954.95
+Maine,11,2023,9672.79
+Maine,11,2023,4924.92
+Maine,11,2023,4446.00
+Maine,11,2023,8523.68
+Maine,11,2023,3211.89
+Maine,11,2023,3969.58
+Maine,11,2023,10275.07
+Maine,11,2023,15514.34
+Maine,11,2023,8335.02
+Maine,11,2023,1337.16
+Maine,11,2023,2405.39
+Maine,11,2023,18521.17
+Maine,11,2023,2508.62
+Maine,11,2023,7739.73
+Maine,11,2023,7696.94
+Maine,11,2023,4552.33
+Maine,11,2023,4707.90
+Maine,11,2023,1763.08
+Maine,11,2023,1860.91
+Maine,11,2023,125.68
+Maine,11,2023,8575.17
+Maine,11,2023,500.24
+Maine,11,2023,1301.30
+Maine,11,2023,38257.50
+Maine,12,2023,330.00
+Maine,12,2023,65.28
+Maine,12,2023,12.00
+Maine,12,2023,220.00
+Maine,12,2023,544.40
+Maine,12,2023,4.00
+Maine,12,2023,4.00
+Maine,12,2023,12.00
+Maine,12,2023,12.00
+Maine,12,2023,407.28
+Maine,12,2023,330.00
+Maine,12,2023,65.28
+Maine,1,2024,330.00
+Maine,1,2024,654.40
+Maine,1,2024,12.00
+Maine,1,2024,12.00
+Maine,1,2024,65.28
+Maine,1,2024,65.28
+Maine,1,2024,224.00
+Maine,1,2024,244.00
+Maine,1,2024,324.40
+Maine,1,2024,4.00
+Maine,1,2024,654.40
+Maine,1,2024,330.00
+Maine,12,2024,13628.89
+Maine,12,2024,7474.60
+Maine,12,2024,5493.40
+Maine,12,2024,11315.50
+Maine,12,2024,1654.30
+Maine,12,2024,8592.75
+Maine,12,2024,16712.34
+Maine,12,2024,10029.27
+Maine,12,2024,3621.03
+Maine,12,2024,2976.53
+Maine,12,2024,1996.28
+Maine,12,2024,9841.08
+Maine,12,2024,7834.66
+Maine,12,2024,3180.99
+Maine,12,2024,5632.94
+Maine,12,2024,6557.99
+Maine,12,2024,3614.30
+Maine,12,2024,10210.56
+Maine,12,2024,9934.00
+Maine,12,2024,16797.99
+Maine,12,2024,24357.26
+Maine,12,2024,1193.80
+Maine,12,2024,2742.43
+Maine,12,2024,7045.66
+Maine,12,2024,581.54
+Maine,12,2024,7818.77
+Maine,12,2024,7535.97
+Maine,12,2024,1487.53
+Maine,12,2024,7608.20
+Maine,12,2024,9123.53
+Maine,12,2024,9730.00
+Maine,1,2025,223.80
+Maine,1,2025,2955.03
+Maine,1,2025,447.60
+Maine,1,2025,567.60
+Maine,1,2025,2795.45
+Maine,1,2025,1464.68
+Maine,1,2025,936.25
+Maine,1,2025,2795.45
+Maine,1,2025,1624.26
+Maine,1,2025,1859.20
+Maine,1,2025,1017.80
+Maine,1,2025,447.60
+Maine,1,2025,447.60
+Maine,1,2025,3178.83
+Maine,2,2025,788.56
+Maine,2,2025,1244.31
+Maine,2,2025,230.56
+Maine,2,2025,1304.04
+Maine,2,2025,1990.35
+Maine,6,2025,2277.30
+Maine,6,2025,767.46
+Maine,6,2025,5786.03
+Maine,6,2025,580.36
+Maine,6,2025,1361.73
+Maine,6,2025,304.44
+Maine,6,2025,8752.46
+Maine,6,2025,13087.96
+Maine,6,2025,8712.12
+Maine,6,2025,5847.89
+Maine,6,2025,8526.28
+Maine,6,2025,600.92
+Maine,6,2025,4549.27
+Maine,6,2025,2993.53
+Maine,6,2025,8084.96
+Maine,6,2025,3436.06
+Maine,6,2025,6106.06
+Maine,6,2025,5850.90
+Maine,6,2025,3695.74
+Maine,6,2025,4187.53
+Maine,6,2025,2347.24
+Maine,6,2025,6631.24
+Maine,6,2025,4140.64
+Maine,6,2025,138.64
+Maine,6,2025,6895.78
+Maine,6,2025,2773.05
+Maine,6,2025,7395.08
+Maine,6,2025,1760.25
+Maine,6,2025,2378.06
+Maine,6,2025,666.70
+Maine,7,2025,1046.20
+Maine,7,2025,335.70
+Maine,7,2025,1521.38
+Maine,7,2025,220.50
+Maine,7,2025,1046.20
+Maine,7,2025,1771.84
+Maine,7,2025,220.50
+Maine,7,2025,1771.84
+Maine,7,2025,335.70
+Maine,7,2025,1521.38
+Maine,7,2025,1046.20
+Maine,9,2025,2566.79
+Maine,9,2025,328.92
+Maine,9,2025,6544.93
+Maine,9,2025,2122.20
+Maine,9,2025,7232.92
+Maine,9,2025,2434.80
+Maine,9,2025,463.79
+Maine,9,2025,6312.08
+Maine,9,2025,610.12
+Maine,9,2025,2910.80
+Maine,9,2025,2408.25
+Maine,9,2025,7176.26
+Maine,9,2025,6079.12
+Maine,9,2025,3035.80
+Maine,9,2025,5735.00
+Maine,9,2025,2503.94
+Maine,9,2025,306.85
+Maine,9,2025,5022.23
+Maine,9,2025,2090.74
+Maine,9,2025,2315.27
+Maine,9,2025,1479.70
+Maine,9,2025,1126.96
+Maine,9,2025,1040.72
+Maine,9,2025,303.24
+Maine,9,2025,969.98
+Maine,9,2025,1562.06
+Maine,9,2025,900.32
+Maine,9,2025,4980.27
+Maine,9,2025,2380.43
+Maine,9,2025,515.28
+Maine,10,2025,1066.80
+Maine,10,2025,1285.92
+Maine,10,2025,2352.72
+Maine,10,2025,1089.20
+Maine,10,2025,1726.16
+Maine,10,2025,827.50
+Maine,10,2025,1726.16
+Maine,10,2025,585.90
+Maine,10,2025,467.84
+Maine,10,2025,585.90
+Maine,10,2025,827.50
+Maine,10,2025,467.84
+Maine,10,2025,2352.72
+Maine,11,2025,624.50
+Maine,11,2025,1475.18
+Maine,11,2025,2077.84
+Maine,11,2025,86.10
+Maine,11,2025,895.02
+Maine,11,2025,1428.05
+Maine,11,2025,6553.70
+Maine,11,2025,417.36
+Maine,11,2025,4942.93
+Maine,11,2025,1227.48
+Maine,11,2025,13270.98
+Maine,11,2025,263.12
+Maine,11,2025,5612.55
+Maine,11,2025,566.80
+Maine,11,2025,901.60
+Maine,11,2025,348.82
+Maine,11,2025,1652.22
+Maine,11,2025,716.42
+Maine,11,2025,2184.96
+Maine,11,2025,10185.96
+Maine,11,2025,4273.53
+Maine,11,2025,5278.60
+Maine,11,2025,363.57
+Maine,11,2025,680.15
+Maine,11,2025,335.34
+Maine,11,2025,3138.47
+Maine,11,2025,331.32
+Maine,11,2025,1068.53
+Maine,11,2025,516.50
+Maine,11,2025,1583.18
+Maine,12,2025,1203.30
+Maine,12,2025,1500.24
+Maine,12,2025,914.40
+Maine,12,2025,158.70
+Maine,12,2025,1203.30
+Maine,12,2025,158.70
+Maine,12,2025,914.40
+Maine,12,2025,1500.24
+Maryland,2,2022,155.00
+Maryland,2,2022,1069.10
+Maryland,2,2022,253.05
+Maryland,2,2022,965.60
+Maryland,2,2022,253.05
+Maryland,2,2022,1069.10
+Maryland,2,2022,155.00
+Maryland,2,2022,412.32
+Maryland,2,2022,965.60
+Maryland,2,2022,412.32
+Maryland,3,2022,263.88
+Maryland,3,2022,180.75
+Maryland,3,2022,1689.80
+Maryland,3,2022,263.88
+Maryland,3,2022,180.75
+Maryland,3,2022,2860.00
+Maryland,3,2022,1689.80
+Maryland,3,2022,2860.00
+Maryland,3,2022,444.63
+Maryland,4,2022,482.80
+Maryland,4,2022,482.80
+Maryland,5,2022,1324.00
+Maryland,5,2022,2099.00
+Maryland,5,2022,775.00
+Maryland,5,2022,1689.80
+Maryland,5,2022,1847.16
+Maryland,5,2022,1008.00
+Maryland,5,2022,823.20
+Maryland,5,2022,180.75
+Maryland,5,2022,4463.06
+Maryland,5,2022,1069.10
+Maryland,5,2022,926.10
+Maryland,5,2022,1069.10
+Maryland,5,2022,180.75
+Maryland,5,2022,2253.20
+Maryland,5,2022,1430.00
+Maryland,6,2022,289.20
+Maryland,6,2022,411.60
+Maryland,6,2022,411.60
+Maryland,6,2022,496.50
+Maryland,6,2022,1649.28
+Maryland,6,2022,496.50
+Maryland,6,2022,2860.00
+Maryland,6,2022,289.20
+Maryland,6,2022,2860.00
+Maryland,6,2022,1649.28
+Maryland,6,2022,289.20
+Maryland,10,2023,28987.68
+Maryland,10,2023,717.89
+Maryland,10,2023,1930.25
+Maryland,10,2023,5303.99
+Maryland,10,2023,568.04
+Maryland,10,2023,191.96
+Maryland,10,2023,3360.58
+Maryland,10,2023,1209.92
+Maryland,10,2023,12601.05
+Maryland,10,2023,11009.44
+Maryland,10,2023,2409.60
+Maryland,10,2023,4653.46
+Maryland,10,2023,8356.95
+Maryland,10,2023,12702.01
+Maryland,10,2023,793.00
+Maryland,10,2023,42189.57
+Maryland,10,2023,7310.88
+Maryland,10,2023,11704.96
+Maryland,10,2023,3092.64
+Maryland,10,2023,1301.93
+Maryland,10,2023,8016.92
+Maryland,10,2023,880.92
+Maryland,10,2023,2471.28
+Maryland,10,2023,822.54
+Maryland,10,2023,23874.28
+Maryland,10,2023,17152.72
+Maryland,10,2023,321.42
+Maryland,10,2023,3275.91
+Maryland,10,2023,12152.98
+Maryland,10,2023,16206.93
+Maryland,11,2023,891.88
+Maryland,11,2023,2809.82
+Maryland,11,2023,408.00
+Maryland,11,2023,11777.07
+Maryland,11,2023,3399.34
+Maryland,11,2023,440.88
+Maryland,11,2023,13447.12
+Maryland,11,2023,2454.51
+Maryland,11,2023,468.98
+Maryland,11,2023,939.70
+Maryland,11,2023,1255.75
+Maryland,11,2023,8645.88
+Maryland,11,2023,1403.54
+Maryland,11,2023,342.90
+Maryland,11,2023,9813.32
+Maryland,11,2023,1490.26
+Maryland,11,2023,1056.28
+Maryland,11,2023,2900.76
+Maryland,11,2023,12374.74
+Maryland,11,2023,96.87
+Maryland,11,2023,1098.54
+Maryland,11,2023,16333.67
+Maryland,11,2023,714.68
+Maryland,11,2023,327.68
+Maryland,11,2023,503.04
+Maryland,11,2023,16574.23
+Maryland,11,2023,2854.14
+Maryland,11,2023,333.60
+Maryland,11,2023,2215.74
+Maryland,11,2023,1852.80
+Maryland,12,2023,9065.17
+Maryland,12,2023,2472.37
+Maryland,12,2023,2822.98
+Maryland,12,2023,1242.59
+Maryland,12,2023,2558.18
+Maryland,12,2023,1562.60
+Maryland,12,2023,2212.73
+Maryland,12,2023,2272.39
+Maryland,12,2023,1106.32
+Maryland,12,2023,4089.73
+Maryland,12,2023,3120.40
+Maryland,12,2023,2082.82
+Maryland,12,2023,1064.60
+Maryland,12,2023,8145.00
+Maryland,12,2023,810.36
+Maryland,12,2023,473.08
+Maryland,12,2023,563.62
+Maryland,12,2023,14828.84
+Maryland,12,2023,5194.16
+Maryland,12,2023,314.52
+Maryland,12,2023,751.97
+Maryland,12,2023,4785.53
+Maryland,12,2023,1831.64
+Maryland,12,2023,406.80
+Maryland,12,2023,3206.72
+Maryland,12,2023,1540.97
+Maryland,12,2023,792.86
+Maryland,12,2023,1690.71
+Maryland,12,2023,2053.68
+Maryland,12,2023,9257.44
+Maryland,12,2023,3049.40
+Maryland,1,2024,2526.20
+Maryland,1,2024,800.81
+Maryland,1,2024,137.34
+Maryland,1,2024,7189.79
+Maryland,1,2024,2489.74
+Maryland,1,2024,6745.70
+Maryland,1,2024,2507.89
+Maryland,1,2024,397.10
+Maryland,1,2024,96.00
+Maryland,1,2024,1986.02
+Maryland,1,2024,7306.70
+Maryland,1,2024,2084.75
+Maryland,1,2024,2398.25
+Maryland,1,2024,1548.16
+Maryland,1,2024,747.80
+Maryland,1,2024,283.01
+Maryland,1,2024,5068.44
+Maryland,1,2024,3182.28
+Maryland,1,2024,3297.52
+Maryland,1,2024,1095.98
+Maryland,1,2024,8015.37
+Maryland,1,2024,2802.72
+Maryland,1,2024,3916.63
+Maryland,1,2024,3288.33
+Maryland,1,2024,4703.49
+Maryland,1,2024,3167.59
+Maryland,1,2024,1332.43
+Maryland,1,2024,391.20
+Maryland,1,2024,403.33
+Maryland,1,2024,1960.48
+Maryland,1,2024,1100.54
+Maryland,11,2024,8385.57
+Maryland,11,2024,17780.52
+Maryland,11,2024,3219.96
+Maryland,11,2024,13064.34
+Maryland,11,2024,722.08
+Maryland,11,2024,12818.25
+Maryland,11,2024,11091.89
+Maryland,11,2024,6389.21
+Maryland,11,2024,17533.60
+Maryland,11,2024,13071.99
+Maryland,11,2024,644.90
+Maryland,11,2024,11266.92
+Maryland,11,2024,2931.45
+Maryland,11,2024,2925.68
+Maryland,11,2024,5874.16
+Maryland,11,2024,4671.29
+Maryland,11,2024,7769.93
+Maryland,11,2024,14950.34
+Maryland,11,2024,1491.53
+Maryland,11,2024,11615.60
+Maryland,11,2024,1760.42
+Maryland,11,2024,1903.68
+Maryland,11,2024,15022.72
+Maryland,11,2024,12622.42
+Maryland,11,2024,1367.04
+Maryland,11,2024,1745.93
+Maryland,11,2024,11455.35
+Maryland,11,2024,195.61
+Maryland,11,2024,6378.62
+Maryland,11,2024,19526.35
+Maryland,12,2024,1529.33
+Maryland,12,2024,4863.02
+Maryland,12,2024,7030.52
+Maryland,12,2024,1790.90
+Maryland,12,2024,297.94
+Maryland,12,2024,4140.33
+Maryland,12,2024,5212.48
+Maryland,12,2024,15880.32
+Maryland,12,2024,1992.29
+Maryland,12,2024,6948.99
+Maryland,12,2024,10508.13
+Maryland,12,2024,2434.92
+Maryland,12,2024,3087.35
+Maryland,12,2024,6.02
+Maryland,12,2024,5537.82
+Maryland,12,2024,862.48
+Maryland,12,2024,187.21
+Maryland,12,2024,9328.10
+Maryland,12,2024,76.10
+Maryland,12,2024,1001.38
+Maryland,12,2024,138.56
+Maryland,12,2024,10018.32
+Maryland,12,2024,1474.77
+Maryland,12,2024,1119.40
+Maryland,12,2024,3637.16
+Maryland,12,2024,6250.66
+Maryland,12,2024,3447.08
+Maryland,12,2024,5140.52
+Maryland,12,2024,1836.86
+Maryland,12,2024,5618.01
+Maryland,12,2024,5968.00
+Maryland,1,2025,2307.40
+Maryland,1,2025,2588.40
+Maryland,1,2025,1826.40
+Maryland,1,2025,599.62
+Maryland,1,2025,420.62
+Maryland,1,2025,2204.34
+Maryland,1,2025,1631.00
+Maryland,1,2025,1641.52
+Maryland,1,2025,2161.20
+Maryland,1,2025,77.92
+Maryland,1,2025,1107.40
+Maryland,1,2025,515.70
+Maryland,1,2025,1940.40
+Maryland,1,2025,1351.14
+Maryland,1,2025,823.20
+Maryland,1,2025,1690.22
+Maryland,1,2025,1845.80
+Maryland,1,2025,2897.80
+Maryland,1,2025,152.20
+Maryland,2,2025,579.75
+Maryland,2,2025,579.75
+Maryland,2,2025,652.02
+Maryland,2,2025,1349.22
+Maryland,2,2025,345.84
+Maryland,2,2025,781.20
+Maryland,2,2025,801.24
+Maryland,2,2025,781.20
+Maryland,2,2025,111.60
+Maryland,2,2025,914.40
+Maryland,2,2025,914.40
+Maryland,2,2025,343.80
+Maryland,2,2025,697.20
+Maryland,3,2025,1178.53
+Maryland,3,2025,1053.54
+Maryland,3,2025,2407.63
+Maryland,3,2025,879.73
+Maryland,3,2025,7445.11
+Maryland,3,2025,4658.54
+Maryland,3,2025,3490.11
+Maryland,3,2025,5396.92
+Maryland,3,2025,247.48
+Maryland,3,2025,3266.25
+Maryland,3,2025,266.28
+Maryland,3,2025,3412.06
+Maryland,3,2025,6039.31
+Maryland,3,2025,3128.25
+Maryland,3,2025,8195.63
+Maryland,3,2025,25279.65
+Maryland,3,2025,3944.36
+Maryland,3,2025,1007.58
+Maryland,3,2025,23170.31
+Maryland,3,2025,412.52
+Maryland,3,2025,5508.10
+Maryland,3,2025,235.82
+Maryland,3,2025,2251.79
+Maryland,3,2025,1000.95
+Maryland,3,2025,985.28
+Maryland,3,2025,2024.69
+Maryland,3,2025,594.44
+Maryland,3,2025,1742.14
+Maryland,3,2025,902.27
+Maryland,3,2025,954.75
+Maryland,3,2025,2782.68
+Maryland,4,2025,136.00
+Maryland,4,2025,82.56
+Maryland,4,2025,1141.50
+Maryland,4,2025,162.20
+Maryland,4,2025,626.72
+Maryland,4,2025,162.20
+Maryland,4,2025,917.20
+Maryland,4,2025,461.60
+Maryland,4,2025,913.20
+Maryland,4,2025,82.56
+Maryland,4,2025,65.28
+Maryland,4,2025,230.40
+Maryland,4,2025,1141.50
+Maryland,4,2025,132.00
+Maryland,4,2025,4.00
+Maryland,4,2025,214.56
+Maryland,5,2025,7471.44
+Maryland,5,2025,3120.73
+Maryland,5,2025,1032.90
+Maryland,5,2025,2371.29
+Maryland,5,2025,233.55
+Maryland,5,2025,3324.60
+Maryland,5,2025,1768.06
+Maryland,5,2025,700.87
+Maryland,5,2025,2463.63
+Maryland,5,2025,1151.55
+Maryland,5,2025,1979.70
+Maryland,5,2025,1887.62
+Maryland,5,2025,2991.89
+Maryland,5,2025,2504.08
+Maryland,5,2025,671.96
+Maryland,5,2025,902.31
+Maryland,5,2025,256.98
+Maryland,5,2025,593.42
+Maryland,5,2025,542.75
+Maryland,5,2025,2027.55
+Maryland,5,2025,1947.73
+Maryland,5,2025,1146.90
+Maryland,5,2025,526.32
+Maryland,5,2025,1113.90
+Maryland,5,2025,1263.38
+Maryland,5,2025,2953.03
+Maryland,5,2025,1173.30
+Maryland,5,2025,11453.87
+Maryland,5,2025,6860.16
+Maryland,5,2025,1686.49
+Maryland,5,2025,2937.78
+Maryland,6,2025,652.02
+Maryland,6,2025,576.40
+Maryland,6,2025,576.40
+Maryland,6,2025,652.02
+Maryland,6,2025,1372.62
+Maryland,6,2025,1282.92
+Maryland,6,2025,1372.62
+Maryland,6,2025,1282.92
+Maryland,7,2025,752.80
+Maryland,7,2025,111.90
+Maryland,7,2025,752.80
+Maryland,7,2025,1117.06
+Maryland,7,2025,1117.06
+Maryland,7,2025,110.25
+Maryland,7,2025,110.25
+Maryland,7,2025,111.90
+Maryland,7,2025,752.80
+Maryland,9,2025,249.06
+Maryland,9,2025,1092.70
+Maryland,9,2025,762.71
+Maryland,9,2025,6883.97
+Maryland,9,2025,5603.30
+Maryland,9,2025,2183.39
+Maryland,9,2025,4595.06
+Maryland,9,2025,988.84
+Maryland,9,2025,1487.15
+Maryland,9,2025,7430.78
+Maryland,9,2025,6226.26
+Maryland,9,2025,1009.08
+Maryland,9,2025,1511.00
+Maryland,9,2025,1805.22
+Maryland,9,2025,932.66
+Maryland,9,2025,1051.72
+Maryland,9,2025,6749.73
+Maryland,9,2025,1126.26
+Maryland,9,2025,3353.97
+Maryland,9,2025,6645.58
+Maryland,9,2025,6775.60
+Maryland,9,2025,4453.30
+Maryland,9,2025,4335.07
+Maryland,9,2025,1250.46
+Maryland,9,2025,4392.86
+Maryland,9,2025,249.28
+Maryland,9,2025,3447.78
+Maryland,9,2025,1230.75
+Maryland,9,2025,864.16
+Maryland,9,2025,477.60
+Maryland,10,2025,2955.50
+Maryland,10,2025,5318.28
+Maryland,10,2025,2210.55
+Maryland,10,2025,1495.04
+Maryland,10,2025,5549.56
+Maryland,10,2025,5515.64
+Maryland,10,2025,2832.06
+Maryland,10,2025,691.41
+Maryland,10,2025,14051.26
+Maryland,10,2025,1320.18
+Maryland,10,2025,1990.52
+Maryland,10,2025,2360.80
+Maryland,10,2025,944.22
+Maryland,10,2025,7018.71
+Maryland,10,2025,7310.79
+Maryland,10,2025,1625.98
+Maryland,10,2025,2303.35
+Maryland,10,2025,2376.86
+Maryland,10,2025,1762.65
+Maryland,10,2025,330.56
+Maryland,10,2025,9436.00
+Maryland,10,2025,855.77
+Maryland,10,2025,643.79
+Maryland,10,2025,2981.99
+Maryland,10,2025,1150.61
+Maryland,10,2025,1914.00
+Maryland,10,2025,905.32
+Maryland,10,2025,12123.12
+Maryland,10,2025,1440.68
+Maryland,10,2025,3103.78
+Maryland,10,2025,5939.87
+Maryland,11,2025,1859.20
+Maryland,11,2025,232.40
+Maryland,11,2025,1219.20
+Maryland,11,2025,411.60
+Maryland,11,2025,1255.30
+Maryland,11,2025,1859.20
+Maryland,11,2025,1434.50
+Maryland,11,2025,1219.20
+Massachusetts,1,2022,2111.04
+Massachusetts,1,2022,2111.04
+Massachusetts,2,2022,3427.94
+Massachusetts,2,2022,5720.00
+Massachusetts,2,2022,206.16
+Massachusetts,2,2022,1931.20
+Massachusetts,2,2022,310.00
+Massachusetts,2,2022,310.00
+Massachusetts,2,2022,72.30
+Massachusetts,2,2022,206.16
+Massachusetts,2,2022,5720.00
+Massachusetts,2,2022,72.30
+Massachusetts,2,2022,1496.74
+Massachusetts,3,2022,36.15
+Massachusetts,3,2022,3575.00
+Massachusetts,3,2022,527.76
+Massachusetts,3,2022,3575.00
+Massachusetts,3,2022,775.00
+Massachusetts,3,2022,760.35
+Massachusetts,3,2022,775.00
+Massachusetts,3,2022,412.32
+Massachusetts,3,2022,1367.72
+Massachusetts,3,2022,427.64
+Massachusetts,3,2022,724.20
+Massachusetts,4,2022,1583.28
+Massachusetts,4,2022,241.40
+Massachusetts,4,2022,1583.28
+Massachusetts,4,2022,2.40
+Massachusetts,4,2022,3577.40
+Massachusetts,4,2022,310.00
+Massachusetts,4,2022,1959.28
+Massachusetts,4,2022,1282.92
+Massachusetts,4,2022,218.85
+Massachusetts,4,2022,279.50
+Massachusetts,4,2022,1649.28
+Massachusetts,4,2022,1463.67
+Massachusetts,4,2022,3575.00
+Massachusetts,4,2022,1824.68
+Massachusetts,5,2022,7388.70
+Massachusetts,5,2022,10515.00
+Massachusetts,5,2022,590.95
+Massachusetts,5,2022,17080.74
+Massachusetts,5,2022,9330.74
+Massachusetts,5,2022,1465.93
+Massachusetts,5,2022,7043.20
+Massachusetts,5,2022,25888.03
+Massachusetts,5,2022,7842.95
+Massachusetts,5,2022,12667.90
+Massachusetts,5,2022,14504.61
+Massachusetts,5,2022,5814.55
+Massachusetts,5,2022,5024.94
+Massachusetts,5,2022,4792.36
+Massachusetts,5,2022,5277.11
+Massachusetts,5,2022,8836.15
+Massachusetts,5,2022,2649.21
+Massachusetts,5,2022,6469.54
+Massachusetts,5,2022,4328.88
+Massachusetts,5,2022,15378.71
+Massachusetts,5,2022,2384.27
+Massachusetts,5,2022,1838.51
+Massachusetts,5,2022,6454.81
+Massachusetts,5,2022,5134.28
+Massachusetts,5,2022,4261.68
+Massachusetts,5,2022,15609.67
+Massachusetts,5,2022,10807.05
+Massachusetts,5,2022,11396.81
+Massachusetts,5,2022,2745.55
+Massachusetts,5,2022,5683.26
+Massachusetts,5,2022,10065.84
+Massachusetts,6,2022,2284.90
+Massachusetts,6,2022,702.25
+Massachusetts,6,2022,2219.72
+Massachusetts,6,2022,65.50
+Massachusetts,6,2022,611.55
+Massachusetts,6,2022,697.08
+Massachusetts,6,2022,1793.80
+Massachusetts,6,2022,2339.32
+Massachusetts,6,2022,1739.36
+Massachusetts,6,2022,1257.60
+Massachusetts,6,2022,1410.20
+Massachusetts,6,2022,1152.00
+Massachusetts,6,2022,2425.92
+Massachusetts,6,2022,1078.40
+Massachusetts,6,2022,2171.40
+Massachusetts,6,2022,1430.00
+Massachusetts,6,2022,641.46
+Massachusetts,6,2022,993.00
+Massachusetts,6,2022,2039.60
+Massachusetts,6,2022,263.88
+Massachusetts,6,2022,433.20
+Massachusetts,6,2022,3035.52
+Massachusetts,6,2022,2987.15
+Massachusetts,7,2022,6105.95
+Massachusetts,7,2022,3432.02
+Massachusetts,7,2022,2624.80
+Massachusetts,7,2022,2803.44
+Massachusetts,7,2022,629.40
+Massachusetts,7,2022,55.00
+Massachusetts,7,2022,1918.15
+Massachusetts,7,2022,1064.80
+Massachusetts,7,2022,3190.00
+Massachusetts,7,2022,2308.16
+Massachusetts,7,2022,1791.00
+Massachusetts,7,2022,2461.00
+Massachusetts,7,2022,1014.00
+Massachusetts,7,2022,116.88
+Massachusetts,7,2022,3882.68
+Massachusetts,7,2022,2199.39
+Massachusetts,7,2022,1342.80
+Massachusetts,7,2022,2072.20
+Massachusetts,7,2022,1746.00
+Massachusetts,7,2022,1646.40
+Massachusetts,7,2022,2617.70
+Massachusetts,7,2022,2831.54
+Massachusetts,7,2022,4348.96
+Massachusetts,7,2022,1581.00
+Massachusetts,7,2022,2123.53
+Massachusetts,7,2022,1947.90
+Massachusetts,7,2022,6053.44
+Massachusetts,7,2022,574.40
+Massachusetts,7,2022,7358.35
+Massachusetts,7,2022,4230.02
+Massachusetts,8,2022,165.50
+Massachusetts,8,2022,2289.50
+Massachusetts,8,2022,1062.96
+Massachusetts,8,2022,1454.67
+Massachusetts,8,2022,269.60
+Massachusetts,8,2022,165.50
+Massachusetts,8,2022,1093.50
+Massachusetts,8,2022,1273.92
+Massachusetts,8,2022,1354.80
+Massachusetts,8,2022,2982.16
+Massachusetts,8,2022,1684.40
+Massachusetts,8,2022,2640.66
+Massachusetts,8,2022,3413.25
+Massachusetts,8,2022,1389.80
+Massachusetts,8,2022,864.00
+Massachusetts,8,2022,264.60
+Massachusetts,8,2022,527.76
+Massachusetts,8,2022,2988.16
+Massachusetts,8,2022,642.10
+Massachusetts,8,2022,1155.20
+Massachusetts,8,2022,1066.80
+Massachusetts,8,2022,4431.16
+Massachusetts,8,2022,665.50
+Massachusetts,8,2022,1196.00
+Massachusetts,8,2022,1319.26
+Massachusetts,8,2022,1622.70
+Massachusetts,9,2022,931.70
+Massachusetts,9,2022,727.15
+Massachusetts,9,2022,1150.64
+Massachusetts,9,2022,404.40
+Massachusetts,9,2022,3198.38
+Massachusetts,9,2022,776.90
+Massachusetts,9,2022,2145.00
+Massachusetts,9,2022,793.80
+Massachusetts,9,2022,359.00
+Massachusetts,9,2022,2759.25
+Massachusetts,9,2022,793.80
+Massachusetts,9,2022,1732.45
+Massachusetts,9,2022,791.64
+Massachusetts,9,2022,144.40
+Massachusetts,9,2022,1830.03
+Massachusetts,9,2022,427.64
+Massachusetts,9,2022,511.75
+Massachusetts,9,2022,1547.40
+Massachusetts,9,2022,288.00
+Massachusetts,9,2022,288.00
+Massachusetts,9,2022,1423.29
+Massachusetts,9,2022,661.50
+Massachusetts,9,2022,1219.20
+Massachusetts,9,2022,931.70
+Massachusetts,9,2022,727.15
+Massachusetts,10,2022,794.60
+Massachusetts,10,2022,1298.80
+Massachusetts,10,2022,1308.80
+Massachusetts,10,2022,1881.00
+Massachusetts,10,2022,396.90
+Massachusetts,10,2022,1583.28
+Massachusetts,10,2022,1139.10
+Massachusetts,10,2022,1583.28
+Massachusetts,10,2022,241.40
+Massachusetts,10,2022,1069.10
+Massachusetts,10,2022,2860.00
+Massachusetts,10,2022,690.28
+Massachusetts,10,2022,1152.00
+Massachusetts,10,2022,2525.30
+Massachusetts,10,2022,3264.40
+Massachusetts,10,2022,1051.10
+Massachusetts,10,2022,241.40
+Massachusetts,10,2022,1069.10
+Massachusetts,10,2022,1061.60
+Massachusetts,10,2022,867.30
+Massachusetts,10,2022,3353.50
+Massachusetts,10,2022,1685.28
+Massachusetts,10,2022,794.60
+Massachusetts,10,2022,288.00
+Massachusetts,10,2022,1010.80
+Massachusetts,11,2022,1158.50
+Massachusetts,11,2022,2175.60
+Massachusetts,11,2022,1759.30
+Massachusetts,11,2022,982.00
+Massachusetts,11,2022,1273.92
+Massachusetts,11,2022,1993.90
+Massachusetts,11,2022,1827.15
+Massachusetts,11,2022,144.00
+Massachusetts,11,2022,3205.12
+Massachusetts,11,2022,213.82
+Massachusetts,11,2022,180.75
+Massachusetts,11,2022,1992.20
+Massachusetts,11,2022,1124.00
+Massachusetts,11,2022,914.40
+Massachusetts,11,2022,372.94
+Massachusetts,11,2022,2203.28
+Massachusetts,11,2022,269.60
+Massachusetts,11,2022,1916.28
+Massachusetts,11,2022,3322.68
+Massachusetts,11,2022,2939.20
+Massachusetts,11,2022,1082.90
+Massachusetts,11,2022,1167.52
+Massachusetts,11,2022,532.40
+Massachusetts,11,2022,1583.28
+Massachusetts,11,2022,2804.90
+Massachusetts,11,2022,529.20
+Massachusetts,12,2022,206.16
+Massachusetts,12,2022,1430.00
+Massachusetts,12,2022,601.20
+Massachusetts,12,2022,340.96
+Massachusetts,12,2022,5002.56
+Massachusetts,12,2022,1083.30
+Massachusetts,12,2022,680.80
+Massachusetts,12,2022,331.00
+Massachusetts,12,2022,596.00
+Massachusetts,12,2022,1237.40
+Massachusetts,12,2022,2324.40
+Massachusetts,12,2022,1933.10
+Massachusetts,12,2022,696.46
+Massachusetts,12,2022,2113.20
+Massachusetts,12,2022,430.26
+Massachusetts,12,2022,793.80
+Massachusetts,12,2022,1564.80
+Massachusetts,12,2022,1793.30
+Massachusetts,12,2022,596.00
+Massachusetts,12,2022,853.86
+Massachusetts,12,2022,266.20
+Massachusetts,12,2022,206.16
+Massachusetts,12,2022,1430.00
+Massachusetts,1,2023,1609.46
+Massachusetts,1,2023,152.40
+Massachusetts,1,2023,577.60
+Massachusetts,1,2023,1646.40
+Massachusetts,1,2023,2160.00
+Massachusetts,1,2023,132.30
+Massachusetts,1,2023,132.30
+Massachusetts,1,2023,1319.40
+Massachusetts,1,2023,2243.25
+Massachusetts,1,2023,2917.35
+Massachusetts,1,2023,1324.00
+Massachusetts,1,2023,215.40
+Massachusetts,1,2023,364.72
+Massachusetts,1,2023,1319.40
+Massachusetts,1,2023,212.32
+Massachusetts,1,2023,1236.96
+Massachusetts,1,2023,1274.20
+Massachusetts,1,2023,724.20
+Massachusetts,1,2023,577.60
+Massachusetts,1,2023,481.60
+Massachusetts,1,2023,1152.00
+Massachusetts,1,2023,1389.36
+Massachusetts,1,2023,372.50
+Massachusetts,2,2023,3298.62
+Massachusetts,2,2023,1064.80
+Massachusetts,2,2023,1443.12
+Massachusetts,2,2023,1496.74
+Massachusetts,2,2023,3031.78
+Massachusetts,2,2023,359.00
+Massachusetts,2,2023,609.60
+Massachusetts,2,2023,913.20
+Massachusetts,2,2023,2356.32
+Massachusetts,2,2023,1064.80
+Massachusetts,2,2023,1234.80
+Massachusetts,2,2023,264.60
+Massachusetts,2,2023,922.24
+Massachusetts,2,2023,864.00
+Massachusetts,2,2023,652.40
+Massachusetts,2,2023,219.30
+Massachusetts,2,2023,149.00
+Massachusetts,2,2023,1186.84
+Massachusetts,2,2023,1496.74
+Massachusetts,2,2023,144.40
+Massachusetts,2,2023,2026.90
+Massachusetts,2,2023,1817.08
+Massachusetts,2,2023,967.96
+Massachusetts,3,2023,1338.89
+Massachusetts,3,2023,1078.40
+Massachusetts,3,2023,864.00
+Massachusetts,3,2023,524.10
+Massachusetts,3,2023,1061.60
+Massachusetts,3,2023,219.30
+Massachusetts,3,2023,1155.20
+Massachusetts,3,2023,1440.00
+Massachusetts,3,2023,2148.00
+Massachusetts,3,2023,215.40
+Massachusetts,3,2023,1487.25
+Massachusetts,3,2023,1967.22
+Massachusetts,3,2023,849.42
+Massachusetts,3,2023,496.50
+Massachusetts,3,2023,1830.80
+Massachusetts,3,2023,1078.40
+Massachusetts,3,2023,3033.20
+Massachusetts,3,2023,943.70
+Massachusetts,3,2023,724.20
+Massachusetts,3,2023,427.64
+Massachusetts,3,2023,1155.20
+Massachusetts,3,2023,427.64
+Massachusetts,3,2023,911.25
+Massachusetts,4,2023,926.10
+Massachusetts,4,2023,496.50
+Massachusetts,4,2023,956.68
+Massachusetts,4,2023,1731.72
+Massachusetts,4,2023,1275.75
+Massachusetts,4,2023,427.64
+Massachusetts,4,2023,943.60
+Massachusetts,4,2023,1513.80
+Massachusetts,4,2023,720.00
+Massachusetts,4,2023,1703.39
+Massachusetts,4,2023,659.32
+Massachusetts,4,2023,2698.70
+Massachusetts,4,2023,762.00
+Massachusetts,4,2023,617.40
+Massachusetts,4,2023,2499.18
+Massachusetts,4,2023,412.32
+Massachusetts,4,2023,1518.60
+Massachusetts,4,2023,720.00
+Massachusetts,4,2023,3430.60
+Massachusetts,4,2023,1010.92
+Massachusetts,4,2023,447.00
+Massachusetts,4,2023,943.60
+Massachusetts,4,2023,1422.60
+Massachusetts,5,2023,661.50
+Massachusetts,5,2023,2254.72
+Massachusetts,5,2023,288.80
+Massachusetts,5,2023,304.80
+Massachusetts,5,2023,2766.37
+Massachusetts,5,2023,1064.80
+Massachusetts,5,2023,1828.60
+Massachusetts,5,2023,2111.04
+Massachusetts,5,2023,617.40
+Massachusetts,5,2023,71.80
+Massachusetts,5,2023,554.50
+Massachusetts,5,2023,1307.44
+Massachusetts,5,2023,1641.60
+Massachusetts,5,2023,3628.70
+Massachusetts,5,2023,432.00
+Massachusetts,5,2023,182.25
+Massachusetts,5,2023,661.50
+Massachusetts,5,2023,787.60
+Massachusetts,5,2023,3054.64
+Massachusetts,5,2023,2041.56
+Massachusetts,5,2023,1754.40
+Massachusetts,5,2023,288.00
+Massachusetts,5,2023,873.82
+Massachusetts,6,2023,3165.11
+Massachusetts,6,2023,798.60
+Massachusetts,6,2023,3184.38
+Massachusetts,6,2023,1008.00
+Massachusetts,6,2023,1732.40
+Massachusetts,6,2023,457.20
+Massachusetts,6,2023,2970.12
+Massachusetts,6,2023,1082.50
+Massachusetts,6,2023,1058.40
+Massachusetts,6,2023,724.20
+Massachusetts,6,2023,288.00
+Massachusetts,6,2023,2722.20
+Massachusetts,6,2023,288.00
+Massachusetts,6,2023,1773.06
+Massachusetts,6,2023,2235.25
+Massachusetts,6,2023,1953.80
+Massachusetts,6,2023,529.20
+Massachusetts,6,2023,411.60
+Massachusetts,6,2023,791.64
+Massachusetts,6,2023,411.60
+Massachusetts,6,2023,2176.56
+Massachusetts,6,2023,1698.56
+Massachusetts,6,2023,3963.71
+Massachusetts,7,2023,1315.80
+Massachusetts,7,2023,1078.40
+Massachusetts,7,2023,762.00
+Massachusetts,7,2023,521.50
+Massachusetts,7,2023,1315.80
+Massachusetts,7,2023,665.50
+Massachusetts,7,2023,864.00
+Massachusetts,7,2023,482.80
+Massachusetts,7,2023,1010.80
+Massachusetts,7,2023,823.20
+Massachusetts,7,2023,532.40
+Massachusetts,7,2023,926.10
+Massachusetts,7,2023,1010.80
+Massachusetts,7,2023,849.28
+Massachusetts,7,2023,1078.40
+Massachusetts,7,2023,762.00
+Massachusetts,7,2023,993.00
+Massachusetts,7,2023,1879.76
+Massachusetts,7,2023,482.80
+Massachusetts,7,2023,1790.10
+Massachusetts,7,2023,1030.76
+Massachusetts,7,2023,823.20
+Massachusetts,7,2023,1381.68
+Massachusetts,7,2023,1078.40
+Massachusetts,7,2023,1315.80
+Massachusetts,8,2023,1273.92
+Massachusetts,8,2023,2111.04
+Massachusetts,8,2023,496.50
+Massachusetts,8,2023,496.50
+Massachusetts,8,2023,2962.20
+Massachusetts,8,2023,574.40
+Massachusetts,8,2023,926.10
+Massachusetts,8,2023,926.10
+Massachusetts,8,2023,2657.20
+Massachusetts,8,2023,152.40
+Massachusetts,8,2023,1234.30
+Massachusetts,8,2023,1585.40
+Massachusetts,8,2023,1058.40
+Massachusetts,8,2023,1008.00
+Massachusetts,8,2023,1275.75
+Massachusetts,8,2023,1058.40
+Massachusetts,8,2023,223.50
+Massachusetts,8,2023,3808.79
+Massachusetts,8,2023,574.40
+Massachusetts,8,2023,1273.92
+Massachusetts,8,2023,3384.96
+Massachusetts,9,2023,287.20
+Massachusetts,9,2023,3133.00
+Massachusetts,9,2023,1964.08
+Massachusetts,9,2023,2868.04
+Massachusetts,9,2023,432.00
+Massachusetts,9,2023,1155.20
+Massachusetts,9,2023,2316.90
+Massachusetts,9,2023,517.30
+Massachusetts,9,2023,1725.28
+Massachusetts,9,2023,1722.60
+Massachusetts,9,2023,1496.74
+Massachusetts,9,2023,2144.38
+Massachusetts,9,2023,2152.50
+Massachusetts,9,2023,729.00
+Massachusetts,9,2023,798.60
+Massachusetts,9,2023,1155.20
+Massachusetts,9,2023,661.50
+Massachusetts,9,2023,432.00
+Massachusetts,9,2023,2455.20
+Massachusetts,9,2023,1055.52
+Massachusetts,9,2023,287.20
+Massachusetts,10,2023,1734.06
+Massachusetts,10,2023,287.20
+Massachusetts,10,2023,2214.82
+Massachusetts,10,2023,1710.56
+Massachusetts,10,2023,264.60
+Massachusetts,10,2023,264.60
+Massachusetts,10,2023,1423.50
+Massachusetts,10,2023,2515.44
+Massachusetts,10,2023,883.30
+Massachusetts,10,2023,546.75
+Massachusetts,10,2023,864.00
+Massachusetts,10,2023,762.00
+Massachusetts,10,2023,2149.16
+Massachusetts,10,2023,2537.40
+Massachusetts,10,2023,1132.16
+Massachusetts,10,2023,1064.80
+Massachusetts,10,2023,1604.92
+Massachusetts,10,2023,5288.39
+Massachusetts,10,2023,1734.06
+Massachusetts,10,2023,287.20
+Massachusetts,11,2023,4515.90
+Massachusetts,11,2023,1229.91
+Massachusetts,11,2023,23269.02
+Massachusetts,11,2023,8989.86
+Massachusetts,11,2023,11661.56
+Massachusetts,11,2023,2919.11
+Massachusetts,11,2023,2366.94
+Massachusetts,11,2023,820.25
+Massachusetts,11,2023,2709.86
+Massachusetts,11,2023,3182.23
+Massachusetts,11,2023,2968.23
+Massachusetts,11,2023,2312.77
+Massachusetts,11,2023,7303.39
+Massachusetts,11,2023,3123.25
+Massachusetts,11,2023,2220.46
+Massachusetts,11,2023,7747.70
+Massachusetts,11,2023,9885.51
+Massachusetts,11,2023,2843.50
+Massachusetts,11,2023,1778.32
+Massachusetts,11,2023,9885.21
+Massachusetts,11,2023,8890.73
+Massachusetts,11,2023,2088.65
+Massachusetts,11,2023,1978.44
+Massachusetts,11,2023,2560.51
+Massachusetts,11,2023,3476.90
+Massachusetts,11,2023,2334.99
+Massachusetts,11,2023,499.49
+Massachusetts,11,2023,6516.15
+Massachusetts,11,2023,624.52
+Massachusetts,11,2023,5121.29
+Massachusetts,12,2023,533.48
+Massachusetts,12,2023,3856.08
+Massachusetts,12,2023,808.68
+Massachusetts,12,2023,2271.24
+Massachusetts,12,2023,2976.34
+Massachusetts,12,2023,5989.73
+Massachusetts,12,2023,3642.92
+Massachusetts,12,2023,4456.60
+Massachusetts,12,2023,13513.72
+Massachusetts,12,2023,7152.63
+Massachusetts,12,2023,4594.24
+Massachusetts,12,2023,1106.22
+Massachusetts,12,2023,5918.87
+Massachusetts,12,2023,11405.04
+Massachusetts,12,2023,8070.44
+Massachusetts,12,2023,2042.52
+Massachusetts,12,2023,3597.77
+Massachusetts,12,2023,7745.10
+Massachusetts,12,2023,768.98
+Massachusetts,12,2023,1779.64
+Massachusetts,12,2023,3558.36
+Massachusetts,12,2023,5605.16
+Massachusetts,12,2023,8583.26
+Massachusetts,12,2023,262.72
+Massachusetts,12,2023,379.64
+Massachusetts,12,2023,4041.00
+Massachusetts,12,2023,2979.23
+Massachusetts,12,2023,2967.59
+Massachusetts,12,2023,2271.16
+Massachusetts,12,2023,2042.18
+Massachusetts,12,2023,890.92
+Massachusetts,1,2024,5885.46
+Massachusetts,1,2024,3010.04
+Massachusetts,1,2024,1316.38
+Massachusetts,1,2024,1730.08
+Massachusetts,1,2024,1970.65
+Massachusetts,1,2024,2653.43
+Massachusetts,1,2024,790.08
+Massachusetts,1,2024,13035.88
+Massachusetts,1,2024,1180.59
+Massachusetts,1,2024,2669.22
+Massachusetts,1,2024,4213.01
+Massachusetts,1,2024,4615.94
+Massachusetts,1,2024,2050.12
+Massachusetts,1,2024,11232.44
+Massachusetts,1,2024,3496.06
+Massachusetts,1,2024,4019.77
+Massachusetts,1,2024,1851.25
+Massachusetts,1,2024,1909.82
+Massachusetts,1,2024,651.18
+Massachusetts,1,2024,5975.06
+Massachusetts,1,2024,1487.40
+Massachusetts,1,2024,4645.84
+Massachusetts,1,2024,3877.47
+Massachusetts,1,2024,11932.48
+Massachusetts,1,2024,6148.26
+Massachusetts,1,2024,8979.98
+Massachusetts,1,2024,9138.40
+Massachusetts,1,2024,669.60
+Massachusetts,1,2024,1025.28
+Massachusetts,1,2024,3782.14
+Massachusetts,1,2024,5404.46
+Massachusetts,2,2024,577.60
+Massachusetts,2,2024,212.32
+Massachusetts,2,2024,1646.40
+Massachusetts,2,2024,1319.40
+Massachusetts,2,2024,638.70
+Massachusetts,2,2024,1503.16
+Massachusetts,2,2024,936.52
+Massachusetts,2,2024,2643.40
+Massachusetts,2,2024,367.80
+Massachusetts,2,2024,1452.36
+Massachusetts,2,2024,1284.30
+Massachusetts,2,2024,1324.00
+Massachusetts,2,2024,1140.30
+Massachusetts,2,2024,546.75
+Massachusetts,2,2024,1152.00
+Massachusetts,2,2024,730.00
+Massachusetts,2,2024,1096.70
+Massachusetts,2,2024,1008.00
+Massachusetts,2,2024,1646.40
+Massachusetts,2,2024,546.75
+Massachusetts,3,2024,922.24
+Massachusetts,3,2024,1553.20
+Massachusetts,3,2024,2421.64
+Massachusetts,3,2024,1580.56
+Massachusetts,3,2024,2063.82
+Massachusetts,3,2024,2360.74
+Massachusetts,3,2024,1592.12
+Massachusetts,3,2024,219.30
+Massachusetts,3,2024,1924.80
+Massachusetts,3,2024,264.60
+Massachusetts,3,2024,2409.94
+Massachusetts,3,2024,144.40
+Massachusetts,3,2024,1662.42
+Massachusetts,3,2024,263.88
+Massachusetts,3,2024,690.00
+Massachusetts,3,2024,2063.82
+Massachusetts,3,2024,1674.40
+Massachusetts,3,2024,2710.16
+Massachusetts,3,2024,922.24
+Massachusetts,4,2024,1995.16
+Massachusetts,4,2024,1625.00
+Massachusetts,4,2024,911.25
+Massachusetts,4,2024,911.25
+Massachusetts,4,2024,1234.80
+Massachusetts,4,2024,596.00
+Massachusetts,4,2024,132.30
+Massachusetts,4,2024,1058.40
+Massachusetts,4,2024,1340.84
+Massachusetts,4,2024,2273.70
+Massachusetts,4,2024,1078.40
+Massachusetts,4,2024,2216.80
+Massachusetts,4,2024,1297.70
+Massachusetts,4,2024,1454.10
+Massachusetts,4,2024,215.40
+Massachusetts,4,2024,215.40
+Massachusetts,4,2024,708.30
+Massachusetts,4,2024,988.32
+Massachusetts,4,2024,1360.50
+Massachusetts,4,2024,304.80
+Massachusetts,4,2024,2120.00
+Massachusetts,4,2024,724.20
+Massachusetts,4,2024,724.20
+Massachusetts,4,2024,2895.96
+Massachusetts,5,2024,798.60
+Massachusetts,5,2024,1513.80
+Massachusetts,5,2024,2133.24
+Massachusetts,5,2024,926.10
+Massachusetts,5,2024,720.00
+Massachusetts,5,2024,806.00
+Massachusetts,5,2024,3749.90
+Massachusetts,5,2024,412.32
+Massachusetts,5,2024,2440.30
+Massachusetts,5,2024,496.50
+Massachusetts,5,2024,2081.40
+Massachusetts,5,2024,496.50
+Massachusetts,5,2024,793.80
+Massachusetts,5,2024,2074.35
+Massachusetts,5,2024,447.00
+Massachusetts,5,2024,575.20
+Massachusetts,5,2024,617.40
+Massachusetts,5,2024,932.32
+Massachusetts,5,2024,212.32
+Massachusetts,5,2024,1371.24
+Massachusetts,5,2024,720.00
+Massachusetts,5,2024,1933.65
+Massachusetts,5,2024,2312.40
+Massachusetts,5,2024,1705.60
+Massachusetts,5,2024,427.64
+Massachusetts,6,2024,2399.84
+Massachusetts,6,2024,1966.72
+Massachusetts,6,2024,331.00
+Massachusetts,6,2024,1710.56
+Massachusetts,6,2024,706.30
+Massachusetts,6,2024,2186.40
+Massachusetts,6,2024,304.80
+Massachusetts,6,2024,331.00
+Massachusetts,6,2024,665.05
+Massachusetts,6,2024,2387.66
+Massachusetts,6,2024,943.60
+Massachusetts,6,2024,966.30
+Massachusetts,6,2024,1840.04
+Massachusetts,6,2024,1710.56
+Massachusetts,6,2024,661.50
+Massachusetts,6,2024,617.40
+Massachusetts,6,2024,288.80
+Massachusetts,6,2024,288.00
+Massachusetts,6,2024,223.50
+Massachusetts,6,2024,2543.04
+Massachusetts,6,2024,1352.80
+Massachusetts,6,2024,843.75
+Massachusetts,6,2024,1064.80
+Massachusetts,6,2024,288.80
+Massachusetts,6,2024,2111.04
+Massachusetts,7,2024,1058.40
+Massachusetts,7,2024,1649.28
+Massachusetts,7,2024,1723.78
+Massachusetts,7,2024,791.64
+Massachusetts,7,2024,3438.49
+Massachusetts,7,2024,1008.00
+Massachusetts,7,2024,1535.10
+Massachusetts,7,2024,2340.02
+Massachusetts,7,2024,724.20
+Massachusetts,7,2024,1008.00
+Massachusetts,7,2024,4169.22
+Massachusetts,7,2024,798.60
+Massachusetts,7,2024,1058.40
+Massachusetts,7,2024,457.20
+Massachusetts,7,2024,288.00
+Massachusetts,7,2024,3153.20
+Massachusetts,7,2024,411.60
+Massachusetts,7,2024,1535.10
+Massachusetts,7,2024,724.20
+Massachusetts,7,2024,1440.45
+Massachusetts,7,2024,986.40
+Massachusetts,7,2024,362.50
+Massachusetts,7,2024,1058.40
+Massachusetts,7,2024,1649.28
+Massachusetts,8,2024,1447.60
+Massachusetts,8,2024,993.00
+Massachusetts,8,2024,1350.96
+Massachusetts,8,2024,1599.90
+Massachusetts,8,2024,5353.36
+Massachusetts,8,2024,1860.08
+Massachusetts,8,2024,864.00
+Massachusetts,8,2024,1315.80
+Massachusetts,8,2024,864.00
+Massachusetts,8,2024,1834.00
+Massachusetts,8,2024,144.00
+Massachusetts,8,2024,1941.30
+Massachusetts,8,2024,359.00
+Massachusetts,8,2024,359.00
+Massachusetts,8,2024,482.80
+Massachusetts,8,2024,849.28
+Massachusetts,8,2024,762.00
+Massachusetts,8,2024,1919.10
+Massachusetts,8,2024,521.50
+Massachusetts,9,2024,926.10
+Massachusetts,9,2024,223.50
+Massachusetts,9,2024,2685.44
+Massachusetts,9,2024,2922.15
+Massachusetts,9,2024,2533.04
+Massachusetts,9,2024,2374.20
+Massachusetts,9,2024,2784.90
+Massachusetts,9,2024,1315.80
+Massachusetts,9,2024,1058.40
+Massachusetts,9,2024,720.00
+Massachusetts,9,2024,1646.40
+Massachusetts,9,2024,152.40
+Massachusetts,9,2024,926.10
+Massachusetts,9,2024,1010.80
+Massachusetts,9,2024,574.40
+Massachusetts,9,2024,1273.92
+Massachusetts,9,2024,1275.75
+Massachusetts,9,2024,1008.00
+Massachusetts,9,2024,926.10
+Massachusetts,9,2024,223.50
+Massachusetts,10,2024,2523.74
+Massachusetts,10,2024,2518.50
+Massachusetts,10,2024,432.00
+Massachusetts,10,2024,287.20
+Massachusetts,10,2024,1905.40
+Massachusetts,10,2024,219.30
+Massachusetts,10,2024,1055.52
+Massachusetts,10,2024,2408.40
+Massachusetts,10,2024,618.48
+Massachusetts,10,2024,1578.28
+Massachusetts,10,2024,849.28
+Massachusetts,10,2024,1055.52
+Massachusetts,10,2024,3116.00
+Massachusetts,10,2024,1646.40
+Massachusetts,10,2024,1152.00
+Massachusetts,10,2024,1134.60
+Massachusetts,10,2024,496.50
+Massachusetts,10,2024,661.50
+Massachusetts,10,2024,783.70
+Massachusetts,10,2024,762.00
+Massachusetts,10,2024,2115.22
+Massachusetts,10,2024,1374.50
+Massachusetts,10,2024,508.20
+Massachusetts,10,2024,2085.40
+Massachusetts,10,2024,1892.10
+Massachusetts,10,2024,1496.74
+Massachusetts,11,2024,331.00
+Massachusetts,11,2024,2576.96
+Massachusetts,11,2024,1273.92
+Massachusetts,11,2024,1538.52
+Massachusetts,11,2024,2299.60
+Massachusetts,11,2024,2977.44
+Massachusetts,11,2024,1026.60
+Massachusetts,11,2024,438.60
+Massachusetts,11,2024,864.00
+Massachusetts,11,2024,1871.70
+Massachusetts,11,2024,883.30
+Massachusetts,11,2024,287.20
+Massachusetts,11,2024,1234.80
+Massachusetts,11,2024,1430.05
+Massachusetts,11,2024,985.35
+Massachusetts,11,2024,1558.16
+Massachusetts,11,2024,864.00
+Massachusetts,11,2024,117.20
+Massachusetts,11,2024,2372.06
+Massachusetts,11,2024,2317.20
+Massachusetts,11,2024,331.00
+Massachusetts,12,2024,2154.87
+Massachusetts,12,2024,1877.17
+Massachusetts,12,2024,2006.12
+Massachusetts,12,2024,13806.58
+Massachusetts,12,2024,2482.64
+Massachusetts,12,2024,4043.24
+Massachusetts,12,2024,1864.82
+Massachusetts,12,2024,9117.95
+Massachusetts,12,2024,8363.12
+Massachusetts,12,2024,6016.57
+Massachusetts,12,2024,5588.99
+Massachusetts,12,2024,1210.35
+Massachusetts,12,2024,1497.48
+Massachusetts,12,2024,7651.82
+Massachusetts,12,2024,144.08
+Massachusetts,12,2024,2883.60
+Massachusetts,12,2024,7909.97
+Massachusetts,12,2024,1113.24
+Massachusetts,12,2024,13701.11
+Massachusetts,12,2024,3728.95
+Massachusetts,12,2024,4769.21
+Massachusetts,12,2024,9296.15
+Massachusetts,12,2024,1685.49
+Massachusetts,12,2024,1754.15
+Massachusetts,12,2024,2158.52
+Massachusetts,12,2024,5464.99
+Massachusetts,12,2024,10188.87
+Massachusetts,12,2024,7982.73
+Massachusetts,12,2024,2280.10
+Massachusetts,12,2024,1400.21
+Massachusetts,12,2024,2357.85
+Massachusetts,1,2025,1946.14
+Massachusetts,1,2025,1219.20
+Massachusetts,1,2025,1048.90
+Massachusetts,1,2025,1183.16
+Massachusetts,1,2025,283.85
+Massachusetts,1,2025,110.25
+Massachusetts,1,2025,859.50
+Massachusetts,1,2025,334.00
+Massachusetts,1,2025,432.00
+Massachusetts,1,2025,662.00
+Massachusetts,1,2025,2816.18
+Massachusetts,1,2025,1742.56
+Massachusetts,1,2025,1089.90
+Massachusetts,1,2025,3253.96
+Massachusetts,1,2025,283.85
+Massachusetts,1,2025,2346.02
+Massachusetts,1,2025,404.40
+Massachusetts,1,2025,385.00
+Massachusetts,1,2025,205.80
+Massachusetts,1,2025,36.00
+Massachusetts,1,2025,298.00
+Massachusetts,1,2025,1642.21
+Massachusetts,1,2025,404.40
+Massachusetts,1,2025,1219.20
+Massachusetts,1,2025,213.82
+Massachusetts,1,2025,466.64
+Massachusetts,1,2025,665.66
+Massachusetts,1,2025,370.92
+Massachusetts,1,2025,1351.24
+Massachusetts,1,2025,1643.80
+Massachusetts,1,2025,1219.20
+Massachusetts,2,2025,4619.85
+Massachusetts,2,2025,18742.26
+Massachusetts,2,2025,2531.00
+Massachusetts,2,2025,1911.07
+Massachusetts,2,2025,4196.64
+Massachusetts,2,2025,340.00
+Massachusetts,2,2025,360.68
+Massachusetts,2,2025,11324.09
+Massachusetts,2,2025,3459.76
+Massachusetts,2,2025,1054.23
+Massachusetts,2,2025,1179.67
+Massachusetts,2,2025,3321.08
+Massachusetts,2,2025,2685.00
+Massachusetts,2,2025,2878.72
+Massachusetts,2,2025,7417.55
+Massachusetts,2,2025,5660.60
+Massachusetts,2,2025,14517.60
+Massachusetts,2,2025,5697.84
+Massachusetts,2,2025,902.04
+Massachusetts,2,2025,1185.56
+Massachusetts,2,2025,2341.95
+Massachusetts,2,2025,3235.56
+Massachusetts,2,2025,11775.10
+Massachusetts,2,2025,3552.36
+Massachusetts,2,2025,2187.18
+Massachusetts,2,2025,5973.44
+Massachusetts,2,2025,9355.61
+Massachusetts,3,2025,2661.19
+Massachusetts,3,2025,1923.71
+Massachusetts,3,2025,12511.90
+Massachusetts,3,2025,4900.90
+Massachusetts,3,2025,1192.70
+Massachusetts,3,2025,2179.10
+Massachusetts,3,2025,1726.39
+Massachusetts,3,2025,2455.59
+Massachusetts,3,2025,1674.50
+Massachusetts,3,2025,11418.02
+Massachusetts,3,2025,2132.51
+Massachusetts,3,2025,10478.01
+Massachusetts,3,2025,9343.86
+Massachusetts,3,2025,2169.26
+Massachusetts,3,2025,2415.82
+Massachusetts,3,2025,818.79
+Massachusetts,3,2025,1670.14
+Massachusetts,3,2025,2000.46
+Massachusetts,3,2025,1384.60
+Massachusetts,3,2025,1217.32
+Massachusetts,3,2025,8096.10
+Massachusetts,3,2025,11825.98
+Massachusetts,3,2025,12602.85
+Massachusetts,3,2025,13042.61
+Massachusetts,3,2025,2680.99
+Massachusetts,3,2025,1812.56
+Massachusetts,3,2025,2077.84
+Massachusetts,3,2025,2661.51
+Massachusetts,3,2025,2309.60
+Massachusetts,3,2025,1662.13
+Massachusetts,3,2025,13077.97
+Massachusetts,4,2025,8683.64
+Massachusetts,4,2025,12437.32
+Massachusetts,4,2025,2949.28
+Massachusetts,4,2025,9030.14
+Massachusetts,4,2025,5105.67
+Massachusetts,4,2025,4449.46
+Massachusetts,4,2025,14953.26
+Massachusetts,4,2025,4027.07
+Massachusetts,4,2025,19543.24
+Massachusetts,4,2025,19311.24
+Massachusetts,4,2025,19948.28
+Massachusetts,4,2025,2846.72
+Massachusetts,4,2025,7094.66
+Massachusetts,4,2025,4082.65
+Massachusetts,4,2025,2484.11
+Massachusetts,4,2025,5980.35
+Massachusetts,4,2025,6285.00
+Massachusetts,4,2025,11574.69
+Massachusetts,4,2025,7266.49
+Massachusetts,4,2025,2980.74
+Massachusetts,4,2025,5349.38
+Massachusetts,4,2025,9117.23
+Massachusetts,4,2025,5522.41
+Massachusetts,4,2025,4376.47
+Massachusetts,4,2025,4292.54
+Massachusetts,4,2025,4441.96
+Massachusetts,4,2025,15823.29
+Massachusetts,4,2025,6148.30
+Massachusetts,4,2025,8033.94
+Massachusetts,4,2025,13087.02
+Massachusetts,5,2025,5023.20
+Massachusetts,5,2025,2823.87
+Massachusetts,5,2025,8343.87
+Massachusetts,5,2025,7543.48
+Massachusetts,5,2025,1398.52
+Massachusetts,5,2025,6048.02
+Massachusetts,5,2025,9291.82
+Massachusetts,5,2025,2119.50
+Massachusetts,5,2025,4106.94
+Massachusetts,5,2025,4347.33
+Massachusetts,5,2025,4747.16
+Massachusetts,5,2025,9315.81
+Massachusetts,5,2025,3900.95
+Massachusetts,5,2025,5768.16
+Massachusetts,5,2025,2913.69
+Massachusetts,5,2025,4204.80
+Massachusetts,5,2025,4754.87
+Massachusetts,5,2025,9361.76
+Massachusetts,5,2025,3315.62
+Massachusetts,5,2025,5194.99
+Massachusetts,5,2025,3604.14
+Massachusetts,5,2025,2737.74
+Massachusetts,5,2025,3352.68
+Massachusetts,5,2025,1453.77
+Massachusetts,5,2025,4447.94
+Massachusetts,5,2025,7984.48
+Massachusetts,5,2025,5379.20
+Massachusetts,5,2025,6231.10
+Massachusetts,5,2025,8129.08
+Massachusetts,5,2025,2895.16
+Massachusetts,5,2025,4446.27
+Massachusetts,6,2025,8565.86
+Massachusetts,6,2025,7580.75
+Massachusetts,6,2025,32223.98
+Massachusetts,6,2025,14163.11
+Massachusetts,6,2025,8668.48
+Massachusetts,6,2025,9372.31
+Massachusetts,6,2025,5740.70
+Massachusetts,6,2025,2858.31
+Massachusetts,6,2025,15592.79
+Massachusetts,6,2025,9087.24
+Massachusetts,6,2025,9398.41
+Massachusetts,6,2025,17145.33
+Massachusetts,6,2025,5257.51
+Massachusetts,6,2025,9134.14
+Massachusetts,6,2025,16045.78
+Massachusetts,6,2025,19941.52
+Massachusetts,6,2025,8804.43
+Massachusetts,6,2025,14606.05
+Massachusetts,6,2025,6449.70
+Massachusetts,6,2025,12356.35
+Massachusetts,6,2025,21553.89
+Massachusetts,6,2025,25892.44
+Massachusetts,6,2025,12807.88
+Massachusetts,6,2025,13255.47
+Massachusetts,6,2025,4087.33
+Massachusetts,6,2025,8368.19
+Massachusetts,6,2025,35157.98
+Massachusetts,6,2025,4793.79
+Massachusetts,6,2025,9797.79
+Massachusetts,6,2025,6348.82
+Massachusetts,7,2025,4906.10
+Massachusetts,7,2025,4224.12
+Massachusetts,7,2025,6366.07
+Massachusetts,7,2025,2907.30
+Massachusetts,7,2025,4588.02
+Massachusetts,7,2025,6467.38
+Massachusetts,7,2025,12885.26
+Massachusetts,7,2025,7660.24
+Massachusetts,7,2025,7145.23
+Massachusetts,7,2025,12887.02
+Massachusetts,7,2025,13766.21
+Massachusetts,7,2025,9811.69
+Massachusetts,7,2025,2750.48
+Massachusetts,7,2025,32189.19
+Massachusetts,7,2025,4311.02
+Massachusetts,7,2025,1992.06
+Massachusetts,7,2025,8792.04
+Massachusetts,7,2025,4100.41
+Massachusetts,7,2025,8365.05
+Massachusetts,7,2025,3558.89
+Massachusetts,7,2025,3764.27
+Massachusetts,7,2025,5556.43
+Massachusetts,7,2025,7403.42
+Massachusetts,7,2025,3229.44
+Massachusetts,7,2025,5205.03
+Massachusetts,7,2025,6235.96
+Massachusetts,7,2025,8967.91
+Massachusetts,7,2025,9901.85
+Massachusetts,7,2025,2397.87
+Massachusetts,7,2025,4108.47
+Massachusetts,7,2025,8932.11
+Massachusetts,8,2025,728.42
+Massachusetts,8,2025,4265.04
+Massachusetts,8,2025,23082.38
+Massachusetts,8,2025,2678.84
+Massachusetts,8,2025,13368.36
+Massachusetts,8,2025,2094.17
+Massachusetts,8,2025,1131.58
+Massachusetts,8,2025,1842.72
+Massachusetts,8,2025,4868.28
+Massachusetts,8,2025,7310.59
+Massachusetts,8,2025,2070.41
+Massachusetts,8,2025,7066.19
+Massachusetts,8,2025,2503.26
+Massachusetts,8,2025,3415.07
+Massachusetts,8,2025,4452.71
+Massachusetts,8,2025,1333.08
+Massachusetts,8,2025,3221.00
+Massachusetts,8,2025,3084.64
+Massachusetts,8,2025,21809.74
+Massachusetts,8,2025,10204.95
+Massachusetts,8,2025,4946.78
+Massachusetts,8,2025,5223.33
+Massachusetts,8,2025,9915.62
+Massachusetts,8,2025,2934.42
+Massachusetts,8,2025,2249.08
+Massachusetts,8,2025,4590.95
+Massachusetts,8,2025,2478.72
+Massachusetts,8,2025,17357.78
+Massachusetts,8,2025,22795.38
+Massachusetts,8,2025,12482.98
+Massachusetts,8,2025,2708.28
+Massachusetts,9,2025,1337.06
+Massachusetts,9,2025,7208.09
+Massachusetts,9,2025,5272.92
+Massachusetts,9,2025,4589.51
+Massachusetts,9,2025,2540.88
+Massachusetts,9,2025,1821.16
+Massachusetts,9,2025,9019.56
+Massachusetts,9,2025,6706.23
+Massachusetts,9,2025,1080.29
+Massachusetts,9,2025,2511.21
+Massachusetts,9,2025,2665.32
+Massachusetts,9,2025,1603.60
+Massachusetts,9,2025,12911.61
+Massachusetts,9,2025,4720.37
+Massachusetts,9,2025,1908.77
+Massachusetts,9,2025,4793.06
+Massachusetts,9,2025,6833.44
+Massachusetts,9,2025,7043.79
+Massachusetts,9,2025,3281.48
+Massachusetts,9,2025,16602.21
+Massachusetts,9,2025,1837.62
+Massachusetts,9,2025,4943.07
+Massachusetts,9,2025,5329.31
+Massachusetts,9,2025,3351.68
+Massachusetts,9,2025,7039.48
+Massachusetts,9,2025,10143.04
+Massachusetts,9,2025,14552.64
+Massachusetts,9,2025,6356.18
+Massachusetts,9,2025,1658.43
+Massachusetts,9,2025,6886.72
+Massachusetts,10,2025,15711.26
+Massachusetts,10,2025,3925.16
+Massachusetts,10,2025,24135.62
+Massachusetts,10,2025,14875.89
+Massachusetts,10,2025,6413.93
+Massachusetts,10,2025,7361.42
+Massachusetts,10,2025,10129.98
+Massachusetts,10,2025,11588.64
+Massachusetts,10,2025,7043.60
+Massachusetts,10,2025,3786.89
+Massachusetts,10,2025,7083.94
+Massachusetts,10,2025,11609.93
+Massachusetts,10,2025,14919.72
+Massachusetts,10,2025,13954.80
+Massachusetts,10,2025,11214.16
+Massachusetts,10,2025,12980.28
+Massachusetts,10,2025,9144.65
+Massachusetts,10,2025,13482.62
+Massachusetts,10,2025,12509.37
+Massachusetts,10,2025,1992.12
+Massachusetts,10,2025,6649.12
+Massachusetts,10,2025,16854.64
+Massachusetts,10,2025,15908.66
+Massachusetts,10,2025,12226.51
+Massachusetts,10,2025,6803.97
+Massachusetts,10,2025,2742.21
+Massachusetts,10,2025,17317.92
+Massachusetts,10,2025,16230.51
+Massachusetts,10,2025,19705.46
+Massachusetts,10,2025,17857.44
+Massachusetts,10,2025,6209.14
+Massachusetts,11,2025,5950.80
+Massachusetts,11,2025,1611.55
+Massachusetts,11,2025,3387.49
+Massachusetts,11,2025,2579.98
+Massachusetts,11,2025,8491.05
+Massachusetts,11,2025,6683.13
+Massachusetts,11,2025,913.04
+Massachusetts,11,2025,8480.34
+Massachusetts,11,2025,7933.02
+Massachusetts,11,2025,5130.46
+Massachusetts,11,2025,1700.99
+Massachusetts,11,2025,3226.97
+Massachusetts,11,2025,3703.91
+Massachusetts,11,2025,6892.99
+Massachusetts,11,2025,3208.62
+Massachusetts,11,2025,11762.33
+Massachusetts,11,2025,2189.98
+Massachusetts,11,2025,7509.74
+Massachusetts,11,2025,4746.40
+Massachusetts,11,2025,4738.06
+Massachusetts,11,2025,3916.75
+Massachusetts,11,2025,5790.70
+Massachusetts,11,2025,12728.68
+Massachusetts,11,2025,10191.42
+Massachusetts,11,2025,6232.00
+Massachusetts,11,2025,2416.46
+Massachusetts,11,2025,3512.40
+Massachusetts,11,2025,4240.54
+Massachusetts,11,2025,1079.45
+Massachusetts,11,2025,6482.90
+Massachusetts,12,2025,2592.22
+Massachusetts,12,2025,11829.54
+Massachusetts,12,2025,6849.60
+Massachusetts,12,2025,6567.95
+Massachusetts,12,2025,3005.56
+Massachusetts,12,2025,5798.45
+Massachusetts,12,2025,9141.93
+Massachusetts,12,2025,6334.86
+Massachusetts,12,2025,4364.62
+Massachusetts,12,2025,6822.91
+Massachusetts,12,2025,6123.82
+Massachusetts,12,2025,9631.18
+Massachusetts,12,2025,4810.77
+Massachusetts,12,2025,1097.46
+Massachusetts,12,2025,18242.29
+Massachusetts,12,2025,5396.81
+Massachusetts,12,2025,11229.42
+Massachusetts,12,2025,966.06
+Massachusetts,12,2025,9883.42
+Massachusetts,12,2025,5439.08
+Massachusetts,12,2025,15623.69
+Massachusetts,12,2025,3226.66
+Massachusetts,12,2025,8111.11
+Massachusetts,12,2025,4796.66
+Massachusetts,12,2025,3348.98
+Massachusetts,12,2025,2880.40
+Massachusetts,12,2025,6103.04
+Massachusetts,12,2025,7654.38
+Massachusetts,12,2025,7696.70
+Massachusetts,12,2025,4660.08
+Massachusetts,12,2025,8914.58
+"New Jersey",2,2022,72.30
+"New Jersey",2,2022,1443.12
+"New Jersey",2,2022,1443.12
+"New Jersey",2,2022,1448.40
+"New Jersey",2,2022,1520.70
+"New Jersey",3,2022,465.00
+"New Jersey",3,2022,289.20
+"New Jersey",3,2022,824.64
+"New Jersey",3,2022,1931.20
+"New Jersey",3,2022,1931.20
+"New Jersey",3,2022,641.46
+"New Jersey",3,2022,1430.00
+"New Jersey",3,2022,1430.00
+"New Jersey",3,2022,1106.46
+"New Jersey",3,2022,1113.84
+"New Jersey",3,2022,465.00
+"New Jersey",4,2022,2111.04
+"New Jersey",4,2022,724.20
+"New Jersey",4,2022,108.45
+"New Jersey",4,2022,2145.00
+"New Jersey",4,2022,775.00
+"New Jersey",4,2022,412.32
+"New Jersey",4,2022,108.45
+"New Jersey",4,2022,427.64
+"New Jersey",4,2022,2920.00
+"New Jersey",4,2022,2111.04
+"New Jersey",4,2022,412.32
+"New Jersey",4,2022,724.20
+"New Jersey",5,2022,662.00
+"New Jersey",5,2022,1830.52
+"New Jersey",5,2022,289.20
+"New Jersey",5,2022,824.64
+"New Jersey",5,2022,824.64
+"New Jersey",5,2022,720.00
+"New Jersey",5,2022,660.82
+"New Jersey",5,2022,2740.20
+"New Jersey",5,2022,5298.00
+"New Jersey",5,2022,2351.80
+"New Jersey",5,2022,1221.82
+"New Jersey",5,2022,720.00
+"New Jersey",5,2022,2009.80
+"New Jersey",5,2022,4290.00
+"New Jersey",5,2022,1058.40
+"New Jersey",5,2022,2745.32
+"New Jersey",5,2022,662.00
+"New Jersey",6,2022,1380.96
+"New Jersey",6,2022,798.60
+"New Jersey",6,2022,2145.00
+"New Jersey",6,2022,427.64
+"New Jersey",6,2022,3138.00
+"New Jersey",6,2022,993.00
+"New Jersey",6,2022,620.00
+"New Jersey",6,2022,798.60
+"New Jersey",6,2022,216.90
+"New Jersey",6,2022,1381.40
+"New Jersey",6,2022,617.40
+"New Jersey",6,2022,1236.96
+"New Jersey",6,2022,427.64
+"New Jersey",10,2023,3493.24
+"New Jersey",10,2023,718.86
+"New Jersey",10,2023,28.00
+"New Jersey",10,2023,19.48
+"New Jersey",10,2023,718.86
+"New Jersey",10,2023,57.84
+"New Jersey",10,2023,7982.38
+"New Jersey",10,2023,7906.20
+"New Jersey",10,2023,28.00
+"New Jersey",10,2023,3492.10
+"New Jersey",10,2023,4154.26
+"New Jersey",10,2023,57.84
+"New Jersey",11,2023,2896.88
+"New Jersey",11,2023,2978.09
+"New Jersey",11,2023,7204.43
+"New Jersey",11,2023,3967.72
+"New Jersey",11,2023,1371.49
+"New Jersey",11,2023,6432.03
+"New Jersey",11,2023,2293.71
+"New Jersey",11,2023,10396.65
+"New Jersey",11,2023,14700.88
+"New Jersey",11,2023,11295.58
+"New Jersey",11,2023,11190.70
+"New Jersey",11,2023,9056.21
+"New Jersey",11,2023,10912.47
+"New Jersey",11,2023,12026.96
+"New Jersey",11,2023,5813.46
+"New Jersey",11,2023,5053.31
+"New Jersey",11,2023,12118.99
+"New Jersey",11,2023,6515.85
+"New Jersey",11,2023,5281.45
+"New Jersey",11,2023,749.67
+"New Jersey",11,2023,2196.31
+"New Jersey",11,2023,10508.24
+"New Jersey",11,2023,3773.24
+"New Jersey",11,2023,9347.42
+"New Jersey",11,2023,7182.56
+"New Jersey",11,2023,5891.84
+"New Jersey",11,2023,2913.56
+"New Jersey",11,2023,1120.02
+"New Jersey",11,2023,2151.60
+"New Jersey",11,2023,3723.37
+"New Jersey",12,2023,792.81
+"New Jersey",12,2023,6790.82
+"New Jersey",12,2023,11323.95
+"New Jersey",12,2023,417.82
+"New Jersey",12,2023,534.24
+"New Jersey",12,2023,12609.80
+"New Jersey",12,2023,3191.57
+"New Jersey",12,2023,1781.08
+"New Jersey",12,2023,8723.59
+"New Jersey",12,2023,194.80
+"New Jersey",12,2023,1182.79
+"New Jersey",12,2023,8572.03
+"New Jersey",12,2023,20889.81
+"New Jersey",12,2023,2506.78
+"New Jersey",12,2023,1787.74
+"New Jersey",12,2023,9327.19
+"New Jersey",12,2023,661.66
+"New Jersey",12,2023,490.79
+"New Jersey",12,2023,1688.75
+"New Jersey",12,2023,6679.53
+"New Jersey",12,2023,9338.05
+"New Jersey",12,2023,1278.26
+"New Jersey",12,2023,153.90
+"New Jersey",12,2023,3590.99
+"New Jersey",12,2023,4820.95
+"New Jersey",12,2023,238.04
+"New Jersey",12,2023,3201.84
+"New Jersey",12,2023,5503.62
+"New Jersey",12,2023,4987.18
+"New Jersey",12,2023,3187.54
+"New Jersey",12,2023,10732.86
+"New Jersey",1,2024,4188.55
+"New Jersey",1,2024,1015.36
+"New Jersey",1,2024,3109.74
+"New Jersey",1,2024,4159.82
+"New Jersey",1,2024,2312.30
+"New Jersey",1,2024,11852.57
+"New Jersey",1,2024,233.09
+"New Jersey",1,2024,22352.87
+"New Jersey",1,2024,2068.00
+"New Jersey",1,2024,7823.72
+"New Jersey",1,2024,1932.66
+"New Jersey",1,2024,413.14
+"New Jersey",1,2024,1798.02
+"New Jersey",1,2024,4393.65
+"New Jersey",1,2024,12480.85
+"New Jersey",1,2024,1434.87
+"New Jersey",1,2024,2250.27
+"New Jersey",1,2024,4407.35
+"New Jersey",1,2024,3254.12
+"New Jersey",1,2024,1068.39
+"New Jersey",1,2024,7637.11
+"New Jersey",1,2024,8174.86
+"New Jersey",1,2024,2471.33
+"New Jersey",1,2024,89.60
+"New Jersey",1,2024,3233.30
+"New Jersey",1,2024,726.70
+"New Jersey",1,2024,5688.47
+"New Jersey",1,2024,8929.61
+"New Jersey",1,2024,773.80
+"New Jersey",1,2024,6654.20
+"New Jersey",1,2024,318.95
+"New Jersey",11,2024,56.70
+"New Jersey",11,2024,28.00
+"New Jersey",11,2024,57.84
+"New Jersey",11,2024,718.86
+"New Jersey",11,2024,3435.40
+"New Jersey",11,2024,19.48
+"New Jersey",11,2024,3492.10
+"New Jersey",11,2024,7953.68
+"New Jersey",11,2024,718.86
+"New Jersey",11,2024,7906.20
+"New Jersey",11,2024,57.84
+"New Jersey",11,2024,56.70
+"New Jersey",12,2024,961.03
+"New Jersey",12,2024,12151.57
+"New Jersey",12,2024,1611.89
+"New Jersey",12,2024,13004.44
+"New Jersey",12,2024,4564.17
+"New Jersey",12,2024,14205.73
+"New Jersey",12,2024,9748.40
+"New Jersey",12,2024,13524.97
+"New Jersey",12,2024,2251.55
+"New Jersey",12,2024,1629.01
+"New Jersey",12,2024,6148.58
+"New Jersey",12,2024,7308.20
+"New Jersey",12,2024,10725.66
+"New Jersey",12,2024,6723.49
+"New Jersey",12,2024,2619.44
+"New Jersey",12,2024,2560.05
+"New Jersey",12,2024,3291.97
+"New Jersey",12,2024,4553.90
+"New Jersey",12,2024,2777.23
+"New Jersey",12,2024,7413.96
+"New Jersey",12,2024,4781.60
+"New Jersey",12,2024,10242.08
+"New Jersey",12,2024,2637.94
+"New Jersey",12,2024,2935.57
+"New Jersey",12,2024,1481.37
+"New Jersey",12,2024,10771.40
+"New Jersey",12,2024,14610.38
+"New Jersey",12,2024,9798.02
+"New Jersey",12,2024,6897.57
+"New Jersey",12,2024,3722.79
+"New Jersey",12,2024,4104.13
+"New Jersey",1,2025,3911.52
+"New Jersey",1,2025,376.05
+"New Jersey",1,2025,2320.06
+"New Jersey",1,2025,1312.41
+"New Jersey",1,2025,2595.48
+"New Jersey",1,2025,6675.28
+"New Jersey",1,2025,1434.16
+"New Jersey",1,2025,7775.70
+"New Jersey",1,2025,2647.83
+"New Jersey",1,2025,10894.27
+"New Jersey",1,2025,10877.10
+"New Jersey",1,2025,2259.38
+"New Jersey",1,2025,2795.04
+"New Jersey",1,2025,4834.22
+"New Jersey",1,2025,2194.66
+"New Jersey",1,2025,537.88
+"New Jersey",1,2025,3784.60
+"New Jersey",1,2025,8472.56
+"New Jersey",1,2025,560.28
+"New Jersey",1,2025,11077.97
+"New Jersey",1,2025,10322.04
+"New Jersey",1,2025,4188.53
+"New Jersey",1,2025,11071.69
+"New Jersey",1,2025,860.50
+"New Jersey",1,2025,1629.70
+"New Jersey",1,2025,3680.57
+"New Jersey",1,2025,1950.01
+"New Jersey",1,2025,885.41
+"New Jersey",1,2025,2950.25
+"New Jersey",1,2025,2510.88
+"New Jersey",1,2025,1146.50
+"New Jersey",2,2025,72.24
+"New Jersey",2,2025,1535.19
+"New Jersey",2,2025,3471.98
+"New Jersey",2,2025,651.28
+"New Jersey",2,2025,741.96
+"New Jersey",2,2025,6722.93
+"New Jersey",2,2025,12131.28
+"New Jersey",2,2025,9632.70
+"New Jersey",2,2025,10907.88
+"New Jersey",2,2025,5342.88
+"New Jersey",2,2025,974.38
+"New Jersey",2,2025,1407.26
+"New Jersey",2,2025,8416.44
+"New Jersey",2,2025,6200.00
+"New Jersey",2,2025,11257.05
+"New Jersey",2,2025,2906.48
+"New Jersey",2,2025,2165.58
+"New Jersey",2,2025,1702.07
+"New Jersey",2,2025,9189.07
+"New Jersey",2,2025,5775.52
+"New Jersey",2,2025,1692.28
+"New Jersey",2,2025,2161.62
+"New Jersey",2,2025,2208.40
+"New Jersey",2,2025,1168.16
+"New Jersey",2,2025,259.04
+"New Jersey",2,2025,3395.85
+"New Jersey",2,2025,1416.66
+"New Jersey",2,2025,5029.00
+"New Jersey",3,2025,969.42
+"New Jersey",3,2025,1440.60
+"New Jersey",3,2025,271.16
+"New Jersey",3,2025,2306.05
+"New Jersey",3,2025,12.00
+"New Jersey",3,2025,652.02
+"New Jersey",3,2025,148.36
+"New Jersey",3,2025,57.12
+"New Jersey",3,2025,835.66
+"New Jersey",3,2025,767.24
+"New Jersey",3,2025,1579.04
+"New Jersey",3,2025,1062.00
+"New Jersey",3,2025,585.90
+"New Jersey",3,2025,1311.07
+"New Jersey",3,2025,4135.80
+"New Jersey",3,2025,2265.13
+"New Jersey",3,2025,2423.80
+"New Jersey",3,2025,875.40
+"New Jersey",3,2025,1328.88
+"New Jersey",3,2025,969.42
+"New Jersey",3,2025,1440.60
+"New Jersey",4,2025,8978.09
+"New Jersey",4,2025,989.69
+"New Jersey",4,2025,2157.72
+"New Jersey",4,2025,11255.27
+"New Jersey",4,2025,9469.73
+"New Jersey",4,2025,320.44
+"New Jersey",4,2025,2566.48
+"New Jersey",4,2025,741.82
+"New Jersey",4,2025,378.91
+"New Jersey",4,2025,12277.70
+"New Jersey",4,2025,370.07
+"New Jersey",4,2025,350.83
+"New Jersey",4,2025,2651.05
+"New Jersey",4,2025,10505.96
+"New Jersey",4,2025,1173.70
+"New Jersey",4,2025,7045.59
+"New Jersey",4,2025,13149.09
+"New Jersey",4,2025,392.63
+"New Jersey",4,2025,1318.64
+"New Jersey",4,2025,868.79
+"New Jersey",4,2025,2121.31
+"New Jersey",4,2025,4312.56
+"New Jersey",4,2025,566.07
+"New Jersey",4,2025,12530.15
+"New Jersey",4,2025,436.42
+"New Jersey",4,2025,540.31
+"New Jersey",4,2025,1472.64
+"New Jersey",4,2025,530.78
+"New Jersey",4,2025,9359.05
+"New Jersey",4,2025,523.89
+"New Jersey",5,2025,7503.25
+"New Jersey",5,2025,880.44
+"New Jersey",5,2025,2624.20
+"New Jersey",5,2025,5866.67
+"New Jersey",5,2025,1438.88
+"New Jersey",5,2025,4743.56
+"New Jersey",5,2025,8644.70
+"New Jersey",5,2025,1256.51
+"New Jersey",5,2025,1646.28
+"New Jersey",5,2025,12709.10
+"New Jersey",5,2025,11740.68
+"New Jersey",5,2025,7807.89
+"New Jersey",5,2025,8709.99
+"New Jersey",5,2025,12054.95
+"New Jersey",5,2025,8756.43
+"New Jersey",5,2025,1122.80
+"New Jersey",5,2025,9516.99
+"New Jersey",5,2025,2111.16
+"New Jersey",5,2025,11186.58
+"New Jersey",5,2025,3712.12
+"New Jersey",5,2025,2240.44
+"New Jersey",5,2025,4611.66
+"New Jersey",5,2025,8267.48
+"New Jersey",5,2025,17024.13
+"New Jersey",5,2025,5442.38
+"New Jersey",5,2025,10541.42
+"New Jersey",5,2025,9354.78
+"New Jersey",5,2025,3543.47
+"New Jersey",5,2025,2540.13
+"New Jersey",5,2025,338.02
+"New Jersey",5,2025,8129.74
+"New Jersey",6,2025,3163.24
+"New Jersey",6,2025,1859.20
+"New Jersey",6,2025,1086.70
+"New Jersey",6,2025,1119.00
+"New Jersey",6,2025,1403.70
+"New Jersey",6,2025,423.20
+"New Jersey",6,2025,1006.96
+"New Jersey",6,2025,137.60
+"New Jersey",6,2025,1276.64
+"New Jersey",6,2025,4102.70
+"New Jersey",6,2025,4303.30
+"New Jersey",6,2025,738.20
+"New Jersey",6,2025,57.70
+"New Jersey",6,2025,804.20
+"New Jersey",6,2025,3073.36
+"New Jersey",6,2025,1086.70
+"New Jersey",6,2025,288.50
+"New Jersey",6,2025,2874.74
+"New Jersey",7,2025,9362.66
+"New Jersey",7,2025,10974.02
+"New Jersey",7,2025,2781.43
+"New Jersey",7,2025,7446.25
+"New Jersey",7,2025,3689.13
+"New Jersey",7,2025,10269.91
+"New Jersey",7,2025,738.79
+"New Jersey",7,2025,22081.46
+"New Jersey",7,2025,9952.31
+"New Jersey",7,2025,3444.20
+"New Jersey",7,2025,2615.52
+"New Jersey",7,2025,7600.68
+"New Jersey",7,2025,2556.58
+"New Jersey",7,2025,8934.10
+"New Jersey",7,2025,8357.58
+"New Jersey",7,2025,10656.97
+"New Jersey",7,2025,10468.42
+"New Jersey",7,2025,2228.50
+"New Jersey",7,2025,9986.71
+"New Jersey",7,2025,6945.48
+"New Jersey",7,2025,14091.64
+"New Jersey",7,2025,4024.70
+"New Jersey",7,2025,5251.44
+"New Jersey",7,2025,4221.62
+"New Jersey",7,2025,2092.02
+"New Jersey",7,2025,2354.92
+"New Jersey",7,2025,9491.17
+"New Jersey",7,2025,1231.80
+"New Jersey",7,2025,11917.27
+"New Jersey",7,2025,1112.72
+"New Jersey",7,2025,10088.12
+"New Jersey",8,2025,1533.09
+"New Jersey",8,2025,1578.01
+"New Jersey",8,2025,2473.44
+"New Jersey",8,2025,2429.16
+"New Jersey",8,2025,6629.31
+"New Jersey",8,2025,12591.24
+"New Jersey",8,2025,272.52
+"New Jersey",8,2025,10869.71
+"New Jersey",8,2025,5775.38
+"New Jersey",8,2025,10228.80
+"New Jersey",8,2025,5025.56
+"New Jersey",8,2025,4267.16
+"New Jersey",8,2025,10878.66
+"New Jersey",8,2025,14685.37
+"New Jersey",8,2025,6594.37
+"New Jersey",8,2025,4147.63
+"New Jersey",8,2025,4634.56
+"New Jersey",8,2025,2811.78
+"New Jersey",8,2025,3238.41
+"New Jersey",8,2025,3157.07
+"New Jersey",8,2025,3942.63
+"New Jersey",8,2025,4282.73
+"New Jersey",8,2025,5795.05
+"New Jersey",8,2025,11325.33
+"New Jersey",8,2025,2863.58
+"New Jersey",8,2025,3013.14
+"New Jersey",8,2025,1702.13
+"New Jersey",8,2025,1305.91
+"New Jersey",8,2025,920.15
+"New Jersey",8,2025,2533.14
+"New Jersey",8,2025,2131.25
+"New Jersey",9,2025,4373.84
+"New Jersey",9,2025,7492.40
+"New Jersey",9,2025,1973.83
+"New Jersey",9,2025,19021.79
+"New Jersey",9,2025,17465.14
+"New Jersey",9,2025,2277.36
+"New Jersey",9,2025,15462.70
+"New Jersey",9,2025,961.39
+"New Jersey",9,2025,22263.30
+"New Jersey",9,2025,5302.37
+"New Jersey",9,2025,6150.42
+"New Jersey",9,2025,3736.01
+"New Jersey",9,2025,1967.36
+"New Jersey",9,2025,7092.17
+"New Jersey",9,2025,21388.01
+"New Jersey",9,2025,5962.40
+"New Jersey",9,2025,8964.68
+"New Jersey",9,2025,1893.26
+"New Jersey",9,2025,3278.69
+"New Jersey",9,2025,18380.46
+"New Jersey",9,2025,4997.59
+"New Jersey",9,2025,5671.83
+"New Jersey",9,2025,4301.96
+"New Jersey",9,2025,7162.40
+"New Jersey",9,2025,2305.30
+"New Jersey",9,2025,10066.46
+"New Jersey",9,2025,4566.39
+"New Jersey",9,2025,12069.00
+"New Jersey",9,2025,7378.19
+"New Jersey",9,2025,3427.77
+"New Jersey",10,2025,585.90
+"New Jersey",10,2025,1077.84
+"New Jersey",10,2025,390.60
+"New Jersey",10,2025,4093.59
+"New Jersey",10,2025,374.50
+"New Jersey",10,2025,609.60
+"New Jersey",10,2025,2754.16
+"New Jersey",10,2025,1041.12
+"New Jersey",10,2025,155.60
+"New Jersey",10,2025,609.60
+"New Jersey",10,2025,1714.56
+"New Jersey",10,2025,855.28
+"New Jersey",10,2025,1346.22
+"New Jersey",10,2025,614.12
+"New Jersey",10,2025,233.92
+"New Jersey",10,2025,962.06
+"New Jersey",10,2025,134.56
+"New Jersey",10,2025,1414.29
+"New Jersey",10,2025,611.05
+"New Jersey",10,2025,1086.70
+"New Jersey",10,2025,2322.69
+"New Jersey",10,2025,786.40
+"New Jersey",10,2025,1663.74
+"New Jersey",10,2025,390.60
+"New Jersey",12,2025,3354.34
+"New Jersey",12,2025,9779.60
+"New Jersey",12,2025,4731.83
+"New Jersey",12,2025,2416.88
+"New Jersey",12,2025,2273.50
+"New Jersey",12,2025,5280.87
+"New Jersey",12,2025,2333.54
+"New Jersey",12,2025,4533.28
+"New Jersey",12,2025,10942.34
+"New Jersey",12,2025,4035.87
+"New Jersey",12,2025,12323.61
+"New Jersey",12,2025,11077.86
+"New Jersey",12,2025,3441.50
+"New Jersey",12,2025,11872.23
+"New Jersey",12,2025,3466.06
+"New Jersey",12,2025,9357.85
+"New Jersey",12,2025,2398.63
+"New Jersey",12,2025,4123.96
+"New Jersey",12,2025,5119.05
+"New Jersey",12,2025,4833.28
+"New Jersey",12,2025,3816.92
+"New Jersey",12,2025,10321.36
+"New Jersey",12,2025,793.81
+"New Jersey",12,2025,4284.04
+"New Jersey",12,2025,7751.64
+"New Jersey",12,2025,2551.06
+"New Jersey",12,2025,4143.79
+"New Jersey",12,2025,3780.88
+"New Jersey",12,2025,1927.45
+"New Jersey",12,2025,1061.97
+"New Jersey",12,2025,14876.35
